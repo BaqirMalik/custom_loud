@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates id="as_tabs_templates">
+    <t t-name="theme_avid.tabs_1">
+        <div class="col-md-3">
+            <div class="e_sb_snnippet_box">
+                <div class="img">
+                    <img src="/theme_avid/static/src/img/snippets/snippets_icon/tabs-1.jpg" />
+                </div>
+                <div class="snippet-as">
+                    <textarea class="sr-only snippet-textarea">
+                        <section class="s_tabs pt48 pb48 o_colored_level tabs-design-1" data-vcss="001" data-snippet="s_tabs" data-name="Tabs" style="background-image: none;">
+                           <div class="container">
+                             <div class="s_tabs_main">
+                               <div class="s_tabs_nav mb-3 nav-justified">
+                                 <ul class="nav nav-pills" role="tablist">
+                                   <li class="nav-item">
+                                     <a class="nav-link active" id="nav_tabs_content_1_tab" data-bs-toggle="tab" href="#nav_tabs_content_1" role="tab" aria-controls="nav_tabs_content_1" aria-selected="true">
+                                       <div class="mb-2">
+                                         <i class="fa fa-comments-o fa-3x"></i>
+                                       </div>Discussion
+                                     </a>
+                                   </li>
+                                   <li class="nav-item">
+                                     <a class="nav-link" id="nav_tabs_content_2_tab" data-bs-toggle="tab" href="#nav_tabs_content_2" role="tab" aria-controls="nav_tabs_content_2" aria-selected="false">
+                                       <div class="mb-2">
+                                         <i class="fa fa-3x fa-pencil fa-3x"></i>
+                                       </div>Creative Concept
+                                     </a>
+                                   </li>
+                                   <li class="nav-item">
+                                     <a class="nav-link" id="nav_tabs_content_3_tab" data-bs-toggle="tab" href="#nav_tabs_content_3" role="tab" aria-controls="nav_tabs_content_3" aria-selected="false">
+                                       <div class="mb-2">
+                                         <i class="fa fa-volume-up fa-3x"></i>
+                                       </div>Production
+                                     </a>
+                                   </li>
+                                   <li class="nav-item">
+                                     <a class="nav-link" id="nav_tabs_content_4_tab" data-bs-toggle="tab" href="#nav_tabs_content_4" role="tab" aria-controls="nav_tabs_content_4" aria-selected="false">
+                                       <div class="mb-2">
+                                         <i class="fa fa-heart fa-3x"></i>
+                                       </div>Happy Client
+                                     </a>
+                                   </li>
+                                 </ul>
+                               </div>
+                               <div class="s_tabs_content tab-content">
+                                 <div class="tab-pane fade active show" id="nav_tabs_content_1" role="tabpanel" aria-labelledby="nav_tabs_content_1_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                       <div class="container s_allow_columns">
+                                         <div class="row align-items-center justify-content-lg-between">
+                                           <div class="col-lg-6 text-center pb16 pt16">
+                                             <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                           </div>
+                                           <div class="col-lg-5 pb16 pt16">
+                                             <h1 class="mb-0">Welcome to New Theme</h1>
+                                             <h1 class="mb-3">
+                                               <font style="" class="text-o-color-1">
+                                                 <u>Digital Marketing</u>
+                                               </font>
+                                             </h1>
+                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                             <div class="row">
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Mobile Friendly</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Multiple Layouts</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                             </div>
+                                             <a href="#" class="btn btn-primary">More About</a>
+                                           </div>
+                                         </div>
+                                       </div>
+                                     </section>
+                                   </div>
+                                 </div>
+                                 <div class="tab-pane fade" id="nav_tabs_content_2" role="tabpanel" aria-labelledby="nav_tabs_content_2_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                       <div class="container s_allow_columns">
+                                         <div class="row align-items-center justify-content-lg-between">
+                                           <div class="col-lg-5 pb16 pt16">
+                                             <h1 class="mb-0">Welcome to New Theme</h1>
+                                             <h1 class="mb-3">
+                                               <font style="" class="text-o-color-1">
+                                                 <u>Digital Marketing</u>
+                                               </font>
+                                             </h1>
+                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                             <div class="row">
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Mobile Friendly</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Multiple Layouts</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                             </div>
+                                             <a href="#" class="btn btn-primary">More About</a>
+                                           </div>
+                                           <div class="col-lg-6 text-center pb16 pt16">
+                                             <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                           </div>
+                                         </div>
+                                       </div>
+                                     </section>
+                                   </div>
+                                 </div>
+                                 <div class="tab-pane fade" id="nav_tabs_content_3" role="tabpanel" aria-labelledby="nav_tabs_content_3_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                       <div class="container s_allow_columns">
+                                         <div class="row align-items-center justify-content-lg-between">
+                                           <div class="col-lg-6 text-center pb16 pt16">
+                                             <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                           </div>
+                                           <div class="col-lg-5 pb16 pt16">
+                                             <h1 class="mb-0">Welcome to New Theme</h1>
+                                             <h1 class="mb-3">
+                                               <font style="" class="text-o-color-1">
+                                                 <u>Digital Marketing</u>
+                                               </font>
+                                             </h1>
+                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                             <div class="row">
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Mobile Friendly</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Multiple Layouts</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                             </div>
+                                             <a href="#" class="btn btn-primary">More About</a>
+                                           </div>
+                                         </div>
+                                       </div>
+                                     </section>
+                                   </div>
+                                 </div>
+                                 <div class="tab-pane fade" id="nav_tabs_content_4" role="tabpanel" aria-labelledby="nav_tabs_content_4_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                       <div class="container s_allow_columns">
+                                         <div class="row align-items-center justify-content-lg-between">
+                                           <div class="col-lg-5 pb16 pt16">
+                                             <h1 class="mb-0">Welcome to New Theme</h1>
+                                             <h1 class="mb-3">
+                                               <font style="" class="text-o-color-1">
+                                                 <u>Digital Marketing</u>
+                                               </font>
+                                             </h1>
+                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                             <div class="row">
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Mobile Friendly</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Multiple Layouts</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                             </div>
+                                             <a href="#" class="btn btn-primary">More About</a>
+                                           </div>
+                                           <div class="col-lg-6 text-center pb16 pt16">
+                                             <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                           </div>
+                                         </div>
+                                       </div>
+                                     </section>
+                                   </div>
+                                 </div>
+                               </div>
+                             </div>
+                           </div>
+                        </section>
+                    </textarea>
+                    <h6>Tabs 1</h6>
+                    <label class="e-sb-label" for="e_tabs_01"><input id="e_tabs_01" name="radio-snippet" type="radio" /><span /></label>
+                </div>
+            </div>
+        </div>
+    </t>
+    <t t-name="theme_avid.tabs_2">
+        <div class="col-md-3">
+            <div class="e_sb_snnippet_box">
+                <div class="img">
+                    <img src="/theme_avid/static/src/img/snippets/snippets_icon/tabs-2.jpg" />
+                </div>
+                <div class="snippet-as">
+                    <textarea class="sr-only snippet-textarea">
+                        <section class="s_tabs pt48 pb48 o_colored_level tabs-design-3" data-vcss="001" data-snippet="s_tabs" data-name="Tabs" style="background-image: none;">
+                           <div class="container">
+                             <div class="s_tabs_main">
+                               <div class="s_tabs_nav mb-3 nav-justified">
+                                 <ul class="nav nav-pills shadow-lg" role="tablist">
+                                   <li class="nav-item">
+                                     <a class="nav-link active" id="nav2_tabs_content_1_tab" data-bs-toggle="tab" href="#nav2_tabs_content_1" role="tab" aria-controls="nav2_tabs_content_1" aria-selected="true">
+                                       <div class="mb-2">
+                                         <i class="fa fa-comments-o fa-3x"></i>
+                                       </div>Discussion
+                                     </a>
+                                   </li>
+                                   <li class="nav-item">
+                                     <a class="nav-link" id="nav2_tabs_content_2_tab" data-bs-toggle="tab" href="#nav2_tabs_content_2" role="tab" aria-controls="nav2_tabs_content_2" aria-selected="false">
+                                       <div class="mb-2">
+                                         <i class="fa fa-3x fa-pencil fa-3x"></i>
+                                       </div>Creative Concept
+                                     </a>
+                                   </li>
+                                   <li class="nav-item">
+                                     <a class="nav-link" id="nav2_tabs_content_3_tab" data-bs-toggle="tab" href="#nav2_tabs_content_3" role="tab" aria-controls="nav2_tabs_content_3" aria-selected="false">
+                                       <div class="mb-2">
+                                         <i class="fa fa-volume-up fa-3x"></i>
+                                       </div>Production
+                                     </a>
+                                   </li>
+                                   <li class="nav-item">
+                                     <a class="nav-link" id="nav2_tabs_content_4_tab" data-bs-toggle="tab" href="#nav2_tabs_content_4" role="tab" aria-controls="nav2_tabs_content_4" aria-selected="false">
+                                       <div class="mb-2">
+                                         <i class="fa fa-heart fa-3x"></i>
+                                       </div>Happy Client
+                                     </a>
+                                   </li>
+                                 </ul>
+                               </div>
+                               <div class="s_tabs_content tab-content">
+                                 <div class="tab-pane fade active show" id="nav2_tabs_content_1" role="tabpanel" aria-labelledby="nav2_tabs_content_1_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                       <div class="container s_allow_columns">
+                                         <div class="row align-items-center justify-content-lg-between">
+                                           <div class="col-lg-6 text-center pb16 pt16">
+                                             <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                           </div>
+                                           <div class="col-lg-5 pb16 pt16">
+                                             <h1 class="mb-0">Welcome to New Theme</h1>
+                                             <h1 class="mb-3">
+                                               <font style="" class="text-o-color-1">
+                                                 <u>Digital Marketing</u>
+                                               </font>
+                                             </h1>
+                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                             <div class="row">
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Mobile Friendly</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Multiple Layouts</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                             </div>
+                                             <a href="#" class="btn btn-primary">More About</a>
+                                           </div>
+                                         </div>
+                                       </div>
+                                     </section>
+                                   </div>
+                                 </div>
+                                 <div class="tab-pane fade" id="nav2_tabs_content_2" role="tabpanel" aria-labelledby="nav2_tabs_content_2_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                       <div class="container s_allow_columns">
+                                         <div class="row align-items-center justify-content-lg-between">
+                                           <div class="col-lg-5 pb16 pt16">
+                                             <h1 class="mb-0">Welcome to New Theme</h1>
+                                             <h1 class="mb-3">
+                                               <font style="" class="text-o-color-1">
+                                                 <u>Digital Marketing</u>
+                                               </font>
+                                             </h1>
+                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                             <div class="row">
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Mobile Friendly</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Multiple Layouts</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                             </div>
+                                             <a href="#" class="btn btn-primary">More About</a>
+                                           </div>
+                                           <div class="col-lg-6 text-center pb16 pt16">
+                                             <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                           </div>
+                                         </div>
+                                       </div>
+                                     </section>
+                                   </div>
+                                 </div>
+                                 <div class="tab-pane fade" id="nav2_tabs_content_3" role="tabpanel" aria-labelledby="nav2_tabs_content_3_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                       <div class="container s_allow_columns">
+                                         <div class="row align-items-center justify-content-lg-between">
+                                           <div class="col-lg-6 text-center pb16 pt16">
+                                             <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                           </div>
+                                           <div class="col-lg-5 pb16 pt16">
+                                             <h1 class="mb-0">Welcome to New Theme</h1>
+                                             <h1 class="mb-3">
+                                               <font style="" class="text-o-color-1">
+                                                 <u>Digital Marketing</u>
+                                               </font>
+                                             </h1>
+                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                             <div class="row">
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Mobile Friendly</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Multiple Layouts</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                             </div>
+                                             <a href="#" class="btn btn-primary">More About</a>
+                                           </div>
+                                         </div>
+                                       </div>
+                                     </section>
+                                   </div>
+                                 </div>
+                                 <div class="tab-pane fade" id="nav2_tabs_content_4" role="tabpanel" aria-labelledby="nav2_tabs_content_4_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                       <div class="container s_allow_columns">
+                                         <div class="row align-items-center justify-content-lg-between">
+                                           <div class="col-lg-5 pb16 pt16">
+                                             <h1 class="mb-0">Welcome to New Theme</h1>
+                                             <h1 class="mb-3">
+                                               <font style="" class="text-o-color-1">
+                                                 <u>Digital Marketing</u>
+                                               </font>
+                                             </h1>
+                                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                             <div class="row">
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Mobile Friendly</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                               <div class="col-lg-6 pb8 pt8">
+                                                 <h5>Multiple Layouts</h5>
+                                                 <p> Lorem Ipsum is simply dummy text of the printing </p>
+                                               </div>
+                                             </div>
+                                             <a href="#" class="btn btn-primary">More About</a>
+                                           </div>
+                                           <div class="col-lg-6 text-center pb16 pt16">
+                                             <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                           </div>
+                                         </div>
+                                       </div>
+                                     </section>
+                                   </div>
+                                 </div>
+                               </div>
+                             </div>
+                           </div>
+                        </section>
+                    </textarea>
+                    <h6>Tabs 2</h6>
+                    <label class="e-sb-label" for="e_tabs_02"><input id="e_tabs_02" name="radio-snippet" type="radio" /><span /></label>
+                </div>
+            </div>
+        </div>
+    </t>
+    <t t-name="theme_avid.tabs_3">
+        <div class="col-md-3">
+            <div class="e_sb_snnippet_box">
+                <div class="img">
+                    <img src="/theme_avid/static/src/img/snippets/snippets_icon/tabs-3.jpg" />
+                </div>
+                <div class="snippet-as">
+                    <textarea class="sr-only snippet-textarea">
+                        <section class="s_tabs pt48 pb48 o_colored_level tabs-design-4" data-vcss="001" data-snippet="s_tabs" data-name="Tabs" style="background-image: none;">
+                           <div class="container">
+                             <div class="s_tabs_main">
+                               <div class="s_tabs_nav mb-3 nav-justified">
+                                 <ul class="nav nav-pills shadow-lg" role="tablist">
+                                   <li class="nav-item">
+                                     <a class="nav-link active" id="nav3_tabs_content_1_tab" data-bs-toggle="tab" href="#nav3_tabs_content_1" role="tab" aria-controls="nav3_tabs_content_1" aria-selected="true">
+                                       <div class="mb-2 me-2">
+                                         <i class="fa fa-comments-o fa-3x"></i>
+                                       </div>Discussion
+                                     </a>
+                                   </li>
+                                   <li class="nav-item">
+                                     <a class="nav-link" id="nav3_tabs_content_2_tab" data-bs-toggle="tab" href="#nav3_tabs_content_2" role="tab" aria-controls="nav3_tabs_content_2" aria-selected="false">
+                                       <div class="mb-2 me-2">
+                                         <i class="fa fa-3x fa-pencil fa-3x"></i>
+                                       </div>Creative Concept
+                                     </a>
+                                   </li>
+                                   <li class="nav-item">
+                                     <a class="nav-link" id="nav3_tabs_content_3_tab" data-bs-toggle="tab" href="#nav3_tabs_content_3" role="tab" aria-controls="nav3_tabs_content_3" aria-selected="false">
+                                       <div class="mb-2 me-2">
+                                         <i class="fa fa-volume-up fa-3x"></i>
+                                       </div>Production
+                                     </a>
+                                   </li>
+
+                                 </ul>
+                               </div>
+                               <div class="s_tabs_content tab-content">
+                                 <div class="tab-pane fade active show" id="nav3_tabs_content_1" role="tabpanel" aria-labelledby="nav3_tabs_content_1_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                                <div class="container s_allow_columns">
+                                                    <div class="row align-items-center justify-content-lg-between">
+                                                        <div class="col-lg-5 pb16 pt16">
+                                                            <h2 class="mb-3">Make smarter business decisions with data analysis</h2>
+                                                            <p class="mb-5 lead">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                                            <div class="d-flex mb-5">
+                                                                <i class="fa fa-3x fa-desktop text-o-color-1"></i>
+                                                                <div class="col ms-3">
+                                                                    <h5>Web Development</h5>
+                                                                    <p class="m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex mb-5">
+                                                                <i class="fa fa-3x fa-desktop text-o-color-1"></i>
+                                                                <div class="col ms-3">
+                                                                    <h5>Logo &amp; Identity</h5>
+                                                                    <p class="m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-7 text-center pb16 pt16">
+                                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                     </section>
+                                   </div>
+                                 </div>
+                                 <div class="tab-pane fade" id="nav3_tabs_content_2" role="tabpanel" aria-labelledby="nav3_tabs_content_2_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                                 <div class="container s_allow_columns">
+                                                    <div class="row align-items-center justify-content-lg-between">
+                                                        <div class="col-lg-7 text-center pb16 pt16">
+                                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                        </div>
+                                                        <div class="col-lg-5 pb16 pt16">
+                                                            <h2 class="mb-3">Make smarter business decisions with data analysis</h2>
+                                                            <p class="mb-5 lead">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                                            <div class="d-flex mb-5">
+                                                                <i class="fa fa-3x fa-desktop text-o-color-1"></i>
+                                                                <div class="col ms-3">
+                                                                    <h5>Web Development</h5>
+                                                                    <p class="m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex mb-5">
+                                                                <i class="fa fa-3x fa-desktop text-o-color-1"></i>
+                                                                <div class="col ms-3">
+                                                                    <h5>Logo &amp; Identity</h5>
+                                                                    <p class="m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                     </section>
+                                   </div>
+                                 </div>
+                                 <div class="tab-pane fade" id="nav3_tabs_content_3" role="tabpanel" aria-labelledby="nav3_tabs_content_3_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                                <div class="container s_allow_columns">
+                                                    <div class="row align-items-center justify-content-lg-between">
+                                                        <div class="col-lg-5 pb16 pt16">
+                                                            <h2 class="mb-3">Make smarter business decisions with data analysis</h2>
+                                                            <p class="mb-5 lead">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                                            <div class="d-flex mb-5">
+                                                                <i class="fa fa-3x fa-desktop text-o-color-1"></i>
+                                                                <div class="col ms-3">
+                                                                    <h5>Web Development</h5>
+                                                                    <p class="m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex mb-5">
+                                                                <i class="fa fa-3x fa-desktop text-o-color-1"></i>
+                                                                <div class="col ms-3">
+                                                                    <h5>Logo &amp; Identity</h5>
+                                                                    <p class="m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-7 text-center pb16 pt16">
+                                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                     </section>
+                                   </div>
+                                 </div>
+
+
+
+                               </div>
+                             </div>
+                           </div>
+                        </section>
+                    </textarea>
+                    <h6>Tabs 3</h6>
+                    <label class="e-sb-label" for="e_tabs_03"><input id="e_tabs_03" name="radio-snippet" type="radio" /><span /></label>
+                </div>
+            </div>
+        </div>
+    </t>
+    <t t-name="theme_avid.tabs_4">
+        <div class="col-md-3">
+            <div class="e_sb_snnippet_box">
+                <div class="img">
+                    <img src="/theme_avid/static/src/img/snippets/snippets_icon/tabs-4.jpg" />
+                </div>
+                <div class="snippet-as">
+                    <textarea class="sr-only snippet-textarea">
+                        <section class="s_tabs pt48 pb48 o_colored_level tabs-design-5" data-vcss="001" data-snippet="s_tabs" data-name="Tabs" style="background-image: none;">
+                           <div class="container">
+                             <div class="s_tabs_main">
+                               <div class="s_tabs_nav mb-3 nav-justified">
+                                 <ul class="nav nav-pills" role="tablist">
+                                   <li class="nav-item shadow-lg">
+                                     <a class="nav-link active" id="nav4_tabs_content_1_tab" data-bs-toggle="tab" href="#nav4_tabs_content_1" role="tab" aria-controls="nav4_tabs_content_1" aria-selected="true">
+                                       <div class="mb-2 me-2">
+                                       </div>Discussion
+                                     </a>
+                                   </li>
+                                   <li class="nav-item shadow-lg">
+                                     <a class="nav-link" id="nav4_tabs_content_2_tab" data-bs-toggle="tab" href="#nav4_tabs_content_2" role="tab" aria-controls="nav4_tabs_content_2" aria-selected="false">
+                                       <div class="mb-2 me-2">
+                                       </div>Creative Concept
+                                     </a>
+                                   </li>
+                                   <li class="nav-item shadow-lg">
+                                     <a class="nav-link" id="nav4_tabs_content_3_tab" data-bs-toggle="tab" href="#nav4_tabs_content_3" role="tab" aria-controls="nav4_tabs_content_3" aria-selected="false">
+                                       <div class="mb-2 me-2">
+                                       </div>Production
+                                     </a>
+                                   </li>
+
+                                 </ul>
+                               </div>
+                               <div class="s_tabs_content tab-content">
+
+                                 <div class="tab-pane fade active show" id="nav4_tabs_content_1" role="tabpanel" aria-labelledby="nav4_tabs_content_1_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                              <div class="container s_allow_columns">
+                                                    <div class="row align-items-center justify-content-lg-between">
+                                                        <div class=" col-lg-6 pb16 pt16">
+                                                            <label class="text-primary bg-primary-soft rounded-pill px-3 py-1">Our Portal</label>
+                                                            <h1>Set your priorities and align your teams</h1>
+                                                            <p class="mb-2 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit,</p>
+                                                            <ul class="list-unstyled py-3">
+                                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Built with customization </li>
+                                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Quality design and thoughfully </li>
+                                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Created with the latest technologies </li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-lg-6 text-center pb16 pt16">
+                                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                     </section>
+                                   </div>
+                                 </div>
+                                 <div class="tab-pane fade" id="nav4_tabs_content_2" role="tabpanel" aria-labelledby="nav4_tabs_content_2_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                              <div class="container s_allow_columns">
+                                                    <div class="row align-items-center justify-content-lg-between">
+                                                        <div class="col-lg-6 text-center pb16 pt16">
+                                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                        </div>
+                                                        <div class=" col-lg-6 pb16 pt16">
+                                                            <label class="text-primary bg-primary-soft rounded-pill px-3 py-1">Our Portal</label>
+                                                            <h1>Set your priorities and align your teams</h1>
+                                                            <p class="mb-2 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit,</p>
+                                                            <ul class="list-unstyled py-3">
+                                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Built with customization </li>
+                                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Quality design and thoughfully </li>
+                                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Created with the latest technologies </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                     </section>
+                                   </div>
+                                 </div>
+                                 <div class="tab-pane fade" id="nav4_tabs_content_3" role="tabpanel" aria-labelledby="nav4_tabs_content_3_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                               <div class="container s_allow_columns">
+                                                    <div class="row align-items-center justify-content-lg-between">
+                                                        <div class=" col-lg-6 pb16 pt16">
+                                                            <label class="text-primary bg-primary-soft rounded-pill px-3 py-1">Our Portal</label>
+                                                            <h1>Set your priorities and align your teams</h1>
+                                                            <p class="mb-2 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit,</p>
+                                                            <ul class="list-unstyled py-3">
+                                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Built with customization </li>
+                                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Quality design and thoughfully </li>
+                                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Created with the latest technologies </li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-lg-6 text-center pb16 pt16">
+                                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                     </section>
+                                   </div>
+                                 </div>
+
+                               </div>
+                             </div>
+                           </div>
+                        </section>
+                    </textarea>
+                    <h6>Tabs 4</h6>
+                    <label class="e-sb-label" for="e_tabs_04"><input id="e_tabs_04" name="radio-snippet" type="radio" /><span /></label>
+                </div>
+            </div>
+        </div>
+    </t>
+    <t t-name="theme_avid.tabs_5">
+        <div class="col-md-3">
+            <div class="e_sb_snnippet_box">
+                <div class="img">
+                    <img src="/theme_avid/static/src/img/snippets/snippets_icon/tabs-5.jpg" />
+                </div>
+                <div class="snippet-as">
+                    <textarea class="sr-only snippet-textarea">
+                        <section class="s_tabs pt48 pb48 o_colored_level tabs-design-6" data-vcss="001" data-snippet="s_tabs" data-name="Tabs" style="background-image: none;">
+                           <div class="container">
+                             <div class="s_tabs_main">
+                               <div class="s_tabs_nav mb-3 nav-justified">
+                                 <ul class="nav nav-pills" role="tablist">
+                                   <li class="nav-item shadow-lg">
+                                     <a class="nav-link active shadow-sm border-radius-12" id="nav5_tabs_content_1_tab" data-bs-toggle="tab" href="#nav5_tabs_content_1" role="tab" aria-controls="nav5_tabs_content_1" aria-selected="true">
+                                                <div class="d-flex">
+                                                    <i class="fa fa-1x fa-twitch bg-primary rounded-circle fa-lg"></i>
+                                                    <div class="col ms-3 text-start">
+                                                        <h6 class="mb-1">Discussion</h6>
+                                                        <p class="small m-0" data-original-title="" title="" aria-describedby="tooltip196380">Lorem ipsum dolor sit amet, consectetur.</p>
+                                                    </div>
+                                                </div>
+                                     </a>
+
+                                   </li>
+                                   <li class="nav-item shadow-lg">
+                                     <a class="nav-link shadow-sm border-radius-12" id="nav5_tabs_content_2_tab" data-bs-toggle="tab" href="#nav5_tabs_content_2" role="tab" aria-controls="nav5_tabs_content_2" aria-selected="false">
+                                                <div class="d-flex">
+                                                    <i class="fa fa-1x fa-twitch bg-primary rounded-circle fa-lg"></i>
+                                                    <div class="col ms-3 text-start">
+                                                        <h6 class="mb-1">Creative Concept</h6>
+                                                        <p class="small m-0" data-original-title="" title="" aria-describedby="tooltip196380">Lorem ipsum dolor sit amet, consectetur.</p>
+                                                    </div>
+                                                </div>
+                                     </a>
+                                   </li>
+                                   <li class="nav-item shadow-lg">
+                                     <a class="nav-link shadow-sm border-radius-12" id="nav5_tabs_content_3_tab" data-bs-toggle="tab" href="#nav5_tabs_content_3" role="tab" aria-controls="nav5_tabs_content_3" aria-selected="false">
+                                            <div class="d-flex">
+                                                    <i class="fa fa-1x fa-twitch bg-primary rounded-circle fa-lg"></i>
+                                                    <div class="col ms-3 text-start">
+                                                        <h6 class="mb-1">Production</h6>
+                                                        <p class="small m-0" data-original-title="" title="" aria-describedby="tooltip196380">Lorem ipsum dolor sit amet, consectetur.</p>
+                                                    </div>
+                                                </div>
+                                     </a>
+                                   </li>
+
+                                 </ul>
+                               </div>
+                               <div class="s_tabs_content tab-content">
+
+                                 <div class="tab-pane fade active show" id="nav5_tabs_content_1" role="tabpanel" aria-labelledby="nav5_tabs_content_1_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                            <div class="container s_allow_columns">
+                                                <div class="row align-items-center justify-content-lg-between">
+                                                     <div class="col-lg-6 pt16 pb16">
+                                                        <img class="img-fluid border-radius-12 shadow-lg" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg"/>
+                                                    </div>
+                                                    <div class="col-lg-5 pt16 pb16">
+                                                        <h6 class="text-primary mb-3">Everything in One Place</h6>
+                                                        <h2 class="mb-3 h3">Working to build a better web design</h2>
+                                                        <p class="lead">We are committed to customers success from start to finish. Our input helps make their solutions stand.</p>
+                                                        <ul class="list-unstyled mb-5 pt-2">
+                                                            <li class="d-flex align-items-center mb-2">
+                                                                <i class="fa fa-1x fa-check-circle text-primary fa-lg"></i>
+                                                                <span class="ms-3 col">Data driven quality review</span>
+                                                            </li>
+                                                            <li class="d-flex align-items-center mb-2">
+                                                                <i class="fa fa-1x fa-check-circle text-primary fa-lg"></i>
+                                                                <span class="ms-3 col">Secure work environment</span>
+                                                            </li>
+                                                            <li class="d-flex align-items-center mb-2">
+                                                                <i class="fa fa-1x fa-check-circle text-primary fa-lg"></i>
+                                                                <span class="ms-3 col">Compliance driven process</span>
+                                                            </li>
+                                                            <li class="d-flex align-items-center mb-2">
+                                                                <i class="fa fa-1x fa-check-circle text-primary fa-lg"></i>
+                                                                <span class="ms-3 col">Secure work environment</span>
+                                                            </li>
+                                                        </ul>
+                                                        <a class="btn btn-primary btn-lg" href="#">Get Started</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                     </section>
+                                   </div>
+                                 </div>
+                                 <div class="tab-pane fade" id="nav5_tabs_content_2" role="tabpanel" aria-labelledby="nav5_tabs_content_2_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                             <div class="container s_allow_columns">
+                                                <div class="row align-items-center justify-content-lg-between">
+                                                     <div class="col-lg-6 pt16 pb16">
+                                                        <img class="img-fluid border-radius-12 shadow-lg" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg"/>
+                                                    </div>
+                                                    <div class="col-lg-5 pt16 pb16">
+                                                        <h6 class="text-primary mb-3">Everything in One Place</h6>
+                                                        <h2 class="mb-3 h3">Working to build a better web design</h2>
+                                                        <p class="lead">We are committed to customers success from start to finish. Our input helps make their solutions stand.</p>
+                                                        <ul class="list-unstyled mb-5 pt-2">
+                                                            <li class="d-flex align-items-center mb-2">
+                                                                <i class="fa fa-1x fa-check-circle text-primary fa-lg"></i>
+                                                                <span class="ms-3 col">Data driven quality review</span>
+                                                            </li>
+                                                            <li class="d-flex align-items-center mb-2">
+                                                                <i class="fa fa-1x fa-check-circle text-primary fa-lg"></i>
+                                                                <span class="ms-3 col">Secure work environment</span>
+                                                            </li>
+                                                            <li class="d-flex align-items-center mb-2">
+                                                                <i class="fa fa-1x fa-check-circle text-primary fa-lg"></i>
+                                                                <span class="ms-3 col">Compliance driven process</span>
+                                                            </li>
+                                                            <li class="d-flex align-items-center mb-2">
+                                                                <i class="fa fa-1x fa-check-circle text-primary fa-lg"></i>
+                                                                <span class="ms-3 col">Secure work environment</span>
+                                                            </li>
+                                                        </ul>
+                                                        <a class="btn btn-primary btn-lg" href="#">Get Started</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                     </section>
+                                   </div>
+                                 </div>
+                                 <div class="tab-pane fade" id="nav5_tabs_content_3" role="tabpanel" aria-labelledby="nav5_tabs_content_3_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                              <div class="container s_allow_columns">
+                                                <div class="row align-items-center justify-content-lg-between">
+                                                     <div class="col-lg-6 pt16 pb16">
+                                                        <img class="img-fluid border-radius-12 shadow-lg" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg"/>
+                                                    </div>
+                                                    <div class="col-lg-5 pt16 pb16">
+                                                        <h6 class="text-primary mb-3">Everything in One Place</h6>
+                                                        <h2 class="mb-3 h3">Working to build a better web design</h2>
+                                                        <p class="lead">We are committed to customers success from start to finish. Our input helps make their solutions stand.</p>
+                                                        <ul class="list-unstyled mb-5 pt-2">
+                                                            <li class="d-flex align-items-center mb-2">
+                                                                <i class="fa fa-1x fa-check-circle text-primary fa-lg"></i>
+                                                                <span class="ms-3 col">Data driven quality review</span>
+                                                            </li>
+                                                            <li class="d-flex align-items-center mb-2">
+                                                                <i class="fa fa-1x fa-check-circle text-primary fa-lg"></i>
+                                                                <span class="ms-3 col">Secure work environment</span>
+                                                            </li>
+                                                            <li class="d-flex align-items-center mb-2">
+                                                                <i class="fa fa-1x fa-check-circle text-primary fa-lg"></i>
+                                                                <span class="ms-3 col">Compliance driven process</span>
+                                                            </li>
+                                                            <li class="d-flex align-items-center mb-2">
+                                                                <i class="fa fa-1x fa-check-circle text-primary fa-lg"></i>
+                                                                <span class="ms-3 col">Secure work environment</span>
+                                                            </li>
+                                                        </ul>
+                                                        <a class="btn btn-primary btn-lg" href="#">Get Started</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                     </section>
+                                   </div>
+                                 </div>
+
+                               </div>
+                             </div>
+                           </div>
+                        </section>
+                    </textarea>
+                    <h6>Tabs 5</h6>
+                    <label class="e-sb-label" for="e_tabs_05"><input id="e_tabs_05" name="radio-snippet" type="radio" /><span /></label>
+                </div>
+            </div>
+        </div>
+    </t>
+    <t t-name="theme_avid.tabs_6">
+        <div class="col-md-3">
+            <div class="e_sb_snnippet_box">
+                <div class="img">
+                    <img src="/theme_avid/static/src/img/snippets/snippets_icon/tabs-6.jpg" />
+                </div>
+                <div class="snippet-as">
+                    <textarea class="sr-only snippet-textarea">
+                          <section class="s_tabs pt48 pb48 o_colored_level tabs-design-7" data-vcss="001" data-snippet="s_tabs" data-name="Tabs" style="background-image: none;">
+                           <div class="container">
+                             <div class="s_tabs_main">
+                               <div class="s_tabs_content tab-content">
+
+                                 <div class="tab-pane fade active show" id="nav6_tabs_content_1" role="tabpanel" aria-labelledby="nav6_tabs_content_1_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                            <div class="container s_allow_columns">
+                                                    <div class="row align-items-center justify-content-lg-between">
+                                                        <div class="col-lg-6 pt16 pb16">
+                                                            <img class="img-fluid border-radius-12 shadow-lg" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg" />
+                                                        </div>
+                                                        <div class=" col-lg-6 pt16 pb16">
+                                                            <h6 class="text-primary">Our Services</h6>
+                                                            <h3 class="h1">Working to build a better web design</h3>
+                                                            <p class="m-0 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
+                                                            <div class="pt-3">
+                                                                <a class="btn btn-primary" href="#">Purchase Now for $22</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                     </section>
+                                   </div>
+                                 </div>
+
+                                 <div class="tab-pane fade" id="nav6_tabs_content_2" role="tabpanel" aria-labelledby="nav6_tabs_content_2_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                             <div class="container s_allow_columns">
+                                                <div class="row align-items-center justify-content-lg-between">
+                                                    <div class=" col-lg-6 pt16 pb16">
+                                                        <h6 class="text-primary">Our Services</h6>
+                                                        <h3 class="h1">Working to build a better web design</h3>
+                                                        <p class="m-0 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
+                                                        <div class="pt-3">
+                                                            <a class="btn btn-primary" href="#">Purchase Now for $22</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-6 pt16 pb16">
+                                                        <img class="img-fluid border-radius-12 shadow-lg" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                     </section>
+                                   </div>
+                                 </div>
+
+                                 <div class="tab-pane fade" id="nav6_tabs_content_3" role="tabpanel" aria-labelledby="nav6_tabs_content_3_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                              <div class="container s_allow_columns">
+                                                    <div class="row align-items-center justify-content-lg-between">
+                                                        <div class="col-lg-6 pt16 pb16">
+                                                            <img class="img-fluid border-radius-12 shadow-lg" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg" />
+                                                        </div>
+                                                        <div class=" col-lg-6 pt16 pb16">
+                                                            <h6 class="text-primary">Our Services</h6>
+                                                            <h3 class="h1">Working to build a better web design</h3>
+                                                            <p class="m-0 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
+                                                            <div class="pt-3">
+                                                                <a class="btn btn-primary" href="#">Purchase Now for $22</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                     </section>
+                                   </div>
+                                 </div>
+
+                                  <div class="tab-pane fade" id="nav6_tabs_content_4" role="tabpanel" aria-labelledby="nav6_tabs_content_4_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                             <div class="container s_allow_columns">
+                                                <div class="row align-items-center justify-content-lg-between">
+                                                    <div class=" col-lg-6 pt16 pb16">
+                                                        <h6 class="text-primary">Our Services</h6>
+                                                        <h3 class="h1">Working to build a better web design</h3>
+                                                        <p class="m-0 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
+                                                        <div class="pt-3">
+                                                            <a class="btn btn-primary" href="#">Purchase Now for $22</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-lg-6 pt16 pb16">
+                                                        <img class="img-fluid border-radius-12 shadow-lg" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                     </section>
+                                   </div>
+                                 </div>
+
+                                 <div class="tab-pane fade" id="nav6_tabs_content_5" role="tabpanel" aria-labelledby="nav6_tabs_content_5_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                              <div class="container s_allow_columns">
+                                                    <div class="row align-items-center justify-content-lg-between">
+                                                        <div class="col-lg-6 pt16 pb16">
+                                                            <img class="img-fluid border-radius-12 shadow-lg" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg" />
+                                                        </div>
+                                                        <div class=" col-lg-6 pt16 pb16">
+                                                            <h6 class="text-primary">Our Services</h6>
+                                                            <h3 class="h1">Working to build a better web design</h3>
+                                                            <p class="m-0 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
+                                                            <div class="pt-3">
+                                                                <a class="btn btn-primary" href="#">Purchase Now for $22</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                     </section>
+                                   </div>
+                                 </div>
+
+                                  <div class="tab-pane fade" id="nav6_tabs_content_6" role="tabpanel" aria-labelledby="nav6_tabs_content_6_tab">
+                                   <div class="oe_structure oe_empty">
+                                     <section class="s_text_block" style="background-image: none;">
+                                              <div class="container s_allow_columns">
+                                                    <div class="row align-items-center justify-content-lg-between">
+                                                        <div class="col-lg-6 pt16 pb16">
+                                                            <img class="img-fluid border-radius-12 shadow-lg" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg" />
+                                                        </div>
+                                                        <div class=" col-lg-6 pt16 pb16">
+                                                            <h6 class="text-primary">Our Services</h6>
+                                                            <h3 class="h1">Working to build a better web design</h3>
+                                                            <p class="m-0 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</p>
+                                                            <div class="pt-3">
+                                                                <a class="btn btn-primary" href="#">Purchase Now for $22</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                     </section>
+                                   </div>
+                                 </div>
+
+                               </div>
+                                <div class="s_tabs_nav mb-3 nav-justified">
+                                 <ul class="nav nav-pills" role="tablist">
+                                    
+                                    <li class="nav-item col-md-4 col-sm-6 my-3">
+                                        <a class="nav-link active" id="nav6_tabs_content_1_tab" data-bs-toggle="tab" href="#nav6_tabs_content_1" role="tab" aria-controls="nav6_tabs_content_1" aria-selected="true">
+                                            <div class="d-flex">
+                                                <i class="fa fa-2x bg-primary rounded">01</i>
+                                                <div class="col ms-3 text-start">
+                                                    <h6 class="mb-1">Discussion</h6>
+                                                        <p class="small m-0">Lorem ipsum dolor sit amet, consectetur.</p>
+                                                    </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item col-md-4 col-sm-6 my-3">
+                                        <a class="nav-link" id="nav6_tabs_content_2_tab" data-bs-toggle="tab" href="#nav6_tabs_content_2" role="tab" aria-controls="nav6_tabs_content_2" aria-selected="true">
+                                            <div class="d-flex">
+                                                <i class="fa fa-2x bg-primary rounded">02</i>
+                                                <div class="col ms-3 text-start">
+                                                    <h6 class="mb-1">Creative Concept</h6>
+                                                        <p class="small m-0">Lorem ipsum dolor sit amet, consectetur.</p>
+                                                    </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item col-md-4 col-sm-6 my-3">
+                                        <a class="nav-link" id="nav6_tabs_content_3_tab" data-bs-toggle="tab" href="#nav6_tabs_content_3" role="tab" aria-controls="nav6_tabs_content_3" aria-selected="true">
+                                            <div class="d-flex">
+                                                <i class="fa fa-2x bg-primary rounded">03</i>
+                                                <div class="col ms-3 text-start">
+                                                    <h6 class="mb-1">Production</h6>
+                                                        <p class="small m-0">Lorem ipsum dolor sit amet, consectetur.</p>
+                                                    </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item col-md-4 col-sm-6 my-3">
+                                        <a class="nav-link" id="nav6_tabs_content_4_tab" data-bs-toggle="tab" href="#nav6_tabs_content_4" role="tab" aria-controls="nav6_tabs_content_4" aria-selected="true">
+                                            <div class="d-flex">
+                                                <i class="fa fa-2x bg-primary rounded">04</i>
+                                                <div class="col ms-3 text-start">
+                                                    <h6 class="mb-1">Happy Client</h6>
+                                                        <p class="small m-0">Lorem ipsum dolor sit amet, consectetur.</p>
+                                                    </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item col-md-4 col-sm-6 my-3">
+                                        <a class="nav-link" id="nav6_tabs_content_5_tab" data-bs-toggle="tab" href="#nav6_tabs_content_5" role="tab" aria-controls="nav6_tabs_content_5" aria-selected="true">
+                                            <div class="d-flex">
+                                                <i class="fa fa-2x bg-primary rounded">05</i>
+                                                <div class="col ms-3 text-start">
+                                                    <h6 class="mb-1">Production</h6>
+                                                        <p class="small m-0">Lorem ipsum dolor sit amet, consectetur.</p>
+                                                    </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item col-md-4 col-sm-6 my-3">
+                                        <a class="nav-link" id="nav6_tabs_content_6_tab" data-bs-toggle="tab" href="#nav6_tabs_content_6" role="tab" aria-controls="nav6_tabs_content_6" aria-selected="true">
+                                            <div class="d-flex">
+                                                <i class="fa fa-2x bg-primary rounded">06</i>
+                                                <div class="col ms-3 text-start">
+                                                    <h6 class="mb-1">Happy Client</h6>
+                                                        <p class="small m-0">Lorem ipsum dolor sit amet, consectetur.</p>
+                                                    </div>
+                                            </div>
+                                        </a>
+                                    </li>
+
+                                 </ul>
+                               </div>
+                             </div>
+                           </div>
+                        </section>
+                    </textarea>
+                    <h6>Tabs 6</h6>
+                    <label class="e-sb-label" for="e_tabs_06"><input id="e_tabs_06" name="radio-snippet" type="radio" /><span /></label>
+                </div>
+            </div>
+        </div>
+    </t>
+</templates>

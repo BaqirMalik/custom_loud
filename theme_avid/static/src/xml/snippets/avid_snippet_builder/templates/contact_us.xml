@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates id="as_contact_us_templates">
+
+<t t-name="theme_avid.cont_us_temp1">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/contact_us-1.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt24 pb24 s_comparisons as-contactus-snippet-01">
+                        <div class="container">
+                            <div class="col-lg-10 col-11 m-auto">
+                                <div class="row justify-content-between">
+                                    <div class="col-lg-7 pt16 pb16">
+                                        <div class="card shadow-large border-radius-12 light-border p-4 p-lg-5 h-100">
+                                            <h5>Contact Us</h5>
+                                            <p></p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 pt16 pb16">
+                                        <div class="card shadow-large border-radius-12 border-10 border-white p-2 h-100 bg-o-color-2">
+                                            <div class="h-100 py-5 px-4">
+                                                <h6 class="mb-2">Our address info</h6>
+                                                <p class="mb-5">2 Embarcadero Center, San Francisco, CA 94111 USA</p>
+                                                <h6 class="mb-2">Our contact info</h6>
+                                                <p class="mb-2"><a class="text-reset" href="mailto:support@domain.com">support@domain.com</a></p>
+                                                <p class="m-0"><a class="text-reset" href="#">+1 (800) 555-1212</a></p>
+                                                <h6 class="mt-5 mb-3">Our contact Info</h6>
+                                                <div class="s_share">
+                                                    <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-3 text-o-color-1"></i></a>
+                                                    <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-3 text-o-color-1"></i></a>
+                                                    <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-3 text-o-color-1"></i></a>
+                                                    <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-3 text-o-color-1"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Contact Us 1</h6>
+                <label class="e-sb-label" for="e_contact_us_01"><input id="e_contact_us_01" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cont_us_temp2">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/contact_us-2.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt96 pb96 oe_img_bg o_bg_img_center parallax s_parallax_is_fixed s_parallax_no_overflow_hidden s_comparisons as-contactus-snippet-02">
+                        <span class="s_parallax_bg oe_img_bg o_bg_img_center" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1920x1080.jpg');"></span>
+                        <div class="o_we_bg_filter bg-black-75"></div>
+                        <div class="container">
+                            <div class="col-lg-10 col-11 m-auto">
+                                <div class="row justify-content-center align-items-center">
+                                    <div class="col-lg-5 pt16 pb16 o_colored_level">
+                                        <h1>You deserve all time best</h1>
+                                        <div class="s_hr text-start pt8 pb8" data-snippet="s_hr" data-name="Separator">
+                                            <hr class="w-50px me-auto" style="border-top-style: solid; border-top-width: 2px !important;" />
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 pt16 pb16 o_colored_level">
+                                        <div class="card shadow-large border-radius-12 px-4 pt24 bg-o-color-1">
+                                            <h5 style="color: #000;">Send a message</h5>
+                                            <p></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Contact Us 2</h6>
+                <label class="e-sb-label" for="e_contact_us_02"><input id="e_contact_us_02" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cont_us_temp3">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/contact_us-3.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-contactus-snippet-03 pt32 pb32 o_colored_level o_cc o_cc2">
+                        <div class="container">
+                            <div class="row align-items-center justify-content-center">
+                                <div class="col-md-6 col-lg-5 pt16 pb16">
+                                    <div class="card border-0 shadow-sm shadow-hover-lg hover-top border-radius-12 p-5 text-center">
+                                        <div class="d-inline-block">
+                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/500x350.jpg" />
+                                        </div>
+                                        <div class="pt-4">
+                                            <h5 class="mb-4">Need Help support?</h5>
+                                            <a href="#" class="btn btn-primary btn-md">Start Ticketing</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-5 pt16 pb16">
+                                    <div class="card border-0 shadow-sm shadow-hover-lg hover-top border-radius-12 p-5 text-center">
+                                        <div class="d-inline-block">
+                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/500x350.jpg" />
+                                        </div>
+                                        <div class="pt-4">
+                                            <h5 class="mb-4">Need Email support?</h5>
+                                            <a href="#" class="btn btn-primary btn-md">Give me a mail</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Contact Us 3</h6>
+                <label class="e-sb-label" for="e_contact_us_03"><input id="e_contact_us_03" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cont_us_temp4">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/contact_us-4.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pb80 o_colored_level o_cc o_cc2 as-contactus-snippet-04">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-6 col-md-8">
+                                    <div class="card border-radius-12 p-5 shadow-sm border-start-0 border-top-5 border-end-0 border-bottom-0 border-primary">
+                                        <h4>Schedule a demo with us</h4>
+                                        <p class="mb-0"></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Contact Us 4</h6>
+                <label class="e-sb-label" for="e_contact_us_04"><input id="e_contact_us_04" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cont_us_temp5">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/contact_us-5.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pb80 pt80 o_colored_level o_cc o_cc2 as-contactus-snippet-05">
+                        <div class="container">
+                            <div class="row justify-content-between">
+                                <div class="col-lg-5">
+                                    <div class="border-bottom">
+                                        <h2 class="mb-2">Get in Touch</h2>
+                                        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                                        <div class="d-flex mb-3">
+                                            <i class="fa fa-mobile-phone rounded-circle fa-1px bg-o-color-1 fa-lg" data-original-title="" title="" aria-describedby="tooltip392624"></i>
+                                            <div class="col ms-3">
+                                                <h6 class="mb-1">Phone</h6>
+                                                <span>+01 5565 6565 6565</span>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex mb-3">
+                                            <i class="fa fa-envelope-o rounded-circle fa-1px bg-o-color-1 fa-lg" data-original-title="" title="" aria-describedby="tooltip842875"></i>
+                                            <div class="col ms-3">
+                                                <h6 class="mb-1">Email</h6>
+                                                <span>info@domain.com</span>
+                                            </div>
+                                        </div>
+                                        <div class="s_hr text-start pt16 pb24" data-snippet="s_hr" data-name="Separator">
+                                            <hr class="w-100 mx-auto" style="border-top-width: 1px; border-top-style: solid; border-top-color: rgb(198, 203, 210) !important;" />
+                                        </div>
+                                        <h3 class="h5 mb-2">Address</h3>
+                                        <p>1600 Amphitheatre Parkway<br />New York WC1 1BA</p>
+                                        <section class="s_map pb120 pt120" data-map-type="m" data-map-zoom="12" data-snippet="s_map" data-map-address="250 Executive Park Blvd, Suite 3400 San Francisco California (US) United States" data-name="Map">
+                                            <div class="map_container o_not_editable" contenteditable="false">
+                                                <div class="css_non_editable_mode_hidden">
+                                                    <div class="missing_option_warning alert alert-info rounded-0 fade show d-none d-print-none o_default_snippet_text">
+                                                        An address must be specified for a map to be embedded
+                                                    </div>
+                                                </div>
+                                                <iframe class="s_map_embedded o_not_editable" width="100%" height="100%" src="https://maps.google.com/maps?q=250%20Executive%20Park%20Blvd%2C%20Suite%203400%20San%20Francisco%20California%20(US)%20United%20States&amp;t=m&amp;z=12&amp;ie=UTF8&amp;iwloc=&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" contenteditable="false"></iframe>
+                                                <div class="s_map_color_filter"></div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="card border-radius-12 shadow-sm p-4 border light-border">
+                                        <h4 class="mb-3">You Can Mail Us</h4>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                                        <p class="mb-0"></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Contact Us 5</h6>
+                <label class="e-sb-label" for="e_contact_us_05"><input id="e_contact_us_05" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+</templates>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Avid Header Options -->
+    <template id="avid_header_switches" inherit_id="website.snippet_options">
+        <xpath expr="//div/we-select[@data-variable='header-template']" position="inside">
+            <we-button title="Avid: Header 1"
+                data-name="avid_header_opt1"
+                data-customize-website-views="theme_avid.avid_header_1"
+                data-customize-website-variable="'avid_header1'"
+                data-img="/theme_avid/static/src/img/header_icon/header-option-1.svg"/>
+            <we-button title="Avid: Header 2"
+                data-name="avid_header_opt2"
+                data-customize-website-views="theme_avid.avid_header_2"
+                data-customize-website-variable="'avid_header2'"
+                data-img="/theme_avid/static/src/img/header_icon/header-option-2.svg"/>
+            <we-button title="Avid: Header 3"
+                data-name="avid_header_opt3"
+                data-customize-website-views="theme_avid.avid_header_3"
+                data-customize-website-variable="'avid_header3'"
+                data-img="/theme_avid/static/src/img/header_icon/header-option-3.svg"/>
+        </xpath>
+    </template>
+</odoo>

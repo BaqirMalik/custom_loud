@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates id="as_title_templates">
+
+<t t-name="theme_avid.title_1">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/title-1.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-snippet-title-01 text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class=" col-lg-8 m-auto pt32 pb32">
+                                    <h1>Build anything you want</h1>
+                                    <div class="s_hr text-start pt8 pb16" data-snippet="s_hr" data-name="Separator">
+                                        <hr class="mx-auto w-50px" style="border-top-style: solid; border-top-width: 1px !important; border-top-color: rgb(0, 51, 204) !important;" />
+                                    </div>
+                                    <p class="lead">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Title 1</h6>
+                <label class="e-sb-label" for="e_title_01"><input id="e_title_01" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.title_2">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/title-2.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-snippet-title-02 text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8 ">
+                                    <label class="border-bottom h6 text-primary border-primary">About us</label>
+                                    <h1 class="m-0">Effective tools for busy Administrators</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Title 2</h6>
+                <label class="e-sb-label" for="e_title_02"><input id="e_title_02" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.title_3">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/title-3.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-snippet-title-03 text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8 ">
+                                    <label class="text-primary bg-primary-soft rounded-pill px-3 py-1">About us</label>
+                                    <h1>Effective tools for busy Administrators</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Title 3</h6>
+                <label class="e-sb-label" for="e_title_03"><input id="e_title_03" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.title_4">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/title-4.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt24 pb16 as-snippet-title-04 text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8 ">
+                                    <label class="text-primary rounded-pill px-3 py-1">About us</label>
+                                    <h1>Effective tools for busy Administrators</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Title 4</h6>
+                <label class="e-sb-label" for="e_title_04"><input id="e_title_04" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+</templates>

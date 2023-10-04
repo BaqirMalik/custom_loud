@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates id="as_title_templates">
+
+    <t t-name="theme_avid.brand_1">
+        <div class="col-md-3">
+            <div class="e_sb_snnippet_box">
+                <div class="img">
+                    <img src="/theme_avid/static/src/img/snippets/snippets_icon/brand-1.jpg" />
+                </div>
+                <div class="snippet-as">
+                    <textarea class="sr-only snippet-textarea">
+                        <section class="pb32 pt24 as-brand-snippet-01 mt-n8 s_comparisons">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-12 s_col_no_bgcolor">
+                                        <div class="card bg-white rounded shadow-lg border-0 py-4 px-5">
+                                            <div class="row">
+                                                <div class="col-lg-2 col-sm-4 col-6 pt16 pb16">
+                                                    <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                                <div class="col-lg-2 col-sm-4 col-6 pt16 pb16">
+                                                    <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                                <div class="col-lg-2 col-sm-4 col-6 pt16 pb16">
+                                                    <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                                <div class="col-lg-2 col-sm-4 col-6 pt16 pb16">
+                                                    <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                                <div class="col-lg-2 col-sm-4 col-6 pt16 pb16">
+                                                    <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                                <div class="col-lg-2 col-sm-4 col-6 pt16 pb16">
+                                                    <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </textarea>
+                    <h6>Brand 1</h6>
+                    <label class="e-sb-label" for="e_brand_01"><input id="e_brand_01" name="radio-snippet" type="radio" /><span /></label>
+                </div>
+            </div>
+        </div>
+    </t>
+
+    <t t-name="theme_avid.brand_2">
+        <div class="col-md-3">
+            <div class="e_sb_snnippet_box">
+                <div class="img">
+                    <img src="/theme_avid/static/src/img/snippets/snippets_icon/brand-2.jpg" />
+                </div>
+                <div class="snippet-as">
+                    <textarea class="sr-only snippet-textarea">
+                        <section class="pb24 pt15 as-brand-snippet-02 s_comparisons">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-12 s_col_no_bgcolor">
+                                        <div class="card bg-white border-0 py-4 px-5">
+                                            <div class="row">
+                                                <div class="col-lg-2 col-sm-4 col-6 pt16 pb16">
+                                                    <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                                <div class="col-lg-2 col-sm-4 col-6 pt16 pb16">
+                                                    <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                                <div class="col-lg-2 col-sm-4 col-6 pt16 pb16">
+                                                    <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                                <div class="col-lg-2 col-sm-4 col-6 pt16 pb16">
+                                                    <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                                <div class="col-lg-2 col-sm-4 col-6 pt16 pb16">
+                                                    <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                                <div class="col-lg-2 col-sm-4 col-6 pt16 pb16">
+                                                    <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </textarea>
+                    <h6>Brand 2</h6>
+                    <label class="e-sb-label" for="e_brand_02"><input id="e_brand_02" name="radio-snippet" type="radio" /><span /></label>
+                </div>
+            </div>
+        </div>
+    </t>
+
+    <t t-name="theme_avid.brand_3">
+        <div class="col-md-3">
+            <div class="e_sb_snnippet_box">
+                <div class="img">
+                    <img src="/theme_avid/static/src/img/snippets/snippets_icon/brand-3.jpg" />
+                </div>
+                <div class="snippet-as">
+                    <textarea class="sr-only snippet-textarea">
+                        <section class="pb24 pt24 as-brand-snippet-03 s_comparisons o_colored_level o_cc o_cc2">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-4 col-sm-6 pb32 pt32">
+                                        <div class="card border-radius-12 shadow-sm light-border border-0 hover-top">
+                                            <div class="card mt-n4 px-4 pb-4 text-center z-index-1 bg-transparent pt-0 border-0">
+                                                <i class="fa fa-quote-left rounded m-auto text-o-color-1 bg-o-color-4 fa-2x shadow-sm border-radius-12"></i>
+                                                <h5 class="mt-4">Behance</h5>
+                                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+                                                <div class="pt-3">
+                                                    <a class="btn btn-primary" href="#">Try Now</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-sm-6 pb32 pt32">
+                                        <div class="card border-radius-12 shadow-sm light-border border-0 hover-top">
+                                            <div class="card mt-n4 px-4 pb-4 text-center z-index-1 bg-transparent pt-0 border-0">
+                                                <i class="fa fa-quote-left rounded m-auto text-o-color-1 bg-o-color-4 fa-2x shadow-sm border-radius-12"></i>
+                                                <h5 class="mt-4">Google Play</h5>
+                                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+                                                <div class="pt-3">
+                                                    <a class="btn btn-primary" href="#">Try Now</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-sm-6 pb32 pt32">
+                                        <div class="card border-radius-12 shadow-sm light-border border-0 hover-top">
+                                            <div class="card mt-n4 px-4 pb-4 text-center z-index-1 bg-transparent pt-0 border-0">
+                                                <i class="fa fa-quote-left rounded m-auto text-o-color-1 bg-o-color-4 fa-2x shadow-sm border-radius-12"></i>
+                                                <h5 class="mt-4">Google Drive</h5>
+                                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+                                                <div class="pt-3">
+                                                    <a class="btn btn-primary" href="#">Try Now</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-sm-6 pb32 pt32">
+                                        <div class="card border-radius-12 shadow-sm light-border border-0 hover-top">
+                                            <div class="card mt-n4 px-4 pb-4 text-center z-index-1 bg-transparent pt-0 border-0">
+                                                <i class="fa fa-quote-left rounded m-auto text-o-color-1 bg-o-color-4 fa-2x shadow-sm border-radius-12"></i>
+                                                <h5 class="mt-4">Slack</h5>
+                                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+                                                <div class="pt-3">
+                                                    <a class="btn btn-primary" href="#">Try Now</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-sm-6 pb32 pt32">
+                                        <div class="card border-radius-12 shadow-sm light-border border-0 hover-top">
+                                            <div class="card mt-n4 px-4 pb-4 text-center z-index-1 bg-transparent pt-0 border-0">
+                                                <i class="fa fa-quote-left rounded m-auto text-o-color-1 bg-o-color-4 fa-2x shadow-sm border-radius-12"></i>
+                                                <h5 class="mt-4">Mailchimp</h5>
+                                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+                                                <div class="pt-3">
+                                                    <a class="btn btn-primary" href="#">Try Now</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-sm-6 pb32 pt32">
+                                        <div class="card border-radius-12 shadow-sm light-border border-0 hover-top">
+                                            <div class="card mt-n4 px-4 pb-4 text-center z-index-1 bg-transparent pt-0 border-0">
+                                                <i class="fa fa-quote-left rounded m-auto text-o-color-1 bg-o-color-4 fa-2x shadow-sm border-radius-12"></i>
+                                                <h5 class="mt-4">Dropbox</h5>
+                                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+                                                <div class="pt-3">
+                                                    <a class="btn btn-primary" href="#">Try Now</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </textarea>
+                    <h6>Brand 3</h6>
+                    <label class="e-sb-label" for="e_brand_03"><input id="e_brand_03" name="radio-snippet" type="radio" /><span /></label>
+                </div>
+            </div>
+        </div>
+    </t>
+
+    <t t-name="theme_avid.brand_4">
+        <div class="col-md-3">
+            <div class="e_sb_snnippet_box">
+                <div class="img">
+                    <img src="/theme_avid/static/src/img/snippets/snippets_icon/brand-4.jpg" />
+                </div>
+                <div class="snippet-as">
+                    <textarea class="sr-only snippet-textarea">
+                        <section class="s_comparisons pt56 pb56 o_cc o_cc3">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-3 col-6 pt16 pb16">
+                                        <div class="card bg-transparent border light-border border-radius-12 hover-top p-4 text-center bg-white-25">
+                                            <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3 col-6 pt16 pb16">
+                                        <div class="card bg-transparent border light-border border-radius-12 hover-top p-4 text-center bg-white-25">
+                                            <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3 col-6 pt16 pb16">
+                                        <div class="card bg-transparent border light-border border-radius-12 hover-top p-4 text-center bg-white-25">
+                                            <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3 col-6 pt16 pb16">
+                                        <div class="card bg-transparent border light-border border-radius-12 hover-top p-4 text-center bg-white-25">
+                                            <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3 col-6 pt16 pb16">
+                                        <div class="card bg-transparent border light-border border-radius-12 hover-top p-4 text-center bg-white-25">
+                                            <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3 col-6 pt16 pb16">
+                                        <div class="card bg-transparent border light-border border-radius-12 hover-top p-4 text-center bg-white-25">
+                                            <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3 col-6 pt16 pb16">
+                                        <div class="card bg-transparent border light-border border-radius-12 hover-top p-4 text-center bg-white-25">
+                                            <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3 col-6 pt16 pb16">
+                                        <div class="card bg-transparent border light-border border-radius-12 hover-top p-4 text-center bg-white-25">
+                                            <a href="#"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </textarea>
+                    <h6>Brand 4</h6>
+                    <label class="e-sb-label" for="e_brand_04"><input id="e_brand_04" name="radio-snippet" type="radio" /><span /></label>
+                </div>
+            </div>
+        </div>
+    </t>
+
+    <t t-name="theme_avid.brand_5">
+        <div class="col-md-3">
+            <div class="e_sb_snnippet_box">
+                <div class="img">
+                    <img src="/theme_avid/static/src/img/snippets/snippets_icon/brand-5.jpg" />
+                </div>
+                <div class="snippet-as">
+                    <textarea class="sr-only snippet-textarea">
+                        <section class="s_comparisons pt56 pb56 o_cc o_cc2">
+                            <div class="container">
+                                <div class="row align-items-center">
+                                    <div class="col-lg-4 pt16 pb16">
+                                        <h1 class="mb-3">Certifications and Partners</h1>
+                                        <p class="m-0 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                    </div>
+                                    <div class="col-lg-8">
+                                        <div class="row s_comparisons">
+                                            <div class="col-md-3 col-6 pt16 pb16">
+                                                <div class="card shadow border-radius-12 p-4 text-center h-100">
+                                                    <a href="#" class="m-auto"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 pt16 pb16">
+                                                <div class="card shadow border-radius-12 p-4 text-center h-100">
+                                                    <a href="#" class="m-auto"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 pt16 pb16">
+                                                <div class="card shadow border-radius-12 p-4 text-center h-100">
+                                                    <a href="#" class="m-auto"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 pt16 pb16">
+                                                <div class="card shadow border-radius-12 p-4 text-center h-100">
+                                                    <a href="#" class="m-auto"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 pt16 pb16">
+                                                <div class="card shadow border-radius-12 p-4 text-center h-100">
+                                                    <a href="#" class="m-auto"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 pt16 pb16">
+                                                <div class="card shadow border-radius-12 p-4 text-center h-100">
+                                                    <a href="#" class="m-auto"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 pt16 pb16">
+                                                <div class="card shadow border-radius-12 p-4 text-center h-100">
+                                                    <a href="#" class="m-auto"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 pt16 pb16">
+                                                <div class="card shadow border-radius-12 p-4 text-center h-100">
+                                                    <a href="#" class="m-auto"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" /></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </textarea>
+                    <h6>Brand 5</h6>
+                    <label class="e-sb-label" for="e_brand_05"><input id="e_brand_05" name="radio-snippet" type="radio" /><span /></label>
+                </div>
+            </div>
+        </div>
+    </t>
+
+</templates>

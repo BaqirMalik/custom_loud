@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates id="as_features_templates">
+
+<t t-name="theme_avid.feature_temp1">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/feature-1.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt80 pb80 s_comparisons as-feature-snippet-01 o_cc o_cc2">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-4 col-sm-6 pb16 pt16">
+                                    <div class="card hover-scale-box border-radius-12 p-4">
+                                        <div class="min-vh-350px">
+                                            <i class="fa fa-desktop bg-primary me-auto border-radius-12 text-o-color-3 p-3 fa-3x"></i>
+                                            <h5 class="mt-4">Fully Responsive.</h5>
+                                        </div>
+                                        <div>
+                                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-sm-6 pb16 pt16">
+                                    <div class="card hover-scale-box border-radius-12 p-4">
+                                        <div class="min-vh-350px">
+                                            <i class="fa fa-globe bg-primary me-auto border-radius-12 text-o-color-3 p-3 fa-3x"></i>
+                                            <h5 class="mt-4">Browser Compatibility.</h5>
+                                        </div>
+                                        <div>
+                                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-sm-6 pb16 pt16">
+                                    <div class="card hover-scale-box border-radius-12 p-4">
+                                        <div class="min-vh-350px">
+                                            <i class="fa fa-desktop bg-primary me-auto border-radius-12 text-o-color-3 p-3 fa-3x"></i>
+                                            <h5 class="mt-4">Retina Ready.</h5>
+                                        </div>
+                                        <div>
+                                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-sm-6 pb16 pt16">
+                                    <div class="card hover-scale-box border-radius-12 p-4">
+                                        <div class="min-vh-350px">
+                                            <i class="fa fa-eye bg-primary me-auto border-radius-12 text-o-color-3 p-3 fa-3x"></i>
+                                            <h5 class="mt-4">Bootstrap Icon.</h5>
+                                        </div>
+                                        <div>
+                                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-sm-6 pb16 pt16">
+                                    <div class="card hover-scale-box border-radius-12 p-4">
+                                        <div class="min-vh-350px">
+                                            <i class="fa fa-bold bg-primary me-auto border-radius-12 text-o-color-3 p-3 fa-3x"></i>
+                                            <h5 class="mt-4">Built With SASS.</h5>
+                                        </div>
+                                        <div>
+                                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-sm-6 pb16 pt16">
+                                    <div class="card hover-scale-box border-radius-12 p-4">
+                                        <div class="min-vh-350px">
+                                            <i class="fa fa-code bg-primary me-auto border-radius-12 text-o-color-3 p-3 fa-3x"></i>
+                                            <h5 class="mt-4">W3c Valid Code.</h5>
+                                        </div>
+                                        <div>
+                                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Feature 1</h6>
+                <label class="e-sb-label" for="e_feature_01"><input id="e_feature_01" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.feature_temp2">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/feature-2.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt80 pb80 s_comparisons as-feature-snippet-02 o_cc o_cc2">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card hover-scale-box shadow-sm border-radius-12">
+                                        <div class="p-5">
+                                            <h5>Discuss The Project</h5>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <div class="h1 fw-400 align-items-center d-flex m-0"><font style="" class="text-400">Step 1 </font> <span class="fa fa-arrow-right ms-auto text-400 fa-1x"></span></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card hover-scale-box shadow-sm border-radius-12">
+                                        <div class="p-5">
+                                            <h5>Develop &amp; Elaborate</h5>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <div class="h1 fw-400 align-items-center d-flex m-0"><font style="" class="text-400">Step 2 </font> <span class="fa fa-arrow-right ms-auto text-400 fa-1x"></span></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card hover-scale-box shadow-sm border-radius-12">
+                                        <div class="p-5">
+                                            <h5>Final Approvement</h5>
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <div class="h1 fw-400 align-items-center d-flex m-0"><font style="" class="text-400">Step 3 </font> <span class="fa fa-arrow-right ms-auto text-400 fa-1x"></span></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Feature 2</h6>
+                <label class="e-sb-label" for="e_feature_02"><input id="e_feature_02" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.feature_temp3">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/feature-3.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt80 pb80 s_comparisons as-feature-snippet-03 o_cc o_cc2">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card position-relative hover-top shadow-sm p-0 border-radius-12">
+                                        <div class="p-4">
+                                            <h5 class="mb-3"><a class="text-reset" href="#">Business Stratagy</a></h5>
+                                            <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                                            <div class="mt-1">
+                                                <a class="text-primary" href="#">Read more <i class="fa fa-caret-right"></i> </a>
+                                            </div>
+                                        </div>
+                                        <img class="card-img-bottom" src="/theme_avid/static/src/img/snippets/placeholder/1000x700.jpg" title="" alt="" />
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card position-relative hover-top shadow-sm p-0 border-radius-12">
+                                        <div class="p-4">
+                                            <h5 class="mb-3"><a class="text-reset" href="#">Browser Compatibility</a></h5>
+                                            <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                                            <div class="mt-1">
+                                                <a class="text-primary" href="#">Read more <i class="fa fa-caret-right"></i> </a>
+                                            </div>
+                                        </div>
+                                        <img class="card-img-bottom" src="/theme_avid/static/src/img/snippets/placeholder/1000x700.jpg" title="" alt="" />
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card position-relative hover-top shadow-sm p-0 border-radius-12">
+                                        <div class="p-4">
+                                            <h5 class="mb-3"><a class="text-reset" href="#">Built with SASS</a></h5>
+                                            <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                                            <div class="mt-1">
+                                                <a class="text-primary" href="#">Read more <i class="fa fa-caret-right"></i> </a>
+                                            </div>
+                                        </div>
+                                        <img class="card-img-bottom" src="/theme_avid/static/src/img/snippets/placeholder/1000x700.jpg" title="" alt="" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Feature 3</h6>
+                <label class="e-sb-label" for="e_feature_03"><input id="e_feature_03" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.feature_temp4">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/feature-4.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt96 pb96">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="d-flex">
+                                        <i class="fa fa-play bg-o-color-3 fa-2x text-o-color-1 rounded-circle"></i>
+                                        <div class="col ms-3">
+                                            <h3 class="">
+                                                <font style="font-size: 18px;" class="o_default_snippet_text"> Web Design</font>
+                                            </h3>
+                                            <p>Creating brand identities, digital experiences, and prints.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="d-flex">
+                                        <i class="fa fa-play bg-o-color-3 fa-2x text-o-color-1 rounded-circle"></i>
+                                        <div class="col ms-3">
+                                            <h3 class="">
+                                                <font style="font-size: 18px;" class="o_default_snippet_text"> Design Consultation</font>
+                                            </h3>
+                                            <p>Creating brand identities, digital experiences, and prints.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="d-flex">
+                                        <i class="fa fa-play bg-o-color-3 fa-2x text-o-color-1 rounded-circle"></i>
+                                        <div class="col ms-3">
+                                            <h3 class="">
+                                                <font style="font-size: 18px;" class="o_default_snippet_text"> Improve SEO Ranking</font>
+                                            </h3>
+                                            <p>Creating brand identities, digital experiences, and prints.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Feature 4</h6>
+                <label class="e-sb-label" for="e_feature_04"><input id="e_feature_04" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+</templates>

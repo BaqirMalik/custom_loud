@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates id="as_slider_templates">
+<t t-name="theme_avid.slider_temp1">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/slider-1.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_carousel_wrapper oe_snippet_body" data-vxml="001" data-snippet="s_carousel" data-name="Carousel">
+                        <div class="s_carousel s_carousel_default carousel slide" data-bs-interval="10000" id="slider-snippet-01">
+                            <ol class="carousel-indicators">
+                                <li data-bs-slide-to="0" class="active" data-bs-target="#slider-snippet-01"></li>
+                                <li data-bs-slide-to="1" data-bs-target="#slider-snippet-01"></li>
+                            </ol>            
+                            <div class="carousel-inner">
+                                <div class="carousel-item active oe_img_bg o_bg_img_center pt256  pb256" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1920x1080.jpg');" data-name="Slide">
+                                    <div class="container oe_unremovable">
+                                        <div class="row content align-items-center justify-content-start">
+                                            <div class="col-lg-6 pt-5">
+                                                <h1 class="display-4 mb-4">Build customer relationships through conversation</h1>
+                                                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                                <div class="pt-3">
+                                                    <a class="btn btn-light me-3" href="#">Let's started</a>
+                                                    <a class="btn btn-primary" href="#">Our projects</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="carousel-item oe_img_bg o_bg_img_center pt256  pb256" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1920x1080.jpg');" data-name="Slide">
+                                  <div class="container oe_unremovable">
+                                        <div class="row content align-items-center justify-content-start">
+                                            <div class="col-lg-6 pt-5">
+                                                <h1 class="display-4 mb-4">Build customer relationships through conversation</h1>
+                                                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                                <div class="pt-3">
+                                                    <a class="btn btn-light me-3" href="#">Let's started</a>
+                                                    <a class="btn btn-primary" href="#">Our projects</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="carousel-control-prev o_not_editable" contenteditable="false" data-bs-slide="prev" role="img" aria-label="Previous" title="Previous" href="#slider-snippet-01">
+                                <span class="carousel-control-prev-icon"></span>
+                                <span class="visually-hidden o_default_snippet_text">Previous</span>
+                            </a>
+                            <a class="carousel-control-next o_not_editable" contenteditable="false" data-bs-slide="next" role="img" aria-label="Next" title="Next" href="#slider-snippet-01">
+                                <span class="carousel-control-next-icon"></span>
+                                <span class="visually-hidden o_default_snippet_text">Next</span>
+                            </a>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Slider 1</h6>
+                <label class="e-sb-label" for="e_slider_01"><input id="e_slider_01" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.slider_temp2">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/slider-2.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_carousel_wrapper oe_snippet_body" data-vxml="001" data-snippet="s_carousel" data-name="Carousel">
+                        <div class="s_carousel s_carousel_default carousel slide" data-bs-interval="10000" id="slider-snippet-02">
+                            <ol class="carousel-indicators">
+                                <li data-bs-slide-to="0" class="active" data-bs-target="#slider-snippet-02"></li>
+                                <li data-bs-slide-to="1" data-bs-target="#slider-snippet-02"></li>
+                            </ol>            
+                            <div class="carousel-inner">
+                                <div class="carousel-item active oe_img_bg o_bg_img_center pt256  pb256" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1920x1080.jpg');" data-name="Slide">
+                                    <div class="container oe_unremovable">
+                                        <div class="row content align-items-center justify-content-center">
+                                            <div class="carousel-content col-lg-8">
+                                                <div class="text-center">
+                                                    <h6>What We provide</h6>
+                                                    <h1 class="display-4 mb-3 fw-bold">Build customer relationships through conversation</h1>
+                                                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                                    <div class="pt-3">
+                                                        <a class="btn btn-primary me-3" href="#">Let's talk</a>
+                                                        <a class="btn btn-primary" href="#">Our projects</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="carousel-item oe_img_bg o_bg_img_center pt256  pb256" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1920x1080.jpg');" data-name="Slide">
+                                    <div class="container oe_unremovable">
+                                        <div class="row content align-items-center justify-content-center">
+                                            <div class="carousel-content col-lg-8">
+                                                <div class="text-center">
+                                                    <h6>What We provide</h6>
+                                                    <h1 class="display-4 mb-3 fw-bold">Build customer relationships through conversation</h1>
+                                                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                                    <div class="pt-3">
+                                                        <a class="btn btn-primary me-3" href="#">Let's talk</a>
+                                                        <a class="btn btn-primary" href="#">Our projects</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="carousel-control-prev o_not_editable" contenteditable="false" data-bs-slide="prev" role="img" aria-label="Previous" title="Previous" href="#slider-snippet-02">
+                                <span class="carousel-control-prev-icon"></span>
+                                <span class="visually-hidden o_default_snippet_text">Previous</span>
+                            </a>
+                            <a class="carousel-control-next o_not_editable" contenteditable="false" data-bs-slide="next" role="img" aria-label="Next" title="Next" href="#slider-snippet-02">
+                                <span class="carousel-control-next-icon"></span>
+                                <span class="visually-hidden o_default_snippet_text">Next</span>
+                            </a>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Slider 2</h6>
+                <label class="e-sb-label" for="e_slider_02"><input id="e_slider_02" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+</templates>

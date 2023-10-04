@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates id="as_title_templates">
+
+<t t-name="theme_avid.number_1">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/number-1.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                     <section class="s_numbers o_cc o_cc2 pt24 pb24 oe_snippet_body" data-snippet="s_numbers" data-name="Numbers">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-3 col-6 pt24 pb24">
+                                    <div class="d-flex align-items-center">
+                                        <i class="fa fa-3x fa-smile-o text-o-color-1"></i>
+                                        <div class="col ms-3 text-start">
+                                            <span class="s_number font-weight-light h4 o_default_snippet_text">650</span>
+                                            <h6 class="mb-0 o_default_snippet_text font-weight-light">HAPPY CLIENTS</h6>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-6 pt24 pb24">
+                                    <div class="d-flex align-items-center">
+                                        <i class="fa fa-3x fa-database text-o-color-1"></i>
+                                        <div class="col ms-3 text-start">
+                                            <span class="s_number font-weight-light h4 o_default_snippet_text">789</span>
+                                            <h6 class="mb-0 o_default_snippet_text font-weight-light">WORK COMPLETED</h6>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-6 pt24 pb24">
+                                    <div class="d-flex align-items-center">
+                                        <i class="fa fa-3x fa-globe text-o-color-1"></i>
+                                        <div class="col ms-3 text-start">
+                                            <span class="s_number font-weight-light h4 o_default_snippet_text">250</span>
+                                            <h6 class="mb-0 o_default_snippet_text font-weight-light">AWARD WINNING</h6>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-6 pt24 pb24">
+                                    <div class="d-flex align-items-center">
+                                        <i class="fa fa-3x fa-comments-o text-o-color-1"></i>
+                                        <div class="col ms-3 text-start">
+                                            <span class="s_number font-weight-light h4 o_default_snippet_text">650</span>
+                                            <h6 class="mb-0 o_default_snippet_text font-weight-light">TELEPHONIC TALK</h6>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Number 1</h6>
+                <label class="e-sb-label" for="e_number_01"><input id="e_number_01" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+<t t-name="theme_avid.number_2">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/number-2.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_numbers o_cc o_cc2 pt24 pb24 oe_snippet_body" data-snippet="s_numbers" data-name="Numbers">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-3 col-6 text-center pt24 pb24">
+                                    <span class="s_number h1 font-weight-bold mb-1 o_default_snippet_text">850</span><br />
+                                    <h6 class="mt-1 o_default_snippet_text">Happy Clients</h6>
+                                    <div class="s_hr text-start pt8 pb24" data-snippet="s_hr" data-name="Separator">
+                                        <hr class="w-50px m-auto" style="border-top-style: solid; border-top-width: 2px !important;" />
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-6 text-center pt24 pb24">
+                                    <span class="s_number h1 font-weight-bold mb-1 o_default_snippet_text">999</span><br />
+                                    <h6 class="mt-1 o_default_snippet_text">Work Completed</h6>
+                                    <div class="s_hr text-start pt8 pb24" data-snippet="s_hr" data-name="Separator">
+                                        <hr class="w-50px m-auto" style="border-top-style: solid; border-top-width: 2px !important;" />
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-6 text-center pt24 pb24">
+                                    <span class="s_number h1 font-weight-bold mb-1 o_default_snippet_text">250</span><br />
+                                    <h6 class="mt-1 o_default_snippet_text">Award Winning</h6>
+                                    <div class="s_hr text-start pt8 pb24" data-snippet="s_hr" data-name="Separator">
+                                        <hr class="w-50px m-auto" style="border-top-style: solid; border-top-width: 2px !important;" />
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-6 text-center pt24 pb24">
+                                    <span class="s_number h1 font-weight-bold mb-1 o_default_snippet_text">985</span><br />
+                                    <h6 class="mt-1 o_default_snippet_text">Telephonic Talk</h6>
+                                    <div class="s_hr text-start pt8 pb24" data-snippet="s_hr" data-name="Separator">
+                                        <hr class="w-50px m-auto" style="border-top-style: solid; border-top-width: 2px !important;" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Number 2</h6>
+                <label class="e-sb-label" for="e_number_02"><input id="e_number_02" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+<t t-name="theme_avid.number_3">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/number-3.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_numbers o_cc o_cc2 pt24 pb24 oe_snippet_body s_comparisons" data-snippet="s_numbers" data-name="Numbers">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-3 col-6 pt16 pb16 s_col_no_bgcolor">
+                                    <div class="card shadow-sm text-center border-top-0 border-start-0 border-end-0 border-bottom-5 border-primary py-4">
+                                        <span class="s_number h1 font-weight-bold mb-1 o_default_snippet_text">650</span>
+                                        <h6 class="mt-1 o_default_snippet_text fw-400">Happy Clients</h6>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-6 pt16 pb16 s_col_no_bgcolor">
+                                    <div class="card shadow-sm text-center border-top-0 border-start-0 border-end-0 border-bottom-5 border-primary py-4">
+                                        <span class="s_number h1 font-weight-bold mb-1 o_default_snippet_text">850</span>
+                                        <h6 class="mt-1 o_default_snippet_text fw-400">Work Completed</h6>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-6 pt16 pb16 s_col_no_bgcolor">
+                                    <div class="card shadow-sm text-center border-top-0 border-start-0 border-end-0 border-bottom-5 border-primary py-4">
+                                        <span class="s_number h1 font-weight-bold mb-1 o_default_snippet_text">950</span>
+                                        <h6 class="mt-1 o_default_snippet_text fw-400">Award Winning</h6>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-6 pt16 pb16 s_col_no_bgcolor">
+                                    <div class="card shadow-sm text-center border-top-0 border-start-0 border-end-0 border-bottom-5 border-primary py-4">
+                                        <span class="s_number h1 font-weight-bold mb-1 o_default_snippet_text">750</span>
+                                        <h6 class="mt-1 o_default_snippet_text fw-400">Telephonic Talk</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Number 3</h6>
+                <label class="e-sb-label" for="e_number_03"><input id="e_number_03" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+<t t-name="theme_avid.number_4">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/number-4.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt88 pb88 parallax s_parallax_is_fixed s_parallax_no_overflow_hidden">
+                        <span class="s_parallax_bg oe_img_bg o_bg_img_center" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1920x1080.jpg');"></span>
+                        <div class="o_we_bg_filter bg-black-75"></div>
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8 text-center mb-5">
+                                    <h1 class="text-o-color-3">Our Agency in Numbers</h1>
+                                    <div class="s_hr text-start pt8 pb16" data-snippet="s_hr" data-name="Separator">
+                                        <hr class="m-auto w-50px" style="border-top-style: solid; border-top-width: 2px !important; border-top-color: rgb(255, 255, 255) !important;" />
+                                    </div>
+                                    <div class="lead">Lorem Ipsum is simply text the printing and typesetting. Lorem Ipsum is simply text the printing and typesetting</div>
+                                </div>
+                            </div>
+                           <section class="s_numbers oe_snippet_body s_comparisons" data-snippet="s_numbers" data-name="Numbers">
+                                <div class="row">
+                                    <div class="col-lg-3 col-6 pt16 pb16 s_col_no_bgcolor">
+                                        <div class="card shadow-sm text-center border-2 border-white py-4 bg-transparent">
+                                            <span class="s_number h1 font-weight-bold mb-1 o_default_snippet_text text-o-color-3">650</span>
+                                            <h6 class="mt-1 o_default_snippet_text fw-400 text-o-color-3">Happy Clients</h6>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-6 pt16 pb16 s_col_no_bgcolor">
+                                        <div class="card shadow-sm text-center border-2 border-white py-4 bg-transparent">
+                                            <span class="s_number h1 font-weight-bold mb-1 o_default_snippet_text text-o-color-3">850</span>
+                                            <h6 class="mt-1 o_default_snippet_text fw-400 text-o-color-3">Work Completed</h6>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-6 pt16 pb16 s_col_no_bgcolor">
+                                        <div class="card shadow-sm text-center border-2 border-white py-4 bg-transparent">
+                                            <span class="s_number h1 font-weight-bold mb-1 o_default_snippet_text text-o-color-3">950</span>
+                                            <h6 class="mt-1 o_default_snippet_text fw-400 text-o-color-3">Award Winning</h6>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-6 pt16 pb16 s_col_no_bgcolor">
+                                        <div class="card shadow-sm text-center border-2 border-white py-4 bg-transparent">
+                                            <span class="s_number h1 font-weight-bold mb-1 o_default_snippet_text text-o-color-3">750</span>
+                                            <h6 class="mt-1 o_default_snippet_text fw-400 text-o-color-3">Telephonic Talk</h6>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Number 4</h6>
+                <label class="e-sb-label" for="e_number_04"><input id="e_number_04" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+<t t-name="theme_avid.number_5">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/number-5.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt88 pb88 s_comparisons">
+                        <div class="container">
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-lg-6 text-center pt16 pb16">
+                                    <img class="img-fluid border-radius-12" src="/theme_avid/static/src/img/snippets/placeholder/800x1000.jpg" />
+                                </div>
+                                <div class="col-lg-6 pt16 pb16s_numbers oe_snippet_body s_comparisons" data-snippet="s_numbers" data-name="Numbers">
+                                    <div class="row align-items-center">
+                                        <div class="col-6 text-center pt16 pb16">
+                                            <div class="card border-radius-12 light-border p-4 text-center shadow-sm">
+                                                <i class="fa fa-2x fa-database text-o-color-1 rounded-circle m-auto"></i>
+                                                <span class="s_number font-weight-light h4 o_default_snippet_text font-weight-bold my-3">4500</span>
+                                                <h6 class="mb-0 o_default_snippet_text font-weight-light">Happy Clients</h6>
+                                            </div>
+                                        </div>
+                                        <div class="col-6 text-center pt16 pb16">
+                                            <div class="card border-radius-12 light-border p-4 text-center shadow-sm">
+                                                <i class="fa fa-2x fa-database text-o-color-1 rounded-circle m-auto"></i>
+                                                <span class="s_number font-weight-light h4 o_default_snippet_text font-weight-bold my-3">1500</span>
+                                                <h6 class="mb-0 o_default_snippet_text font-weight-light">Photo Capture</h6>
+                                            </div>
+                                        </div>
+                                        <div class="col-6 text-center pt16 pb16">
+                                            <div class="card border-radius-12 light-border p-4 text-center shadow-sm">
+                                                <i class="fa fa-2x fa-database text-o-color-1 rounded-circle m-auto"></i>
+                                                <span class="s_number font-weight-light h4 o_default_snippet_text font-weight-bold my-3">1800</span>
+                                                <h6 class="mb-0 o_default_snippet_text font-weight-light">Projects</h6>
+                                            </div>
+                                        </div>
+                                        <div class="col-6 text-center pt16 pb16">
+                                            <div class="card border-radius-12 light-border p-4 text-center shadow-sm">
+                                                <i class="fa fa-2x fa-database text-o-color-1 rounded-circle m-auto"></i>
+                                                <span class="s_number font-weight-light h4 o_default_snippet_text font-weight-bold my-3">9000</span>
+                                                <h6 class="mb-0 o_default_snippet_text font-weight-light">Clients call</h6>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Number 5</h6>
+                <label class="e-sb-label" for="e_number_05"><input id="e_number_05" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+</templates>

@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates id="as_call_to_action_templates">
+
+<t t-name="theme_avid.cta_temp1">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/cta-1.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                   <section class="pt96 pb96 oe_img_bg o_bg_img_center parallax s_parallax_is_fixed s_parallax_no_overflow_hidden as-call-to-action-01 o_cc o_cc3">
+                       <span class="s_parallax_bg oe_img_bg o_bg_img_center" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1920x1080.jpg');"></span>
+                       <div class="o_we_bg_filter bg-black-75"></div>
+                       <div class="container">
+                           <div class="row">
+                               <div class="col-lg-6 m-auto o_colored_level">
+                                   <div class="text-center">
+                                       <span class="text-reset">Feel The Future</span>
+                                       <h1 class="mt-3 mb-4"><font style="" class=""><u>Growth and development</u></font> are fostered here!</h1>
+                                       <div class="d-flex justify-content-center flex-wrap">
+                                           <a href="#" class="btn btn-custom bg-o-color-4 m-2 d-flex align-items-center py-2 px-4">
+                                                <i class="fa fa-play text-o-color-1 me-2"></i>Google Play
+                                            </a>
+                                            <a href="#" class="btn btn-custom bg-o-color-4 m-2 d-flex align-items-center py-2 px-4">
+                                                <i class="fa fa-apple text-o-color-1 me-2"></i>App Store
+                                            </a>
+                                       </div>
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                   </section>
+                </textarea>
+                <h6>Call To Action 1</h6>
+                <label class="e-sb-label" for="e_cta_01"><input id="e_cta_01" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cta_temp2">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/cta-2.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                   <section class="as-call-to-action-02 s_comparisons">
+                       <div class="container-fluid p-0">
+                           <div class="row g-0">
+                               <section class="col-lg-3 col-md-6 oe_img_bg o_bg_img_center min-vh-350px" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1920x1080.jpg');">
+                               </section>
+                               <div class="col-lg-3 col-md-6 s_col_no_bgcolor">
+                                   <div class="card bg-primary p-5 border-0 rounded-0 h-100">
+                                       <span>Build perfect websites</span>
+                                       <h5 class="my-3">Unlimited power and customization possibilities</h5>
+                                       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.Our latest thinking on the issues that matter most in business.</p>
+                                       <div class="pt-3"><a href="#" class="btn btn-custom bg-o-color-4">Read More</a></div>
+                                   </div>
+                               </div>
+                               <section class="col-lg-3 col-md-6 oe_img_bg o_bg_img_center min-vh-350px" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1920x1080.jpg');">
+                               </section>
+                               <div class="col-lg-3 col-md-6 s_col_no_bgcolor">
+                                   <div class="card bg-primary p-5 border-0 rounded-0 h-100">
+                                       <span>Build perfect websites</span>
+                                       <h5 class="my-3">Unlimited power and customization possibilities</h5>
+                                       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.Our latest thinking on the issues that matter most in business.</p>
+                                       <div class="pt-3"><a href="#" class="btn btn-custom bg-o-color-4">Read More</a></div>
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                   </section>
+                </textarea>
+                <h6>Call To Action 2</h6>
+                <label class="e-sb-label" for="e_cta_02"><input id="e_cta_02" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cta_temp3">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/cta-3.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                   <section class="s_call_to_action o_cc o_cc4 pt48 pb24 oe_snippet_body as-call-to-action-03" data-snippet="s_call_to_action" data-name="Call to Action">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-9 pb16">
+                                    <h3 class="o_default_snippet_text">You have any query? Contact us now</h3>
+                                    <p class="o_default_snippet_text lead mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                                </div>
+                                <div class="col-lg-3 pt16">
+                                    <p style="text-align: right;">
+                                        <a class="btn btn-custom bg-o-color-4 btn-md mb-2 o_default_snippet_text" href="/contactus">Try it free</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Call To Action 3</h6>
+                <label class="e-sb-label" for="e_cta_03"><input id="e_cta_03" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cta_temp4">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/cta-4.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                   <section class="as-call-to-action-03 pt96 pb96 oe_img_bg o_bg_img_center parallax s_parallax_is_fixed s_parallax_no_overflow_hidden s_comparisons o_cc o_cc4">
+                        <span class="s_parallax_bg oe_img_bg o_bg_img_center" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1920x1080.jpg');"></span>
+                        <div class="o_we_bg_filter bg-black-75"></div>
+                        <div class="container">
+                            <div class="row justify-content-center align-items-center">
+                                <div class="col-lg-6 m-auto o_colored_level text-center">
+                                    <h1>Get Every Updates</h1>
+                                    <div class="s_hr text-start pt8 pb32" data-snippet="s_hr" data-name="Separator">
+                                        <hr class="w-50px m-auto" style="border-top-style: solid; border-top-width: 2px !important;" />
+                                    </div>
+                                    <p class="mb-0"></p>
+                                      <div class="s_newsletter_subscribe_form s_newsletter_list js_subscribe" data-vxml="001" data-list-id="0" data-name="Newsletter Form" data-snippet="s_newsletter_subscribe_form">
+                                      <div class="input-group">
+                                        <input type="email" name="email" class="js_subscribe_value form-control" placeholder="your email..."/>
+                                        <a role="button" href="#" class="btn btn-primary js_subscribe_btn o_submit o_default_snippet_text">Subscribe</a>
+                                        <a role="button" href="#" class="btn btn-success js_subscribed_btn d-none o_submit o_default_snippet_text" disabled="disabled">Thanks</a>
+                                      </div>
+                                      </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Call To Action 4</h6>
+                <label class="e-sb-label" for="e_cta_04"><input id="e_cta_04" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cta_temp5">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/cta-5.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt56 pb56 oe_img_bg o_bg_img_center parallax s_parallax_is_fixed s_parallax_no_overflow_hidden as-call-to-action-05 o_cc o_cc3">
+                       <span class="s_parallax_bg oe_img_bg o_bg_img_center" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1920x1080.jpg');"></span>
+                       <div class="o_we_bg_filter bg-black-75"></div>
+                       <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-9 pt8 pb8">
+                                    <h3 class="o_default_snippet_text mb-0">Ready to get started? It's fast, free and very easy!</h3>
+                                </div>
+                                <div class="col-lg-3 pt8 pb8">
+                                    <p class="m-0" style="text-align: right;">
+                                        <a class="btn btn-custom bg-o-color-4 btn-md mb-2 o_default_snippet_text" href="/contactus">Get a free Estimate</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                   </section>
+                </textarea>
+                <h6>Call To Action 5</h6>
+                <label class="e-sb-label" for="e_cta_05"><input id="e_cta_05" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cta_temp6">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/cta-6.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                   <section class="pt64 pb64 o_cc o_cc3">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-5 col-md-6 text-center">
+                                    <i class="fa fa-2x text-o-color-3 bg-primary rounded-circle fa-folder-open mb-4 fa-lg"></i>
+                                    <h1 class="mb-4">30 Day Money-Back Guarantee</h1>
+                                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt Lorem ipsum dolor sit amet</p>
+                                    <a class="btn btn-outline-custom text-o-color-4 btn-md" href="#" style="border-width: 1px; border-style: solid; border-color: rgb(255, 255, 255);">Purchase Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Call To Action 6</h6>
+                <label class="e-sb-label" for="e_cta_06"><input id="e_cta_06" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cta_temp7">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+              <img src="/theme_avid/static/src/img/snippets/snippets_icon/cta-7.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                   <section class="o_cc o_cc3 pt56 pb56 as-call-to-action-07">
+                     <div class="container">
+                       <div class="row align-items-center">
+                         <div class="col-lg-7 pt16 pb16">
+                          <div class="d-flex flex-column flex-lg-row align-items-center align-items-lg-start">
+                              <i class="fa fa-1x text-o-color-3 bg-primary rounded-circle fa-check-square-o fa-lg m-auto"></i>
+                              <div class="col col-lg-3 text-start mt-4 mt-lg-0 ms-4">
+                                <h3 class="">Start working with us right now.</h3>
+                                <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+                              </div>
+                          </div>
+                         </div>
+                         <div class="col-lg-5">
+                           <div class="d-flex align-items-center justify-content-lg-end justify-content-center">
+                             <a href="#" class="me-2 btn btn-outline-custom text-o-color-4" data-original-title="" title="" style="border-width: 1px; border-style: solid; border-color: rgb(255, 255, 255);">Sign up now</a>
+                             <a href="#" class="btn btn-custom text-o-color-5 bg-o-color-4" data-original-title="" title="" style="border-width: 1px; border-style: solid;">Contact us</a>
+                           </div>
+                         </div>
+                       </div>
+                     </div>
+                   </section>
+                </textarea>
+                <h6>Call To Action 7</h6>
+                <label class="e-sb-label" for="e_cta_07"><input id="e_cta_07" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cta_temp8">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/cta-8.jpg" />
+            </div>
+            <div class="snippet-as">
+              <textarea class="sr-only snippet-textarea">
+                <section class="pt80 pb80">
+                  <div class="container">
+                    <div class="row align-items-center justify-content-between">
+                      <div class="col-lg-6 pt16 pb16">
+                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                      </div>
+                      <div class="col-lg-5">
+                        <i class="fa fa-2x text-o-color-3 bg-primary rounded-circle fa-download fa-lg me-auto"></i>
+                        <h1 class="my-3">We help to create visual strategies</h1>
+                        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <div class="pt-3 d-flex">
+                            <a class="me-3" href="#">
+                              <img class="img-fluid max-width200" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" title="" alt="" />
+                            </a>
+                            <a href="#">
+                              <img class="img-fluid max-width200" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" title="" alt="" />
+                            </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </textarea>
+              <h6>Call To Action 8</h6>
+              <label class="e-sb-label" for="e_cta_08"><input id="e_cta_08" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cta_temp9">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/cta-9.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                   <section class="pt64 pb64 o_cc o_cc3">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-6 col-md-6 text-center">
+                                    <h1 class="mb-4">We help to create visual strategies.</h1>
+                                    <p class="lead mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                    <a class="btn btn-primary btn-md" href="#">Get started now - it's free!</a>
+                                    <p class="m-0 pt-2 small">No credit card needed, cancel anytime</p>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Call To Action 9</h6>
+                <label class="e-sb-label" for="e_cta_09"><input id="e_cta_09" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cta_temp10">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/cta-10.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                   <section class="pt64 pb64 o_cc o_cc1">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-5 col-md-6 text-center">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                    <h1 class="mb-4 pt24">Change the way you work with clients forever. You’ll thank us later.</h1>
+                                    <a class="btn btn-primary btn-md" href="#">Get started now - it's free!</a>
+                                    <p class="m-0 pt-2 small">No credit card needed, cancel anytime</p>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Call To Action 10</h6>
+                <label class="e-sb-label" for="e_cta_10"><input id="e_cta_10" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cta_temp11">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/cta-11.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                   <section class="o_cc o_cc3 pt80 pb80 as-call-to-action-11">
+                        <div class="container">
+                            <div class="row align-items-center justify-content-between">
+                                <div class="col-md-6 my-3 text-center">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg" />
+                                </div>
+                                <div class="col-lg-4 col-md-6 ">
+                                    <i class="fa fa-2x text-o-color-3 bg-primary rounded-circle fa-envelope-o fa-lg me-auto"></i>
+                                    <h1 class="my-3">Let’s subscribe our newsletter</h1>
+                                    <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <p class="mb-0"></p>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Call To Action 11</h6>
+                <label class="e-sb-label" for="e_cta_11"><input id="e_cta_11" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cta_temp12">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/cta-12.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                   <section class="pt96 pb96 oe_img_bg o_bg_img_center parallax s_parallax_is_fixed s_parallax_no_overflow_hidden as-call-to-action-05 o_cc o_cc3">
+                       <span class="s_parallax_bg oe_img_bg o_bg_img_center" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1920x1080.jpg');"></span>
+                       <div class="o_we_bg_filter bg-black-75"></div>
+                       <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-6">
+                                    <h3 class="h1 mb-3">Stay focused on your business. Let us handle the design.</h3>
+                                    <p class="lead mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <a class="btn btn-primary" href="#">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                   </section>
+                </textarea>
+                <h6>Call To Action 12</h6>
+                <label class="e-sb-label" for="e_cta_12"><input id="e_cta_12" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.cta_temp13">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/cta-13.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                   <section class="o_cc o_cc2 pt64 pb64">
+                      <div class="container">
+                        <div class="row align-items-center justify-content-between">
+                          <div class="col-lg-5 pt16 pb16">
+                            <div class="card border-0 border-radius-12 shadow-lg">
+                                <div class="card-header px-5 py-4">
+                                    <h4 class="h4 m-0">14 days free trial</h4>
+                                </div>
+                                <div class="p-4">
+                                  <h5 class="mb-1">Starter</h5>
+                                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do</p>
+                                  <ul class="list-unstyled mb-0">
+                                      <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> 10 GB of Space </li>
+                                      <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Projects </li>
+                                      <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Users </li>
+                                      <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited File Recovery </li>
+                                      <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Data </li>
+                                  </ul>
+                                </div>
+                                <div class="card-footer">
+                                  <div class="d-flex align-items-center">
+                                    <div class="pr-2 col">
+                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" />
+                                    </div>
+                                    <div class="pr-2 col">
+                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" />
+                                    </div>
+                                    <div class="pr-2 col">
+                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" />
+                                    </div>
+                                  </div>
+                                </div>
+                            </div>
+                          </div>
+                          <div class="col-lg-6">
+                            <p class="mb-2"></p>
+                            <div class="col-12 text-center">
+                              <span class="small">Or sign up with</span>
+                            </div>
+                            <div class="row align-items-center">
+                              <div class="col-6">
+                                <a href="#" class="btn btn-outline-primary w-100"><i class="fa fa-check-circle text-primary me-1"></i>Github</a>
+                              </div>
+                              <div class="col-6">
+                                <a href="#" class="btn btn-outline-primary w-100"><i class="fa fa-check-circle text-primary me-1"></i>Google</a>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                   </section>
+                </textarea>
+                <h6>Call To Action 13</h6>
+                <label class="e-sb-label" for="e_cta_13"><input id="e_cta_13" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+</templates>

@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates id="as_testimonial_templates">
+
+<t t-name="theme_avid.testimonial_temp1">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/testimonial-1.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                        <section class="pt48 pb48 testimonials-slider as-testimonial-snippet-01 s_comparisons">
+                        <div class="container">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-lg-5">
+                                    <span class="text-primary">Testimonials</span>
+                                    <h1 class="my-3">Loved by businesses, and individuals across the globe.</h1>
+                                    <p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                    <a href="#" class="btn btn-primary mt-4">More Testimonials</a>
+                                </div>
+                                <div class="col-lg-6">
+                                        <section class="s_carousel_wrapper" data-vxml="001">
+                                            <div t-attf-id="myCarousel_testimonial1" class="s_carousel s_carousel_default carousel slide" data-bs-interval="10000">
+                                                <ol class="carousel-indicators">
+                                                    <li t-attf-data-bs-target="#myCarousel_testimonial1" data-bs-slide-to="0" class="active"/>
+                                                    <li t-attf-data-bs-target="#myCarousel_testimonial1" data-bs-slide-to="1"/>
+                                                </ol>
+                                                <div class="carousel-inner">
+                                                    <div class="carousel-item active oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                                        <div class="container oe_unremovable">
+                                                            <div class="row content">
+                                                                <div class="carousel-content col-sm-6 pt8 pb8">
+                                                                    <div class="card border-radius-12 shadow-sm">
+                                                                        <section class="card-img oe_img_bg o_bg_img_center text-center py-5 o_colored_level o_cc o_cc4" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg');">
+                                                                            <div class="mask position-absolute bg-primary-soft"></div>
+                                                                            <div class="position-relative w-100 text-center">
+                                                                                <h5 class="mb-1">John Smith</h5>
+                                                                                <p class="mb-0">Co-Founder</p>
+                                                                            </div>
+                                                                        </section>
+                                                                        <div class="mt-n4 px-4 pb-4 text-center z-index-1 bg-transparent pt-0">
+                                                                            <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="carousel-content col-sm-6 pt8 pb8">
+                                                                    <div class="card border-radius-12 shadow-sm">
+                                                                        <section class="card-img oe_img_bg o_bg_img_center text-center py-5 o_colored_level o_cc o_cc4" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg');">
+                                                                            <div class="mask position-absolute bg-primary-soft"></div>
+                                                                            <div class="position-relative w-100 text-center">
+                                                                                <h5 class="mb-1">John Smith</h5>
+                                                                                <p class="mb-0">Co-Founder</p>
+                                                                            </div>
+                                                                        </section>
+                                                                        <div class="mt-n4 px-4 pb-4 text-center z-index-1 bg-transparent pt-0">
+                                                                            <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="carousel-item oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                                        <div class="container oe_unremovable">
+                                                            <div class="row content">
+                                                                <div class="carousel-content col-sm-6 pt8 pb8">
+                                                                    <div class="card border-radius-12 shadow-sm">
+                                                                        <section class="card-img oe_img_bg o_bg_img_center text-center py-5 o_colored_level o_cc o_cc4" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg');">
+                                                                            <div class="mask position-absolute bg-primary-soft"></div>
+                                                                            <div class="position-relative w-100 text-center">
+                                                                                <h5 class="mb-1">John Smith</h5>
+                                                                                <p class="mb-0">Co-Founder</p>
+                                                                            </div>
+                                                                        </section>
+                                                                        <div class="mt-n4 px-4 pb-4 text-center z-index-1 bg-transparent pt-0">
+                                                                            <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="carousel-content col-sm-6 pt8 pb8">
+                                                                    <div class="card border-radius-12 shadow-sm">
+                                                                        <section class="card-img oe_img_bg o_bg_img_center text-center py-5 o_colored_level o_cc o_cc4" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg');">
+                                                                            <div class="mask position-absolute bg-primary-soft"></div>
+                                                                            <div class="position-relative w-100 text-center">
+                                                                                <h5 class="mb-1">John Smith</h5>
+                                                                                <p class="mb-0">Co-Founder</p>
+                                                                            </div>
+                                                                        </section>
+                                                                        <div class="mt-n4 px-4 pb-4 text-center z-index-1 bg-transparent pt-0">
+                                                                            <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                 <a class="carousel-control-prev o_not_editable d-none" contenteditable="false" data-bs-slide="prev" role="img" aria-label="Previous" title="Previous" href="#myCarousel_testimonial1">
+                                                    <span class="carousel-control-prev-icon"></span>
+                                                    <span class="visually-hidden o_default_snippet_text">Previous</span>
+                                                </a>
+                                                <a class="carousel-control-next o_not_editable d-none" contenteditable="false" data-bs-slide="next" role="img" aria-label="Next" title="Next" href="#myCarousel_testimonial1">
+                                                    <span class="carousel-control-next-icon"></span>
+                                                    <span class="visually-hidden o_default_snippet_text">Next</span>
+                                                </a>
+                                            </div>
+                                        </section>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Testimonial 1</h6>
+                <label class="e-sb-label" for="e_testimonial_01"><input id="e_testimonial_01" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.testimonial_temp2">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/testimonial-2.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_carousel_wrapper oe_snippet_body as-testimonial-snippet-02 s_comparisons" data-vxml="001" data-snippet="s_carousel" data-name="Carousel">
+                        <div t-attf-id="myCarousel_testimonial2" class="s_carousel s_carousel_default carousel slide" data-bs-interval="10000">
+                            <ol class="carousel-indicators">
+                                <li t-attf-data-bs-target="#myCarousel_testimonial2" data-bs-slide-to="0" class="active"/>
+                                <li t-attf-data-bs-target="#myCarousel_testimonial2" data-bs-slide-to="1"/>
+                            </ol>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                    <div class="container oe_unremovable">
+                                        <div class="row content">
+                                                    <div class="carousel-content col-md-4 pt24 pb16">
+                                                        <div class="card border-radius-12 shadow-sm light-border">
+                                                            <div class="mt-n4 px-4 pb-4 text-center z-index-1 pt-0">
+                                                                <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                                                <h5 class="mb-1">John Smith</h5>
+                                                                <p class="mb-0">Co-Founder</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="carousel-content col-md-4 pt24 pb16">
+                                                        <div class="card border-radius-12 shadow-sm light-border">
+                                                            <div class="mt-n4 px-4 pb-4 text-center z-index-1 pt-0">
+                                                                <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                                                <h5 class="mb-1">John Smith</h5>
+                                                                <p class="mb-0">Co-Founder</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="carousel-content col-md-4 pt24 pb16">
+                                                        <div class="card border-radius-12 shadow-sm light-border">
+                                                            <div class="mt-n4 px-4 pb-4 text-center z-index-1 pt-0">
+                                                                <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                                                <h5 class="mb-1">John Smith</h5>
+                                                                <p class="mb-0">Co-Founder</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                 <div class="carousel-item  oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                    <div class="container oe_unremovable">
+                                        <div class="row content">
+                                                    <div class="carousel-content col-md-4 pt24 pb16">
+                                                        <div class="card border-radius-12 shadow-sm light-border">
+                                                            <div class="mt-n4 px-4 pb-4 text-center z-index-1 pt-0">
+                                                                <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                                                <h5 class="mb-1">John Smith</h5>
+                                                                <p class="mb-0">Co-Founder</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="carousel-content col-md-4 pt24 pb16">
+                                                        <div class="card border-radius-12 shadow-sm light-border">
+                                                            <div class="mt-n4 px-4 pb-4 text-center z-index-1 pt-0">
+                                                                <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                                                <h5 class="mb-1">John Smith</h5>
+                                                                <p class="mb-0">Co-Founder</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="carousel-content col-md-4 pt24 pb16">
+                                                        <div class="card border-radius-12 shadow-sm light-border">
+                                                            <div class="mt-n4 px-4 pb-4 text-center z-index-1 pt-0">
+                                                                <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                                                <h5 class="mb-1">John Smith</h5>
+                                                                <p class="mb-0">Co-Founder</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                <a class="carousel-control-prev o_not_editable d-none" contenteditable="false" data-bs-slide="prev" role="img" aria-label="Previous" title="Previous" href="#myCarousel_testimonial2">
+                                                    <span class="carousel-control-prev-icon"></span>
+                                                    <span class="visually-hidden o_default_snippet_text">Previous</span>
+                                                </a>
+                                                <a class="carousel-control-next o_not_editable d-none" contenteditable="false" data-bs-slide="next" role="img" aria-label="Next" title="Next" href="#myCarousel_testimonial2">
+                                                    <span class="carousel-control-next-icon"></span>
+                                                    <span class="visually-hidden o_default_snippet_text">Next</span>
+                                                </a>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Testimonial 2</h6>
+                <label class="e-sb-label" for="e_testimonial_02"><input id="e_testimonial_02" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.testimonial_temp3">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/testimonial-3.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-testimonial-snippet-03">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-8 pb16 pt16">
+                                    <label class="bg-primary px-3 py-1 border-radius-12 mb-3">Testimonials</label>
+                                    <h1 class="mb-4">Make smarter business decisions <br /> with data analysis</h1>
+                                    <p class="mb-0 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                    <div class="row pt16">
+                                        <div class="col-md-6 pt16 pb16">
+                                            <div class="d-flex">
+                                                <i class="fa fa-desktop text-o-color-1 bg-primary-light rounded border border-primary"></i>
+                                                <div class="col ms-3 text-start">
+                                                    <span class="h6 mb-1 o_default_snippet_text">Web Development</span>
+                                                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 pt16 pb16">
+                                            <div class="d-flex">
+                                                <i class="fa fa-object-ungroup text-o-color-1 bg-primary-light rounded border border-primary"></i>
+                                                <div class="col ms-3 text-start">
+                                                    <span class="h6 mb-1 o_default_snippet_text">Graphics Design</span>
+                                                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 pt16 pb16">
+                                            <div class="d-flex">
+                                                <i class="fa fa-pencil text-o-color-1 bg-primary-light rounded border border-primary"></i>
+                                                <div class="col ms-3 text-start">
+                                                    <span class="h6 mb-1 o_default_snippet_text">Logo &amp; Identity</span>
+                                                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 pt16 pb16">
+                                            <div class="d-flex">
+                                                <i class="fa fa-unlink text-o-color-1 bg-primary-light rounded border border-primary"></i>
+                                                <div class="col ms-3 text-start">
+                                                    <span class="h6 mb-1 o_default_snippet_text">Social Marketing</span>
+                                                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pb16 pt16">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/500x900.jpg" />
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Testimonial 3</h6>
+                <label class="e-sb-label" for="e_testimonial_03"><input id="e_testimonial_03" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.testimonial_temp4">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/testimonial-4.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt48 pb48 testimonials-slider as-testimonial-snippet-01 s_comparisons">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-6 pt16 pb16">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg" />
+                                </div>
+                                <div class="col-lg-6 pt16 pb16">
+                                    <div class="col-12 mb-2">
+                                        <label class="border-bottom h6 text-primary border-primary">Testimonials</label>
+                                        <h1 class="mb-3">Check what’s our client say?</h1>
+                                        <p>We’ve strong work history with different business services</p>
+                                    </div>
+                                    <div class="col-12">
+                                        <section class="s_carousel_wrapper" data-vxml="001">
+                                            <div t-attf-id="myCarousel_testimonial4" class="s_carousel s_carousel_default carousel slide" data-bs-interval="10000">
+                                                <ol class="carousel-indicators">
+                                                    <li t-attf-data-bs-target="#myCarousel_testimonial4" data-bs-slide-to="0" class="active"/>
+                                                    <li t-attf-data-bs-target="#myCarousel_testimonial4" data-bs-slide-to="1"/>
+                                                </ol>
+                                                <div class="carousel-inner">
+                                                    <div class="carousel-item active oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                                        <div class="container oe_unremovable">
+                                                            <div class="row content">
+                                                                <div class="carousel-content col-sm-6 pt8 pb8">
+                                                                    <div class="card border-radius-12 shadow-sm">
+                                                                        <section class="card-img oe_img_bg o_bg_img_center text-center py-5 o_colored_level o_cc o_cc4" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg');">
+                                                                            <div class="mask position-absolute bg-primary-soft"></div>
+                                                                            <div class="position-relative w-100 text-center">
+                                                                                <h5 class="mb-1">John Smith</h5>
+                                                                                <p class="mb-0">Co-Founder</p>
+                                                                            </div>
+                                                                        </section>
+                                                                        <div class="mt-n4 px-4 pb-4 text-center z-index-1 bg-transparent pt-0">
+                                                                            <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="carousel-content col-sm-6 pt8 pb8">
+                                                                    <div class="card border-radius-12 shadow-sm">
+                                                                        <section class="card-img oe_img_bg o_bg_img_center text-center py-5 o_colored_level o_cc o_cc4" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg');">
+                                                                            <div class="mask position-absolute bg-primary-soft"></div>
+                                                                            <div class="position-relative w-100 text-center">
+                                                                                <h5 class="mb-1">John Smith</h5>
+                                                                                <p class="mb-0">Co-Founder</p>
+                                                                            </div>
+                                                                        </section>
+                                                                        <div class="mt-n4 px-4 pb-4 text-center z-index-1 bg-transparent pt-0">
+                                                                            <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+              
+                                                    <div class="carousel-item oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                                        <div class="container oe_unremovable">
+                                                            <div class="row content">
+                                                                <div class="carousel-content col-sm-6 pt8 pb8">
+                                                                    <div class="card border-radius-12 shadow-sm">
+                                                                        <section class="card-img oe_img_bg o_bg_img_center text-center py-5 o_colored_level o_cc o_cc4" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg');">
+                                                                            <div class="mask position-absolute bg-primary-soft"></div>
+                                                                            <div class="position-relative w-100 text-center">
+                                                                                <h5 class="mb-1">John Smith</h5>
+                                                                                <p class="mb-0">Co-Founder</p>
+                                                                            </div>
+                                                                        </section>
+                                                                        <div class="mt-n4 px-4 pb-4 text-center z-index-1 bg-transparent pt-0">
+                                                                            <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="carousel-content col-sm-6 pt8 pb8">
+                                                                    <div class="card border-radius-12 shadow-sm">
+                                                                        <section class="card-img oe_img_bg o_bg_img_center text-center py-5 o_colored_level o_cc o_cc4" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg');">
+                                                                            <div class="mask position-absolute bg-primary-soft"></div>
+                                                                            <div class="position-relative w-100 text-center">
+                                                                                <h5 class="mb-1">John Smith</h5>
+                                                                                <p class="mb-0">Co-Founder</p>
+                                                                            </div>
+                                                                        </section>
+                                                                        <div class="mt-n4 px-4 pb-4 text-center z-index-1 bg-transparent pt-0">
+                                                                            <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                 <a class="carousel-control-prev o_not_editable d-none" contenteditable="false" data-bs-slide="prev" role="img" aria-label="Previous" title="Previous" href="#myCarousel_testimonial4">
+                                                    <span class="carousel-control-prev-icon"></span>
+                                                    <span class="visually-hidden o_default_snippet_text">Previous</span>
+                                                </a>
+                                                <a class="carousel-control-next o_not_editable d-none" contenteditable="false" data-bs-slide="next" role="img" aria-label="Next" title="Next" href="#myCarousel_testimonial4">
+                                                    <span class="carousel-control-next-icon"></span>
+                                                    <span class="visually-hidden o_default_snippet_text">Next</span>
+                                                </a>
+                                            </div>
+                                        </section>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Testimonial 4</h6>
+                <label class="e-sb-label" for="e_testimonial_04"><input id="e_testimonial_04" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.testimonial_temp5">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/testimonial-5.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt24 as-testimonial-snippet-05 s_comparisons o_colored_level o_cc o_cc2">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-md-6 text-center pt16">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" />
+                                </div>
+                                <div class="col-md-6 col-lg-4 pt16">
+                                    <div class="card border-radius-12 shadow border-0 p-4">
+                                        <i class="fa fa-quote-left rounded me-auto rounded-circle bg-o-color-1 mb-3"></i>
+                                        <p class="lead">This theme aute irure dolor in reprehe erit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur for the life sint occaecat cupidatat non proident, sunt in culpa qui officia de est laborum.</p>
+                                        <div class="pt-2">
+                                            <h6 class="m-0">John Smith</h6>
+                                            <p class="small">Co-founder</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Testimonial 5</h6>
+                <label class="e-sb-label" for="e_testimonial_05"><input id="e_testimonial_05" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.testimonial_temp6">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/testimonial-6.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-testimonial-snippet-06 border-top border-bottom light-border">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 pt56 pb56">
+                                    <div class="text-center p-5">
+                                        <div class="w-90px d-inline-block mb-4">
+                                            <img class="img-fluid rounded-circle" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        </div>
+                                        <p class="lead">This theme aute irure dolor in reprehe erit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur for the life sint occaecat cupidatat non proident, sunt in culpa qui.</p>
+                                        <div class="pt-2">
+                                            <h6 class="m-0">John Smith</h6>
+                                            <p class="small">Sr.Designer</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 pt56 pb56">
+                                    <div class="text-center p-5">
+                                        <div class="w-90px d-inline-block mb-4">
+                                            <img class="img-fluid rounded-circle" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        </div>
+                                        <p class="lead">This theme aute irure dolor in reprehe erit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur for the life sint occaecat cupidatat non proident, sunt in culpa qui.</p>
+                                        <div class="pt-2">
+                                            <h6 class="m-0">John Smith</h6>
+                                            <p class="small">Sr.Designer</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Testimonial 6</h6>
+                <label class="e-sb-label" for="e_testimonial_06"><input id="e_testimonial_06" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.testimonial_temp7">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/testimonial-7.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_carousel_wrapper oe_snippet_body as-testimonial-snippet-02 s_comparisons" data-vxml="001" data-snippet="s_carousel" data-name="Carousel">
+                        <div t-attf-id="myCarousel_testimonial7" class="s_carousel s_carousel_default carousel slide" data-bs-interval="10000">
+                            <ol class="carousel-indicators">
+                                <li t-attf-data-bs-target="#myCarousel_testimonial7" data-bs-slide-to="0" class="active"/>
+                                <li t-attf-data-bs-target="#myCarousel_testimonial7" data-bs-slide-to="1"/>
+                            </ol>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                    <div class="container oe_unremovable">
+                                        <div class="row content">
+                                            <div class="carousel-content col-md-4 pt24 pb16">
+                                                <div class="card border-radius-12 shadow-sm light-border hover-top pt-4">
+                                                    <div class="d-inline-block">
+                                                        <img class="rounded-circle img-fluid mx-auto d-block w-25" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                    </div>
+                                                    <div class="mt-n4 px-4 pb-4 text-center z-index-1 pt-0">
+                                                        <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                        <p>This theme aute irure dolor in reprehe erit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                                                        <h5 class="mb-1">John Smith</h5>
+                                                        <p class="mb-0">Co-Founder</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-content col-md-4 pt24 pb16">
+                                                <div class="card border-radius-12 shadow-sm light-border hover-top pt-4">
+                                                    <div class="d-inline-block">
+                                                        <img class="rounded-circle img-fluid mx-auto d-block w-25" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                    </div>
+                                                    <div class="mt-n4 px-4 pb-4 text-center z-index-1 pt-0">
+                                                        <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                        <p>This theme aute irure dolor in reprehe erit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                                                        <h5 class="mb-1">John Smith</h5>
+                                                        <p class="mb-0">Co-Founder</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-content col-md-4 pt24 pb16">
+                                                <div class="card border-radius-12 shadow-sm light-border hover-top pt-4">
+                                                    <div class="d-inline-block">
+                                                        <img class="rounded-circle img-fluid mx-auto d-block w-25" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                    </div>
+                                                    <div class="mt-n4 px-4 pb-4 text-center z-index-1 pt-0">
+                                                        <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                        <p>This theme aute irure dolor in reprehe erit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                                                        <h5 class="mb-1">John Smith</h5>
+                                                        <p class="mb-0">Co-Founder</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                 <div class="carousel-item  oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                    <div class="container oe_unremovable">
+                                        <div class="row content">
+                                            <div class="carousel-content col-md-4 pt24 pb16">
+                                                <div class="card border-radius-12 shadow-sm light-border hover-top pt-4">
+                                                    <div class="d-inline-block">
+                                                        <img class="rounded-circle img-fluid mx-auto d-block w-25" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                    </div>
+                                                    <div class="mt-n4 px-4 pb-4 text-center z-index-1 pt-0">
+                                                        <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                        <p>This theme aute irure dolor in reprehe erit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                                                        <h5 class="mb-1">John Smith</h5>
+                                                        <p class="mb-0">Co-Founder</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-content col-md-4 pt24 pb16">
+                                                <div class="card border-radius-12 shadow-sm light-border hover-top pt-4">
+                                                    <div class="d-inline-block">
+                                                        <img class="rounded-circle img-fluid mx-auto d-block w-25" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                    </div>
+                                                    <div class="mt-n4 px-4 pb-4 text-center z-index-1 pt-0">
+                                                        <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                        <p>This theme aute irure dolor in reprehe erit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                                                        <h5 class="mb-1">John Smith</h5>
+                                                        <p class="mb-0">Co-Founder</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-content col-md-4 pt24 pb16">
+                                                <div class="card border-radius-12 shadow-sm light-border hover-top pt-4">
+                                                    <div class="d-inline-block">
+                                                        <img class="rounded-circle img-fluid mx-auto d-block w-25" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                    </div>
+                                                    <div class="mt-n4 px-4 pb-4 text-center z-index-1 pt-0">
+                                                        <i class="fa fa-quote-left rounded rounded-circle bg-o-color-1 mb-3"></i>
+                                                        <p>This theme aute irure dolor in reprehe erit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                                                        <h5 class="mb-1">John Smith</h5>
+                                                        <p class="mb-0">Co-Founder</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                             <a class="carousel-control-prev o_not_editable d-none" contenteditable="false" data-bs-slide="prev" role="img" aria-label="Previous" title="Previous" href="#myCarousel_testimonial7">
+                                                    <span class="carousel-control-prev-icon"></span>
+                                                    <span class="visually-hidden o_default_snippet_text">Previous</span>
+                                                </a>
+                                                <a class="carousel-control-next o_not_editable d-none" contenteditable="false" data-bs-slide="next" role="img" aria-label="Next" title="Next" href="#myCarousel_testimonial7">
+                                                    <span class="carousel-control-next-icon"></span>
+                                                    <span class="visually-hidden o_default_snippet_text">Next</span>
+                                                </a>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Testimonial 7</h6>
+                <label class="e-sb-label" for="e_testimonial_07"><input id="e_testimonial_07" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.testimonial_temp8">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/testimonial-8.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                   <section class="s_comparisons pt56 pb56">
+                       <div class="container">
+                           <div class="row">
+                               <div class="col-md-6 pt16 pb16">
+                                   <div class="card border-radius-12 border light-border p-lg-5 p-3 shadow-sm">
+                                       <div class="d-flex">
+                                           <img class="w-90px rounded-circle img-fluid mx-auto d-block" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                            <div class="col ms-3">
+                                                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+                                                <h5 class="mb-1">John Smith</h5>
+                                                <p class="mb-0">Co-Founder</p>
+                                            </div>
+                                       </div>
+                                   </div>
+                               </div>
+                               <div class="col-md-6 pt16 pb16">
+                                   <div class="card border-radius-12 border light-border p-lg-5 p-3 shadow-sm">
+                                       <div class="d-flex">
+                                           <img class="w-90px rounded-circle img-fluid mx-auto d-block" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                            <div class="col ms-3">
+                                                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+                                                <h5 class="mb-1">John Smith</h5>
+                                                <p class="mb-0">Co-Founder</p>
+                                            </div>
+                                       </div>
+                                   </div>
+                               </div>
+                               <div class="col-md-6 pt16 pb16">
+                                   <div class="card border-radius-12 border light-border p-lg-5 p-3 shadow-sm">
+                                       <div class="d-flex">
+                                           <img class="w-90px rounded-circle img-fluid mx-auto d-block" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                            <div class="col ms-3">
+                                                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+                                                <h5 class="mb-1">John Smith</h5>
+                                                <p class="mb-0">Co-Founder</p>
+                                            </div>
+                                       </div>
+                                   </div>
+                               </div>
+                               <div class="col-md-6 pt16 pb16">
+                                   <div class="card border-radius-12 border light-border p-lg-5 p-3 shadow-sm">
+                                       <div class="d-flex">
+                                           <img class="w-90px rounded-circle img-fluid mx-auto d-block" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                            <div class="col ms-3">
+                                                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+                                                <h5 class="mb-1">John Smith</h5>
+                                                <p class="mb-0">Co-Founder</p>
+                                            </div>
+                                       </div>
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                   </section>
+                </textarea>
+                <h6>Testimonial 8</h6>
+                <label class="e-sb-label" for="e_testimonial_08"><input id="e_testimonial_08" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.testimonial_temp9">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/testimonial-9.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt56 pb56 as-testimonial-snippet-09">
+                       <div class="container">
+                           <div class="row">
+                               <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                   <div class="card border-radius-12 border light-border p-4 shadow-sm">
+                                        <img class="w-90px rounded-circle img-fluid me-auto d-block mb-4" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <h5 class="mb-1">John Smith</h5>
+                                        <p class="small">Co-Founder</p>
+                                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                   </div>
+                               </div>
+                               <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                   <div class="card border-radius-12 border light-border p-4 shadow-sm">
+                                        <img class="w-90px rounded-circle img-fluid me-auto d-block mb-4" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <h5 class="mb-1">John Smith</h5>
+                                        <p class="small">Co-Founder</p>
+                                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                   </div>
+                               </div>
+                               <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                   <div class="card border-radius-12 border light-border p-4 shadow-sm">
+                                        <img class="w-90px rounded-circle img-fluid me-auto d-block mb-4" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <h5 class="mb-1">John Smith</h5>
+                                        <p class="small">Co-Founder</p>
+                                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                   </div>
+                               </div>
+                               <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                   <div class="card border-radius-12 border light-border p-4 shadow-sm">
+                                        <img class="w-90px rounded-circle img-fluid me-auto d-block mb-4" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <h5 class="mb-1">John Smith</h5>
+                                        <p class="small">Co-Founder</p>
+                                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                   </section>
+                </textarea>
+                <h6>Testimonial 9</h6>
+                <label class="e-sb-label" for="e_testimonial_09"><input id="e_testimonial_09" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.testimonial_temp10">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/testimonial-10.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt56 pb56 as-testimonial-snippet-10">
+                        <div class="container">
+                            <div class="row align-items-center justify-content-between">
+                                <div class="col-lg-5 pt16 pb16">
+                                    <i class="fa fa-2x fa-quote-left rounded me-auto rounded-circle bg-o-color-1 mb-3"></i>
+                                    <h4 class="fw-400 lh-7 mb-4">I wanted to move from Wordpress to an HTML site for page load speed reasons. After looking at a dozen packages, I decided "Tony" had what I needed.</h4>
+                                    <h5 class="mb-1">John Smith</h5>
+                                    <p class="small text-muted">Co-Founder</p>
+                                </div>
+                                <div class="col-lg-6 pt16 pb16 text-center">
+                                    <img class="img-fluid border-radius-12" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Testimonial 10</h6>
+                <label class="e-sb-label" for="e_testimonial_10"><input id="e_testimonial_10" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.testimonial_temp11">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/testimonial-11.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_carousel_wrapper oe_snippet_body as-testimonial-snippet-02 s_comparisons" data-vxml="001" data-snippet="s_carousel" data-name="Carousel">
+                        <div t-attf-id="myCarousel_testimonial11" class="s_carousel s_carousel_default carousel slide" data-bs-interval="10000">
+                            <ol class="carousel-indicators">
+                                <li t-attf-data-bs-target="#myCarousel_testimonial11" data-bs-slide-to="0" class="active"/>
+                                <li t-attf-data-bs-target="#myCarousel_testimonial11" data-bs-slide-to="1"/>
+                            </ol>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                     <div class="container oe_unremovable">
+                                        <div class="row content">
+                                            <div class="carousel-content col-md-4 pt24 pb16">
+                                                <div class="card border-radius-12 border light-border p-4 shadow-sm">
+                                                    <div class="d-flex align-items-center mb-3">
+                                                        <img class="w-50px rounded-circle img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                        <div class="col ms-3">
+                                                            <h5 class="mb-1">John Smith</h5>
+                                                            <p class="small mb-0">Co-Founder</p>
+                                                        </div>
+                                                    </div>
+                                                    <p class="mb-0">I wanted to move from Wordpress to an HTML site for page load speed reasons. After looking at a dozen packages, I decided "Tony" had what I needed.</p>
+                                               </div>
+                                            </div>
+                                            <div class="carousel-content col-md-4 pt24 pb16">
+                                                <div class="card border-radius-12 border light-border p-4 shadow-sm">
+                                                    <div class="d-flex align-items-center mb-3">
+                                                        <img class="w-50px rounded-circle img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                        <div class="col ms-3">
+                                                            <h5 class="mb-1">John Smith</h5>
+                                                            <p class="small mb-0">Co-Founder</p>
+                                                        </div>
+                                                    </div>
+                                                    <p class="mb-0">I wanted to move from Wordpress to an HTML site for page load speed reasons. After looking at a dozen packages, I decided "Tony" had what I needed.</p>
+                                               </div>
+                                            </div>
+                                            <div class="carousel-content col-md-4 pt24 pb16">
+                                                <div class="card border-radius-12 border light-border p-4 shadow-sm">
+                                                    <div class="d-flex align-items-center mb-3">
+                                                        <img class="w-50px rounded-circle img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                        <div class="col ms-3">
+                                                            <h5 class="mb-1">John Smith</h5>
+                                                            <p class="small mb-0">Co-Founder</p>
+                                                        </div>
+                                                    </div>
+                                                    <p class="mb-0">I wanted to move from Wordpress to an HTML site for page load speed reasons. After looking at a dozen packages, I decided "Tony" had what I needed.</p>
+                                               </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                 <div class="carousel-item  oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                    <div class="container oe_unremovable">
+                                        <div class="row content">
+                                            <div class="carousel-content col-md-4 pt24 pb16">
+                                                <div class="card border-radius-12 border light-border p-4 shadow-sm">
+                                                    <div class="d-flex align-items-center mb-3">
+                                                        <img class="w-50px rounded-circle img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                        <div class="col ms-3">
+                                                            <h5 class="mb-1">John Smith</h5>
+                                                            <p class="small mb-0">Co-Founder</p>
+                                                        </div>
+                                                    </div>
+                                                    <p class="mb-0">I wanted to move from Wordpress to an HTML site for page load speed reasons. After looking at a dozen packages, I decided "Tony" had what I needed.</p>
+                                               </div>
+                                            </div>
+                                            <div class="carousel-content col-md-4 pt24 pb16">
+                                                <div class="card border-radius-12 border light-border p-4 shadow-sm">
+                                                    <div class="d-flex align-items-center mb-3">
+                                                        <img class="w-50px rounded-circle img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                        <div class="col ms-3">
+                                                            <h5 class="mb-1">John Smith</h5>
+                                                            <p class="small mb-0">Co-Founder</p>
+                                                        </div>
+                                                    </div>
+                                                    <p class="mb-0">I wanted to move from Wordpress to an HTML site for page load speed reasons. After looking at a dozen packages, I decided "Tony" had what I needed.</p>
+                                               </div>
+                                            </div>
+                                            <div class="carousel-content col-md-4 pt24 pb16">
+                                                <div class="card border-radius-12 border light-border p-4 shadow-sm">
+                                                    <div class="d-flex align-items-center mb-3">
+                                                        <img class="w-50px rounded-circle img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                                        <div class="col ms-3">
+                                                            <h5 class="mb-1">John Smith</h5>
+                                                            <p class="small mb-0">Co-Founder</p>
+                                                        </div>
+                                                    </div>
+                                                    <p class="mb-0">I wanted to move from Wordpress to an HTML site for page load speed reasons. After looking at a dozen packages, I decided "Tony" had what I needed.</p>
+                                               </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                              <a class="carousel-control-prev o_not_editable d-none" contenteditable="false" data-bs-slide="prev" role="img" aria-label="Previous" title="Previous" href="#myCarousel_testimonial11">
+                                                    <span class="carousel-control-prev-icon"></span>
+                                                    <span class="visually-hidden o_default_snippet_text">Previous</span>
+                                                </a>
+                                                <a class="carousel-control-next o_not_editable d-none" contenteditable="false" data-bs-slide="next" role="img" aria-label="Next" title="Next" href="#myCarousel_testimonial11">
+                                                    <span class="carousel-control-next-icon"></span>
+                                                    <span class="visually-hidden o_default_snippet_text">Next</span>
+                                                </a>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Testimonial 11</h6>
+                <label class="e-sb-label" for="e_testimonial_11"><input id="e_testimonial_11" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.testimonial_temp12">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/testimonial-12.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt56 pb56 as-testimonial-snippet-12 o_cc o_cc2">
+                       <div class="container">
+                           <div class="row">
+                               <div class="col-md-4 pt16 pb16">
+                                   <div class="card border-radius-12 border light-border p-4">
+                                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                   </div>
+                                   <div class="text-center pt-3">
+                                        <img class="w-90px rounded-circle img-fluid m-auto d-block" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <h5 class="mb-1 pt-3">John Smith</h5>
+                                        <p class="small mb-0">Co-Founder</p>
+                                   </div>
+                               </div>
+                               <div class="col-md-4 pt16 pb16">
+                                   <div class="card border-radius-12 border light-border p-4">
+                                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                   </div>
+                                   <div class="text-center pt-3">
+                                        <img class="w-90px rounded-circle img-fluid m-auto d-block" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <h5 class="mb-1 pt-3">John Smith</h5>
+                                        <p class="small mb-0">Co-Founder</p>
+                                   </div>
+                               </div>
+                               <div class="col-md-4 pt16 pb16">
+                                   <div class="card border-radius-12 border light-border p-4">
+                                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                   </div>
+                                   <div class="text-center pt-3">
+                                        <img class="w-90px rounded-circle img-fluid m-auto d-block" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <h5 class="mb-1 pt-3">John Smith</h5>
+                                        <p class="small mb-0">Co-Founder</p>
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                   </section>
+                </textarea>
+                <h6>Testimonial 12</h6>
+                <label class="e-sb-label" for="e_testimonial_12"><input id="e_testimonial_12" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.testimonial_temp13">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/testimonial-13.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_carousel_wrapper oe_snippet_body s_comparisons as-testimonial-snippet-13 " data-vxml="001" data-snippet="s_carousel" data-name="Carousel">
+                        <div t-attf-id="myCarousel_testimonial13" class="s_carousel s_carousel_default carousel slide" data-bs-interval="10000">
+                            <ol class="carousel-indicators">
+                                <li t-attf-data-bs-target="#myCarousel_testimonial13" data-bs-slide-to="0" class="active"/>
+                                <li t-attf-data-bs-target="#myCarousel_testimonial13" data-bs-slide-to="1"/>
+                            </ol>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                     <div class="container oe_unremovable">
+                                        <div class="row content">
+                                            <div class="carousel-content col-md-6 pt24 pb16">
+                                                <div class="card border-radius-12 shadow-sm light-border overflow-relative">
+                                                    <div class="row">
+                                                        <div class="col-4"><img class="img-fluid h-100" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" /></div>
+                                                        <div class="col-8">
+                                                            <div class="p-4">
+                                                                <h5 class="mb-1">John Smith</h5>
+                                                                <p class="smal">Co-Founder</p>
+                                                                <p class="mb-0 lead">This theme aute irure dolor in reprehe erit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-content col-md-6 pt24 pb16">
+                                                <div class="card border-radius-12 shadow-sm light-border overflow-relative">
+                                                    <div class="row">
+                                                        <div class="col-4"><img class="img-fluid h-100" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" /></div>
+                                                        <div class="col-8">
+                                                            <div class="p-4">
+                                                                <h5 class="mb-1">John Smith</h5>
+                                                                <p class="smal">Co-Founder</p>
+                                                                <p class="mb-0 lead">This theme aute irure dolor in reprehe erit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="carousel-item  oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                     <div class="container oe_unremovable">
+                                        <div class="row content">
+                                            <div class="carousel-content col-md-6 pt24 pb16">
+                                                <div class="card border-radius-12 shadow-sm light-border overflow-relative">
+                                                    <div class="row">
+                                                        <div class="col-4"><img class="img-fluid h-100" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" /></div>
+                                                        <div class="col-8">
+                                                            <div class="p-4">
+                                                                <h5 class="mb-1">John Smith</h5>
+                                                                <p class="smal">Co-Founder</p>
+                                                                <p class="mb-0 lead">This theme aute irure dolor in reprehe erit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="carousel-content col-md-6 pt24 pb16">
+                                                <div class="card border-radius-12 shadow-sm light-border overflow-relative">
+                                                    <div class="row">
+                                                        <div class="col-4"><img class="img-fluid h-100" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" /></div>
+                                                        <div class="col-8">
+                                                            <div class="p-4">
+                                                                <h5 class="mb-1">John Smith</h5>
+                                                                <p class="smal">Co-Founder</p>
+                                                                <p class="mb-0 lead">This theme aute irure dolor in reprehe erit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <a class="carousel-control-prev o_not_editable d-none" contenteditable="false" data-bs-slide="prev" role="img" aria-label="Previous" title="Previous" href="#myCarousel_testimonial13">
+                                <span class="carousel-control-prev-icon"></span>
+                                <span class="visually-hidden o_default_snippet_text">Previous</span>
+                            </a>
+                            <a class="carousel-control-next o_not_editable d-none" contenteditable="false" data-bs-slide="next" role="img" aria-label="Next" title="Next" href="#myCarousel_testimonial13">
+                                <span class="carousel-control-next-icon"></span>
+                                <span class="visually-hidden o_default_snippet_text">Next</span>
+                            </a>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Testimonial 13</h6>
+                <label class="e-sb-label" for="e_testimonial_13"><input id="e_testimonial_13" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+</templates>

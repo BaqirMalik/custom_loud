@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates id="as_our_team_templates">
+
+<t t-name="theme_avid.our_team_temp1">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/our_team-1.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt24 pb24 s_comparisons as-team-snippet-01">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card border-0 pt16 pb16 bg-transparent">
+                                        <img class="img-fluid border-radius-12" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <div class="mt-n5 p-4 text-center shadow mx-4 bg-white border-radius-12">
+                                            <h6>John Smith</h6>
+                                            <label>Co-Founder</label>
+                                            <div class="s_share">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card border-0 pt16 pb16 bg-transparent">
+                                        <img class="img-fluid border-radius-12" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <div class="mt-n5 p-4 text-center shadow mx-4 bg-white border-radius-12">
+                                            <h6>John Smith</h6>
+                                            <label>Co-Founder</label>
+                                            <div class="s_share">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card border-0 pt16 pb16 bg-transparent">
+                                        <img class="img-fluid border-radius-12" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <div class="mt-n5 p-4 text-center shadow mx-4 bg-white border-radius-12">
+                                            <h6>John Smith</h6>
+                                            <label>Co-Founder</label>
+                                            <div class="s_share">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card border-0 pt16 pb16 bg-transparent">
+                                        <img class="img-fluid border-radius-12" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <div class="mt-n5 p-4 text-center shadow mx-4 bg-white border-radius-12">
+                                            <h6>John Smith</h6>
+                                            <label>Co-Founder</label>
+                                            <div class="s_share">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Our Team 1</h6>
+                <label class="e-sb-label" for="e_our_team_01"><input id="e_our_team_01" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.our_team_temp2">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/our_team-2.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt24 pb24 s_comparisons as-team-snippet-02">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card border-0 p-3 bg-transparent">
+                                        <img class="img-fluid rounded-circle" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <div class="mt-n5 p-4 text-center shadow-large bg-white border-radius-12">
+                                            <h6>John Smith</h6>
+                                            <label>Co-Founder</label>
+                                            <div class="s_share">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card border-0 p-3 bg-transparent">
+                                        <img class="img-fluid rounded-circle" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <div class="mt-n5 p-4 text-center shadow-large bg-white border-radius-12">
+                                            <h6>John Smith</h6>
+                                            <label>Co-Founder</label>
+                                            <div class="s_share">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card border-0 p-3 bg-transparent">
+                                        <img class="img-fluid rounded-circle" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <div class="mt-n5 p-4 text-center shadow-large bg-white border-radius-12">
+                                            <h6>John Smith</h6>
+                                            <label>Co-Founder</label>
+                                            <div class="s_share">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card border-0 p-3 bg-transparent">
+                                        <img class="img-fluid rounded-circle" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <div class="mt-n5 p-4 text-center shadow-large bg-white border-radius-12">
+                                            <h6>John Smith</h6>
+                                            <label>Co-Founder</label>
+                                            <div class="s_share">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Our Team 2</h6>
+                <label class="e-sb-label" for="e_our_team_02"><input id="e_our_team_02" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.our_team_temp3">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/our_team-3.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt24 pb24 s_comparisons as-team-snippet-03">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card border-0 p-3 bg-transparent">
+                                        <div class="overflow-relative z-index-1 px-3">
+                                            <img class="img-fluid rounded-circle border-5 border-white shadow" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        </div>
+                                        <div class="mt-n3 p-4 text-center shadow-large bg-white border-radius-12">
+                                            <h6>John Smith</h6>
+                                            <label>Co-Founder</label>
+                                            <div class="s_share">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card border-0 p-3 bg-transparent">
+                                        <div class="overflow-relative z-index-1 px-3">
+                                            <img class="img-fluid rounded-circle border-5 border-white shadow" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        </div>
+                                        <div class="mt-n3 p-4 text-center shadow-large bg-white border-radius-12">
+                                            <h6>John Smith</h6>
+                                            <label>Co-Founder</label>
+                                            <div class="s_share">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card border-0 p-3 bg-transparent">
+                                        <div class="overflow-relative z-index-1 px-3">
+                                            <img class="img-fluid rounded-circle border-5 border-white shadow" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        </div>
+                                        <div class="mt-n3 p-4 text-center shadow-large bg-white border-radius-12">
+                                            <h6>John Smith</h6>
+                                            <label>Co-Founder</label>
+                                            <div class="s_share">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card border-0 p-3 bg-transparent">
+                                        <div class="overflow-relative z-index-1 px-3">
+                                            <img class="img-fluid rounded-circle border-5 border-white shadow" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        </div>
+                                        <div class="mt-n3 p-4 text-center shadow-large bg-white border-radius-12">
+                                            <h6>John Smith</h6>
+                                            <label>Co-Founder</label>
+                                            <div class="s_share">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Our Team 3</h6>
+                <label class="e-sb-label" for="e_our_team_03"><input id="e_our_team_03" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.our_team_temp4">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/our_team-4.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt24 pb24 s_comparisons as-team-snippet-03">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card hover-top p-3 bg-white shadow shadow-lg-hover border-0">
+                                        <div class="">
+                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" title="" alt="" />
+                                        </div>
+                                        <div class="pt-3">
+                                            <h6 class="font-weight-bold mb-1">John Smith</h6>
+                                            <small>Co-Founder</small>
+                                            <div class="s_share pt-2">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card hover-top p-3 bg-white shadow shadow-lg-hover border-0">
+                                        <div class="">
+                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" title="" alt="" />
+                                        </div>
+                                        <div class="pt-3">
+                                            <h6 class="font-weight-bold mb-1">John Smith</h6>
+                                            <small>Co-Founder</small>
+                                            <div class="s_share pt-2">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card hover-top p-3 bg-white shadow shadow-lg-hover border-0">
+                                        <div class="">
+                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" title="" alt="" />
+                                        </div>
+                                        <div class="pt-3">
+                                            <h6 class="font-weight-bold mb-1">John Smith</h6>
+                                            <small>Co-Founder</small>
+                                            <div class="s_share pt-2">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card hover-top p-3 bg-white shadow shadow-lg-hover border-0">
+                                        <div class="">
+                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" title="" alt="" />
+                                        </div>
+                                        <div class="pt-3">
+                                            <h6 class="font-weight-bold mb-1">John Smith</h6>
+                                            <small>Co-Founder</small>
+                                            <div class="s_share pt-2">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_instagram"><i class="fa fa-instagram rounded shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Our Team 4</h6>
+                <label class="e-sb-label" for="e_our_team_04"><input id="e_our_team_04" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.our_team_temp5">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/our_team-5.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt24 pb24 s_comparisons as-team-snippet-03">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card hover-top p-4 shadow-sm border light-border border-radius-12">
+                                        <div class="mb-2 text-center">
+                                            <img class="img-fluid w-120px rounded-circle" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" title="" alt="" />
+                                        </div>
+                                        <div class="pt-2 text-center">
+                                            <span class="text-muted small">UI engineer</span>
+                                            <h6 class="font-weight-bold mb-1">John Smith</h6>
+                                            <p class="m-0 pt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <div class="s_share pt-2 text-center">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card hover-top p-4 shadow-sm border light-border border-radius-12">
+                                        <div class="mb-2 text-center">
+                                            <img class="img-fluid w-120px rounded-circle" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" title="" alt="" />
+                                        </div>
+                                        <div class="pt-2 text-center">
+                                            <span class="text-muted small">UI engineer</span>
+                                            <h6 class="font-weight-bold mb-1">John Smith</h6>
+                                            <p class="m-0 pt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <div class="s_share pt-2 text-center">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card hover-top p-4 shadow-sm border light-border border-radius-12">
+                                        <div class="mb-2 text-center">
+                                            <img class="img-fluid w-120px rounded-circle" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" title="" alt="" />
+                                        </div>
+                                        <div class="pt-2 text-center">
+                                            <span class="text-muted small">UI engineer</span>
+                                            <h6 class="font-weight-bold mb-1">John Smith</h6>
+                                            <p class="m-0 pt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <div class="s_share pt-2 text-center">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card hover-top p-4 shadow-sm border light-border border-radius-12">
+                                        <div class="mb-2 text-center">
+                                            <img class="img-fluid w-120px rounded-circle" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" title="" alt="" />
+                                        </div>
+                                        <div class="pt-2 text-center">
+                                            <span class="text-muted small">UI engineer</span>
+                                            <h6 class="font-weight-bold mb-1">John Smith</h6>
+                                            <p class="m-0 pt-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                            <div class="s_share pt-2 text-center">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Our Team 5</h6>
+                <label class="e-sb-label" for="e_our_team_05"><input id="e_our_team_05" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.our_team_temp6">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/our_team-6.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                 	<section class="pt24 pb24 s_comparisons as-team-snippet-06">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-sm border light-border border-radius-12">
+                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" title="" alt="" />
+                                        <div class="pt-2 p-4">
+                                            <span class="text-muted small">UI engineer</span>
+                                            <h5 class="font-weight-bold mb-1">John Smith</h5>
+                                            <p class="m-0 pt-2">Lorem ipsum dolor sit amet, consectetur.</p>
+                                            <div class="s_share pt-2">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-sm border light-border border-radius-12">
+                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" title="" alt="" />
+                                        <div class="pt-2 p-4">
+                                            <span class="text-muted small">UI engineer</span>
+                                            <h5 class="font-weight-bold mb-1">John Smith</h5>
+                                            <p class="m-0 pt-2">Lorem ipsum dolor sit amet, consectetur.</p>
+                                            <div class="s_share pt-2">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-sm border light-border border-radius-12">
+                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" title="" alt="" />
+                                        <div class="pt-2 p-4">
+                                            <span class="text-muted small">UI engineer</span>
+                                            <h5 class="font-weight-bold mb-1">John Smith</h5>
+                                            <p class="m-0 pt-2">Lorem ipsum dolor sit amet, consectetur.</p>
+                                            <div class="s_share pt-2">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-sm border light-border border-radius-12">
+                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" title="" alt="" />
+                                        <div class="pt-2 p-4">
+                                            <span class="text-muted small">UI engineer</span>
+                                            <h5 class="font-weight-bold mb-1">John Smith</h5>
+                                            <p class="m-0 pt-2">Lorem ipsum dolor sit amet, consectetur.</p>
+                                            <div class="s_share pt-2">
+                                                <a href="#" class="s_share_facebook"><i class="fa fa-facebook shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_twitter"><i class="fa fa-twitter shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                                <a href="#" class="s_share_linkedin"><i class="fa fa-linkedin shadow-sm rounded-circle fa-0px bg-o-color-1"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Our Team 6</h6>
+                <label class="e-sb-label" for="e_our_team_06"><input id="e_our_team_06" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+</templates>

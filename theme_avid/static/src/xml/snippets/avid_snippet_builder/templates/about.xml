@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates id="as_about_templates">
+
+<t t-name="theme_avid.about_temp1">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-1.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons as-about-snippet-01 o_colored_level">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-3 col-md-6 pt16 pb16 o_colored_level">
+                                    <div class="card light-border shadow-sm p-3 text-center hover-top">
+                                        <i class="bg-primary-light fa fa-2x fa-desktop rounded m-auto rounded rounded-circle text-o-color-1"></i>
+                                        <h5 class="o_default_snippet_text mt-3">Web Development</h5>
+                                        <p class="o_default_snippet_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6 pt16 pb16 o_colored_level">
+                                    <div class="card light-border shadow-sm p-3 text-center hover-top">
+                                        <i class="bg-primary-light fa fa-2x fa-edit rounded m-auto rounded rounded-circle text-o-color-1"></i>
+                                        <h5 class="o_default_snippet_text mt-3">Logo &amp; Identity</h5>
+                                        <p class="o_default_snippet_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6 pt16 pb16 o_colored_level">
+                                    <div class="card light-border shadow-sm p-3 text-center hover-top">
+                                        <i class="bg-primary-light fa fa-2x fa-object-ungroup rounded m-auto rounded rounded-circle text-o-color-1"></i>
+                                        <h5 class="o_default_snippet_text mt-3">Graphic Design</h5>
+                                        <p class="o_default_snippet_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-6 pt16 pb16 o_colored_level">
+                                    <div class="card light-border shadow-sm p-3 text-center hover-top">
+                                        <i class="bg-primary-light fa fa-2x fa-rocket rounded m-auto rounded rounded-circle text-o-color-1"></i>
+                                        <h5 class="o_default_snippet_text mt-3">Social Marketing</h5>
+                                        <p class="o_default_snippet_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 1</h6>
+                <label class="e-sb-label" for="e_about_01"><input id="e_about_01" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp2">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-2.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons as-about-snippet-02">
+                        <div class="container">
+                            <div class="row align-items-center s_comparisons">
+                                <div class="col-lg-6 pt16 pb16">
+                                    <div class="card border-radius-12 light-border shadow-sm p-4 hover-top">
+                                        <div class="d-flex">
+                                            <i class="bg-primary-light fa fa-2x fa-desktop rounded-circle me-3 text-o-color-1"></i>
+                                            <div class="col ms-3">
+                                                <h5 class="o_default_snippet_text">Web Development</h5>
+                                                <p class="o_default_snippet_text mb-0">
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 pt16 pb16">
+                                    <div class="card border-radius-12 light-border shadow-sm p-4 hover-top">
+                                        <div class="d-flex">
+                                            <i class="bg-primary-light fa fa-2x fa-edit rounded-circle me-3 text-o-color-1"></i>
+                                            <div class="col ms-3">
+                                                <h5 class="o_default_snippet_text">Logo &amp; Identity</h5>
+                                                <p class="o_default_snippet_text mb-0">
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 pt16 pb16">
+                                    <div class="card border-radius-12 light-border shadow-sm p-4 hover-top">
+                                        <div class="d-flex">
+                                            <i class="bg-primary-light fa fa-2x fa-object-ungroup me-3 rounded-circle text-o-color-1"></i>
+                                            <div class="col ms-3">
+                                                <h5 class="o_default_snippet_text">Graphic Design</h5>
+                                                <p class="o_default_snippet_text mb-0">
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 pt16 pb16">
+                                    <div class="card border-radius-12 light-border shadow-sm p-4 hover-top">
+                                        <div class="d-flex">
+                                            <i class="bg-primary-light fa fa-2x fa-rocket me-3 rounded-circle text-o-color-1"></i>
+                                            <div class="col ms-3">
+                                                <h5 class="o_default_snippet_text">Social Marketing</h5>
+                                                <p class="o_default_snippet_text mb-0">
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 2</h6>
+                <label class="e-sb-label" for="e_about_02"><input id="e_about_02" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp3">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-3.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt16 pb16 as-about-snippet-03">
+                        <div class="container">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-lg-5 pt16 pb16">
+                                    <i class="bg-primary-light fa fa-desktop text-o-color-1 border rounded border-primary me-auto mb-3 fa-lg"></i>
+                                    <h3 class="mb-4">Make smarter business decisions with data analysis</h3>
+                                    <p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+                                    <a href="#" class="btn btn-primary mt-4">Learn More</a>
+                                </div>
+                                <div class="col-lg-6 pt16 pb16">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 3</h6>
+                <label class="e-sb-label" for="e_about_03"><input id="e_about_03" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp4">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-4.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt16 pb16 as-about-snippet-04">
+                        <div class="container">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-lg-6 pt16 pb16">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                </div>
+                                <div class="col-lg-5 pt16 pb16 text-end">
+                                    <i class="bg-primary-light fa fa-desktop text-o-color-1 border rounded border-primary me-auto mb-3 fa-lg"></i>
+                                    <h3 class="mb-4">Make smarter business decisions with data analysis</h3>
+                                    <p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+                                    <a href="#" class="btn btn-primary mt-4">Learn More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 4</h6>
+                <label class="e-sb-label" for="e_about_04"><input id="e_about_04" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp5">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-5.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt24 pb24 as-about-snippet-05">
+                        <div class="container">
+                            <div class="row align-items-center justify-content-between">
+                                <div class="col-lg-5 pt24 pb24">
+                                    <h3 class="mb-4">Make smarter business decisions with data analysis</h3>
+                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <div class="d-flex mb-5">
+                                        <i class="bg-primary-light fa fa-1x fa-desktop rounded flex50 me-3 m-0 fa-lg rounded text-o-color-1 border border-primary"></i>
+                                        <div class="col ms-3">
+                                            <h5 class="o_default_snippet_text">Web Development</h5>
+                                            <p class="o_default_snippet_text mb-0">
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex">
+                                        <i class="bg-primary-light fa fa-1x fa-object-ungroup rounded flex50 me-3 m-0 fa-lg rounded text-o-color-1 border border-primary"></i>
+                                        <div class="col ms-3">
+                                            <h5 class="o_default_snippet_text">Graphics Design</h5>
+                                            <p class="o_default_snippet_text mb-0">
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 pt24 pb24">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 5</h6>
+                <label class="e-sb-label" for="e_about_05"><input id="e_about_05" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp6">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-6.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt24 pb24 as-about-snippet-06">
+                        <div class="container">
+                            <div class="row align-items-center justify-content-between">
+                                <div class="col-lg-5 pt24 pb24">
+                                    <h1 class="mb-0">Take a look at how the</h1>
+                                    <h1 class="mb-4">
+                                        <font style="">
+                                            new <span class="text-o-color-1"><u>Startup App works</u></span>
+                                        </font>
+                                    </h1>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                    <a href="#" class="btn btn-primary mt-4">More About</a>
+                                </div>
+                                <div class="col-lg-6 pt24 pb24">
+                                    <div class="position-relative shadow-sm">
+                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                        <a class="video-btn bg-white popup-youtube top-0 left-0 right-0 bottom-0 position-absolute m-auto rounded-circle z-index-1" target="_blank" href="#"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 6</h6>
+                <label class="e-sb-label" for="e_about_06"><input id="e_about_06" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp7">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-7.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-about-snippet-07 pt64 pb64">
+                        <div class="container">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-lg-6 pt24 pb24">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                </div>
+                                <div class="col-lg-6 pt24 pb24">
+                                    <h1>Solve Your Problem Very Fast With us.</h1>
+                                    <p class="mb-2 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <ul class="list-unstyled py-3">
+                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Fully Responsive </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Based On Bootstrap 5</li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Built with Sass </li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <ul class="list-unstyled py-3">
+                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Built with customization </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Quality design and thoughfully </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Created with the latest techno </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="mt-1">
+                                        <a href="#" class="btn btn-primary btn-md">Learn More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 7</h6>
+                <label class="e-sb-label" for="e_about_07"><input id="e_about_07" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp8">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-8.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_text_block as-about-snippet-08" style="background-image: none;">
+                            <div class="container s_allow_columns">
+                                <div class="row align-items-center justify-content-lg-between">
+                                    <div class="col-lg-5 pb16 pt16">
+                                        <h1 class="mb-0">Get tips &amp; tricks on</h1>
+                                        <h1 class="mb-3"><font style="" class="text-o-color-1"><u>how to skyrocket</u></font> your sales.</h1>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                       <!--  <div class="s_tabs pt16 pb16 o_colored_level tabs-design-2" data-vcss="001" data-snippet="s_tabs" data-name="Tabs">
+                                            <div class="s_tabs_main" style="">
+                                                <div class="s_tabs_nav mb-3 nav-justified">
+                                                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                                                        <li class="nav-item">
+                                                            <a class="nav-link active" id="nav_tabs_content_11_tab" data-toggle="pill" href="#nav_tabs_content_11" role="tab" aria-controls="nav_tabs_content_11" aria-selected="true">Friendly</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" id="nav_tabs_content_22_tab" data-toggle="pill" href="#nav_tabs_content_22" role="tab" aria-controls="nav_tabs_content_22" aria-selected="false">Multiple</a>
+                                                        </li>
+                                                        <li class="nav-item">
+                                                            <a class="nav-link" id="nav_tabs_content_33_tab" data-toggle="pill" href="#nav_tabs_content_33" role="tab" aria-controls="nav_tabs_content_33" aria-selected="false">Install</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="tab-content" id="pills-tabContent">
+                                                    <div class="tab-pane fade show active" id="nav_tabs_content_11" role="tabpanel" aria-labelledby="nav_tabs_content_11_tab">
+                                                        <div class="oe_structure oe_empty">
+                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="tab-pane fade" id="nav_tabs_content_22" role="tabpanel" aria-labelledby="nav_tabs_content_22_tab">
+                                                        <div class="oe_structure oe_empty">
+                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="tab-pane fade" id="nav_tabs_content_33" role="tabpanel" aria-labelledby="nav_tabs_content_33_tab">
+                                                        <div class="oe_structure oe_empty">
+                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div> -->
+                                        <section class="s_tabs pt48 pb48" data-vcss="001" data-snippet="s_tabs" data-name="Tabs" style="background-image: none;">
+        <div class="container">
+            <div class="s_tabs_main">
+                <div class="s_tabs_nav mb-3">
+                    <ul class="nav nav-pills" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" id="nav_tabs_link_1669645513829_451" data-bs-toggle="tab" href="#nav_tabs_content_1669645513829_451" role="tab" aria-controls="nav_tabs_content_1669645513829_451" aria-selected="true" contenteditable="true">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="nav_tabs_link_1669645513829_452" data-bs-toggle="tab" href="#nav_tabs_content_1669645513829_452" role="tab" aria-controls="nav_tabs_content_1669645513829_452" aria-selected="false">Profile</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="nav_tabs_link_1669645513829_453" data-bs-toggle="tab" href="#nav_tabs_content_1669645513829_453" role="tab" aria-controls="nav_tabs_content_1669645513829_453" aria-selected="false">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="s_tabs_content tab-content">
+                    <div class="tab-pane fade active show" id="nav_tabs_content_1669645513829_451" role="tabpanel" aria-labelledby="nav_tabs_link_1669645513829_451">
+                        <div class="oe_structure oe_empty">
+                            <section class="s_text_block" style="background-image: none;">
+                                <div class="container s_allow_columns">
+                                    <p class="o_default_snippet_text">Write one or two paragraphs describing your product or services.</p>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="nav_tabs_content_1669645513829_452" role="tabpanel" aria-labelledby="nav_tabs_link_1669645513829_452">
+                        <div class="oe_structure oe_empty">
+                            <section class="s_text_block" style="background-image: none;">
+                                <div class="container s_allow_columns">
+                                    <p class="o_default_snippet_text">To be successful your content needs to be useful to your readers.</p>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="nav_tabs_content_1669645513829_453" role="tabpanel" aria-labelledby="nav_tabs_link_1669645513829_453">
+                        <div class="oe_structure oe_empty">
+                            <section class="s_text_block" style="background-image: none;">
+                                <div class="container s_allow_columns">
+                                    <p class="o_default_snippet_text">Start with the customer – find out what they want and give it to them.</p>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+                                    </div>
+                                    <div class="col-lg-6 text-center pb16 pt16">
+                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                </textarea>
+                <h6>About 8</h6>
+                <label class="e-sb-label" for="e_about_08"><input id="e_about_08" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp9">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-9.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-about-snippet-09 s_comparisons pt40 pb40">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-6 pb16 pt16 pr-xl-5">
+                                    <div class="pr-xl-5">
+                                        <label class="bg-primary px-3 py-1 border-radius-12 mb-3">We are the best</label>
+                                        <h1 class="mb-4">Get access to all the information you need.</h1>
+                                        <p class="mb-2 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        <p class="mb-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                                        <div class="mt-4">
+                                            <a href="#" class="btn btn-primary">More About</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 pb16 pt16">
+                                    <div class="row align-items-center">
+                                        <div class="col-md-6">
+                                            <div class="card border-radius-12 light-border shadow-sm p-3 text-center mb-5 hover-top">
+                                                <i class="bg-primary-light fa fa-2x fa-desktop rounded m-auto rounded rounded-circle text-o-color-1"></i>
+                                                <h5 class="o_default_snippet_text mt-3">Web Development</h5>
+                                                <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            </div>
+                                            <div class="card border-radius-12 light-border shadow-sm p-3 text-center hover-top">
+                                                <i class="bg-primary-light fa fa-2x fa-edit rounded m-auto rounded rounded-circle text-o-color-1"></i>
+                                                <h5 class="o_default_snippet_text mt-3">Logo &amp; Identity</h5>
+                                                <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="card border-radius-12 light-border shadow-sm p-3 text-center hover-top">
+                                                <i class="bg-primary-light fa fa-2x fa-object-ungroup rounded m-auto rounded rounded-circle text-o-color-1"></i>
+                                                <h5 class="o_default_snippet_text mt-3">Graphics Design</h5>
+                                                <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 9</h6>
+                <label class="e-sb-label" for="e_about_09"><input id="e_about_09" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp10">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-10.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-about-snippet-10 s_comparisons pt40 pb40">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card p-4 text-center hover-top shadow-hover-lg border-0">
+                                        <i class="fa fa-2x fa-desktop bg-primary-light m-auto rounded-circle text-o-color-1"></i>
+                                        <h5 class="o_default_snippet_text mt-3">Web Development</h5>
+                                        <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card shadow-lg p-4 text-center hover-top border-0">
+                                        <i class="fa fa-2x fa-edit bg-primary-light m-auto rounded-circle text-o-color-1"></i>
+                                        <h5 class="o_default_snippet_text mt-3">Logo &amp; Identity</h5>
+                                        <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card p-4 text-center hover-top shadow-hover-lg border-0">
+                                        <i class="fa fa-2x fa-object-ungroup bg-primary-light m-auto rounded-circle text-o-color-1"></i>
+                                        <h5 class="o_default_snippet_text mt-3">Graphic Design</h5>
+                                        <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 10</h6>
+                <label class="e-sb-label" for="e_about_10"><input id="e_about_10" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp11">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-11.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_text_image pt32 pb32 oe_snippet_body as-about-snippet-11" data-snippet="s_text_image" data-name="Text - Image">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-6 pt16 pb16">
+                                    <img src="/theme_avid/static/src/img/snippets/placeholder/1000x700.jpg" class="img img-fluid mx-auto" alt="" loading="lazy" />
+                                </div>
+                                <div class="col-lg-6 pt16 pb16">
+                                    <label class="border-bottom h6 text-primary border-primary">About us</label>
+                                    <h1 class="o_default_snippet_text my-3">We’re a dynamic team of creatives people innovation &amp; Marketing Expert.</h1>
+                                    <p class="o_default_snippet_text lead">We’ve strong work history with different business services</p>
+                                    <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                    <div class="mt-3">
+                                       <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/200x100.jpg" />
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 11</h6>
+                <label class="e-sb-label" for="e_about_11"><input id="e_about_11" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp12">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-12.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-about-snippet-12 s_comparisons pt40 pb40">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card text-center hover-top shadow-hover-lg light-border border-radius-12">
+                                        <div class="card-body py-4">
+                                            <i class="fa fa-2x fa-desktop bg-primary-light m-auto rounded-circle text-o-color-1"></i>
+                                            <h5 class="o_default_snippet_text mt-3">Web Development</h5>
+                                            <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        </div>
+                                        <div class="card-footer bg-transparent text-center py-3">
+                                            <a class="fw-600 text-reset" href="#">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card text-center hover-top shadow-hover-lg light-border border-radius-12">
+                                        <div class="card-body py-4">
+                                            <i class="fa fa-2x fa-edit bg-primary-light m-auto rounded-circle text-o-color-1"></i>
+                                            <h5 class="o_default_snippet_text mt-3">Logo &amp; Identity</h5>
+                                            <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        </div>
+                                        <div class="card-footer bg-transparent text-center py-3">
+                                            <a class="fw-600 text-reset" href="#">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card text-center hover-top shadow-hover-lg light-border border-radius-12">
+                                        <div class="card-body py-4">
+                                            <i class="fa fa-2x fa-object-ungroup bg-primary-light m-auto rounded-circle text-o-color-1"></i>
+                                            <h5 class="o_default_snippet_text mt-3">Graphics Design</h5>
+                                            <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        </div>
+                                        <div class="card-footer bg-transparent text-center py-3">
+                                            <a class="fw-600 text-reset" href="#">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 12</h6>
+                <label class="e-sb-label" for="e_about_12"><input id="e_about_12" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp13">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-13.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-about-snippet-13 s_comparisons pt40 pb40">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card text-center border-start-0 border-top-0 border-end-0 border-bottom-5 border-primary hover-top shadow-sm border-radius-12 p-4">
+                                        <i class="fa fa-2x fa-desktop bg-primary-light m-auto rounded-circle text-o-color-1"></i>
+                                        <h5 class="o_default_snippet_text mt-3">Web Development</h5>
+                                        <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card text-center border-primary hover-top shadow-sm border-radius-12 p-4 bg-o-color-1">
+                                        <i class="fa fa-2x fa-edit bg-primary-light m-auto rounded-circle bg-o-color-4 text-o-color-1"></i>
+                                        <h5 class="o_default_snippet_text mt-3">Logo &amp; Identity</h5>
+                                        <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card text-center border-start-0 border-top-0 border-end-0 border-bottom-5 border-primary hover-top shadow-sm border-radius-12 p-4">
+                                        <i class="fa fa-2x fa-object-ungroup bg-primary-light m-auto rounded-circle text-o-color-1"></i>
+                                        <h5 class="o_default_snippet_text mt-3">Graphics Design</h5>
+                                        <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 13</h6>
+                <label class="e-sb-label" for="e_about_13"><input id="e_about_13" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp14">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-14.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-about-snippet-14 s_comparisons pt40 pb40 o_colored_level o_cc o_cc2">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4">
+                                        <i class="fa fa-1x fa-desktop bg-primary me-auto rounded text-o-color-3"></i>
+                                        <h5 class="o_default_snippet_text mt-3">Mail Metrics Receive</h5>
+                                        <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit aliqua.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4">
+                                        <i class="fa fa-1x fa-edit bg-danger me-auto rounded text-o-color-3"></i>
+                                        <h5 class="o_default_snippet_text mt-3">Mail Metrics Receive</h5>
+                                        <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit aliqua.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4">
+                                        <i class="fa fa-1x fa-object-ungroup bg-success me-auto rounded text-o-color-3"></i>
+                                        <h5 class="o_default_snippet_text mt-3">Mail Metrics Receive</h5>
+                                        <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit aliqua.</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4">
+                                        <i class="fa fa-1x fa-rocket bg-warning me-auto rounded text-o-color-3"></i>
+                                        <h5 class="o_default_snippet_text mt-3">Mail Metrics Receive</h5>
+                                        <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit aliqua.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 14</h6>
+                <label class="e-sb-label" for="e_about_14"><input id="e_about_14" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp15">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-15.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-about-snippet-15 s_comparisons pt40 pb40 o_colored_level o_cc o_cc2">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-6 pb16 pt16 pr-xl-5">
+                                    <div class="pr-xl-5">
+                                        <label class="bg-primary px-3 py-1 border-radius-12 mb-3">We are the best</label>
+                                        <h1>Effective tools for busy Administrators</h1>
+                                        <div class="s_hr text-start pt8 pb24" data-snippet="s_hr" data-name="Separator">
+                                            <hr class="me-auto w-50px" style="border-top-style: solid; border-top-width: 2px !important; border-top-color: rgb(0, 51, 204) !important;" />
+                                        </div>
+                                        <p class="mb-2 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        <p class="mb-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                                        <div class="mt-4">
+                                            <a href="#" class="btn btn-primary">More About</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 pb16 pt16">
+                                    <div class="row align-items-center">
+                                        <div class="col-md-6">
+                                            <div class="card border-radius-12 shadow-sm py-4 px-5 text-center mb-5 hover-top border-start-0 border-top-0 border-end-0 border-bottom-5 border-primary">
+                                                <i class="bg-primary-light fa fa-2x fa-desktop rounded m-auto rounded rounded-circle text-o-color-1"></i>
+                                                <h5 class="o_default_snippet_text mt-3">Web Development</h5>
+                                            </div>
+                                            <div class="card border-radius-12 shadow-sm py-4 px-5 text-center hover-top border-start-0 border-top-0 border-end-0 border-bottom-5 border-primary">
+                                                <i class="bg-primary-light fa fa-2x fa-edit rounded m-auto rounded rounded-circle text-o-color-1"></i>
+                                                <h5 class="o_default_snippet_text mt-3">Logo &amp; Identity</h5>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="card border-radius-12 shadow-sm py-4 px-5 text-center hover-top border-start-0 border-top-0 border-end-0 border-bottom-5 border-primary">
+                                                <i class="bg-primary-light fa fa-2x fa-object-ungroup rounded m-auto rounded rounded-circle text-o-color-1"></i>
+                                                <h5 class="o_default_snippet_text mt-3">Graphics Design</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 15</h6>
+                <label class="e-sb-label" for="e_about_15"><input id="e_about_15" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp16">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-16.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-about-snippet-16 pt64 pb64 o_colored_level o_cc o_cc2">
+                        <div class="container">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-lg-6 pt24 pb24">
+                                    <h1>Lightning-fast development with pre-built solutions</h1>
+                                    <p class="mb-2 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit,</p>
+                                    <ul class="list-unstyled py-3">
+                                        <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Built with customization </li>
+                                        <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Quality design and thoughfully </li>
+                                        <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-1"></i> Created with the latest technologies </li>
+                                    </ul>
+                                    <div class="mt-3">
+                                        <a href="#" class="btn btn-primary btn-md">Get More</a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 pt24 pb24">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 16</h6>
+                <label class="e-sb-label" for="e_about_16"><input id="e_about_16" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp17">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-17.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-about-snippet-17 pt64 pb64">
+                        <div class="container">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-lg-5 pt16 pb16">
+                                    <label class="text-primary">We are help you</label>
+                                    <h2 class="mb-0">Replace your microservices</h2>
+                                    <h2 class="text-primary">with one simple Combo</h2>
+                                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <p class="mb-0"></p>
+                                </div>
+                                <div class="col-lg-6 pt16 pb16">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 17</h6>
+                <label class="e-sb-label" for="e_about_17"><input id="e_about_17" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp18">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-18.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-about-snippet-18 border-bottom">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-sm-6 col-lg-3 pt16 pb16">
+                                    <div class="py-5 px-4">
+                                        <i class="fa fa-3x fa-desktop text-primary me-auto fa-lg text-o-color-1 mb-3"></i>
+                                        <h5>Web Development</h5>
+                                        <p class="m-0">Lorem Ipsum is simply text the printing and typesetting.</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-3 pt16 pb16">
+                                    <div class="py-5 px-4">
+                                        <i class="fa fa-3x fa-edit text-primary me-auto fa-lg text-o-color-1 mb-3"></i>
+                                        <h5>Logo &amp; Identity</h5>
+                                        <p class="m-0">Lorem Ipsum is simply text the printing and typesetting.</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-3 pt16 pb16">
+                                    <div class="py-5 px-4">
+                                        <i class="fa fa-3x fa-object-ungroup text-primary me-auto fa-lg text-o-color-1 mb-3"></i>
+                                        <h5>Graphic Design</h5>
+                                        <p class="m-0">Lorem Ipsum is simply text the printing and typesetting.</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-3 pt16 pb16">
+                                    <div class="py-5 px-4">
+                                        <i class="fa fa-3x fa-rocket text-primary me-auto fa-lg text-o-color-1 mb-3"></i>
+                                        <h5>Social Marketing</h5>
+                                        <p class="m-0">Lorem Ipsum is simply text the printing and typesetting.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 18</h6>
+                <label class="e-sb-label" for="e_about_18"><input id="e_about_18" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp19">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-19.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-about-snippet-19 mt-n10">
+                        <div class="container">
+                            <div class="row g-0 shadow-lg border-radius-12 overflow-relative">
+                                <div class="col-md-6 o_half_screen_height oe_img_bg o_bg_img_center" style="background-image: url(/theme_avid/static/src/img/snippets/placeholder/1920x1080.jpg);"></div>
+                                <div class="col-md-6 card s_comparisons rounded-0 border-0">
+                                    <div class="px-4 py-8 px-lg-4 text-center s_comparisons">
+                                        <h1 class="mb-4">Solve Your Problem Very Fast With us</h1>
+                                        <p class="lead"> Lorem Ipsum is simply text the printing and typesetting.</p>
+                                        <div class="row g-0 text-start justify-content-center s_comparisons">
+                                            <div class="col-sm-6">
+                                                <div class="rounded-pill bg-primary card m-2 d-flex p-2">
+                                                    <div class="d-flex  align-items-center">
+                                                        <i class="fa fa-3x text-o-color-3 fa-check-circle"></i>
+                                                        <div class="ms-3 col">
+                                                            <h6 class="m-0 text-start">100% Responsive</h6>
+                                                            <span class="small">Built to be customized.</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="rounded-pill bg-primary card m-2 d-flex p-2">
+                                                    <div class="d-flex align-items-center">
+                                                        <i class="fa fa-3x text-o-color-3 fa-check-circle"></i>
+                                                        <div class="ms-3 col">
+                                                            <h6 class="m-0 text-start">Bootstrap 5</h6>
+                                                            <span class="small">Built to be customized.</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="rounded-pill bg-primary card m-2 d-flex p-2">
+                                                    <div class="d-flex align-items-center">
+                                                        <i class="fa fa-3x text-o-color-3 fa-check-circle"></i>
+                                                        <div class="ms-3 col">
+                                                           <h6 class="m-0 text-start">Built with SASS</h6>
+                                                            <span class="small">Built to be customized.</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="rounded-pill bg-primary card m-2 d-flex p-2">
+                                                    <div class="d-flex align-items-center">
+                                                        <i class="fa fa-3x text-o-color-3 fa-check-circle"></i>
+                                                        <div class="ms-3 col">
+                                                           <h6 class="m-0 text-start">Bootstrap Flexbox</h6>
+                                                            <span class="small">Built to be customized.</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="pt-4">
+                                            <p class="pb-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                                            <a class="btn btn-primary" href="#">Let's start today</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 19</h6>
+                <label class="e-sb-label" for="e_about_19"><input id="e_about_19" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp20">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-20.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="border-top border-bottom overflow-relative">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-6 min-vh-350px position-relative">
+                                    <div class="d-flex align-items-center h-100">
+                                        <div class="">
+                                            <h1 class="display-4 mb-2">Truly Corporate Theme</h1>
+                                            <p class="lead m-0">We help to create strategies, design &amp; development.</p>
+                                            <div class="pt-4">
+                                                <a class="btn btn-primary" href="#">
+                                                    More About Us
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <section class="min-vh-350px position-relative oe_img_bg o_bg_img_center d-flex align-items-center" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1000x700.jpg');">
+                                        <div class="o_we_bg_filter" style="background-color: rgba(13, 13, 13, 0.48) !important;"></div>
+                                        <div class="pt80 pb80 d-flex align-items-center h-100 ms-4">
+                                            <a class="text-white video-btn" href="#"><i class="fa fa-play"></i></a>
+                                            <div class="ms-4">
+                                                <h6 class="h3 text-o-color-3">Watch Video</h6>
+                                                <span class="text-o-color-3">We Do Best</span>
+                                            </div>
+                                        </div>
+                                    </section>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 20</h6>
+                <label class="e-sb-label" for="e_about_20"><input id="e_about_20" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp21">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-21.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-about-snippet-21 o_cc o_cc3 o_colored_level pt88 pb88">
+                        <div class="container">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-lg-6 pt16 pb16">
+                                    <label class="text-primary fw-500 mb-3">About Us</label>
+                                    <h1 class="h1 mb-3">Make smarter business decisions with data analysis</h1>
+                                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                    <div class="pt-2">
+                                        <a class="btn btn-outline-custom text-o-color-4 btn-md" href="#" style="border-width: 1px; border-style: solid; border-color: rgb(255, 255, 255);">Learn More</a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-5 pt16 pb16">
+                                    <div class="d-flex mb-5">
+                                        <i class="fa fa-1x text-o-color-3 bg-primary fa-suitcase rounded-circle fa-lg"></i>
+                                        <div class="ms-3 col">
+                                           <h5 class="text-start">Business Stratagy</h5>
+                                            <span class="small">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</span>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex mb-5">
+                                        <i class="fa fa-1x text-o-color-3 bg-primary fa-html5 rounded-circle fa-lg"></i>
+                                        <div class="ms-3 col">
+                                           <h5 class="text-start">Website Development</h5>
+                                            <span class="small">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</span>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex">
+                                        <i class="fa fa-1x text-o-color-3 bg-primary fa-sliders rounded-circle fa-lg"></i>
+                                        <div class="ms-3 col">
+                                           <h5 class="text-start">Marketing &amp; Reporting</h5>
+                                            <span class="small">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 21</h6>
+                <label class="e-sb-label" for="e_about_21"><input id="e_about_21" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp22">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-22.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt88 pb88 as-about-snippet-22">
+                        <div class="container">
+                            <div class="row align-items-center justify-content-between">
+                                <div class="col-lg-6 pt16 pb16">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                </div>
+                                <div class="col-lg-5 pt16 pb16">
+                                    <h1 class="mb-3">Work Like a Pro.</h1>
+                                    <p class="lead mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                    <div class="d-flex mb-4 align-items-baseline">
+                                        <i class="fa fa-1x text-o-color-1 fa-check-circle fa-lg"></i>
+                                        <div class="col ms-2">
+                                           <h5 class="text-start">Drag &amp; Drop Builder</h5>
+                                            <span class="small">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</span>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex align-items-baseline">
+                                        <i class="fa fa-1x text-o-color-1 fa-check-circle fa-lg"></i>
+                                        <div class="col ms-2">
+                                           <h5 class="text-start">Drag &amp; Drop Builder</h5>
+                                            <span class="small">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 22</h6>
+                <label class="e-sb-label" for="e_about_22"><input id="e_about_22" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp23">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-23.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt88 pb88 as-about-snippet-23">
+                        <div class="container">
+                            <div class="row align-items-center justify-content-between">
+                                <div class="col-lg-6 pt16 pb16">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                </div>
+                                <div class="col-lg-5 pt16 pb16">
+                                    <h6 class="text-primary mb-3">1. Prepare your quote</h6>
+                                    <h1 class="mb-3">Save even more time with templates</h1>
+                                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                    <div class="pt-2">
+                                        <a class="btn btn-primary" href="#">Get Started Now</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 23</h6>
+                <label class="e-sb-label" for="e_about_23"><input id="e_about_23" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp24">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-24.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-about-snippet-16 pt64 pb64">
+                        <div class="container">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-lg-6 pt24 pb24">
+                                    <h1>We help to create <br />visual strategies</h1>
+                                    <p class="mb-2 lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit,</p>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="d-flex align-items-baseline my-4">
+                                                <i class="fa fa-1x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-2">
+                                                   <h5 class="text-start">Web Development</h5>
+                                                </div>
+                                            </div>
+                                            <div class="d-flex align-items-baseline my-4">
+                                                <i class="fa fa-1x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-2">
+                                                   <h5 class="text-start">Graphics Design</h5>
+                                                </div>
+                                            </div>
+                                            <div class="d-flex align-items-baseline my-4">
+                                                <i class="fa fa-1x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-2">
+                                                   <h5 class="text-start">Mobile Friendly</h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="d-flex align-items-baseline my-4">
+                                                <i class="fa fa-1x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-2">
+                                                   <h5 class="text-start">Logo &amp; Identity</h5>
+                                                </div>
+                                            </div>
+                                            <div class="d-flex align-items-baseline my-4">
+                                                <i class="fa fa-1x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-2">
+                                                   <h5 class="text-start">Social Marketing</h5>
+                                                </div>
+                                            </div>
+                                            <div class="d-flex align-items-baseline my-4">
+                                                <i class="fa fa-1x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-2">
+                                                   <h5 class="text-start">Multiple Layouts</h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="mt-3">
+                                        <a href="#" class="btn btn-primary btn-md me-3">Learn More</a>
+                                        <a href="#" class="btn btn-primary btn-md">Lets's Start</a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 pt24 pb24">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 24</h6>
+                <label class="e-sb-label" for="e_about_24"><input id="e_about_24" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.about_temp25">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/about-25.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="as-about-snippet-25 s_comparisons">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-6 pt16 pb16">
+                                    <div class="card light-border p-4 shadow-sm border-radius-12">
+                                        <h6 class="mb-4">What you will get it?</h6>
+                                        <ul class="list-unstyled m-0">
+                                            <li class="d-flex mb-3 align-items-center">
+                                                <i class="fa fa-2x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-3">
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                                </div>
+                                            </li>
+                                            <li class="d-flex mb-3 align-items-center">
+                                                <i class="fa fa-2x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-3">
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                                </div>
+                                            </li>
+                                            <li class="d-flex mb-3 align-items-center">
+                                                <i class="fa fa-2x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-3">
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                                </div>
+                                            </li>
+                                            <li class="d-flex mb-3 align-items-center">
+                                                <i class="fa fa-2x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-3">
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                                </div>
+                                            </li>
+                                            <li class="d-flex align-items-center">
+                                                <i class="fa fa-2x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-3">
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 pt16 pb16">
+                                    <div class="card light-border p-4 shadow-sm border-radius-12">
+                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 pt16 pb16">
+                                    <div class="card light-border p-4 shadow-sm border-radius-12">
+                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 pt16 pb16">
+                                    <div class="card light-border p-4 shadow-sm border-radius-12">
+                                        <h6 class="mb-4">What you will get it?</h6>
+                                        <ul class="list-unstyled m-0">
+                                            <li class="d-flex mb-3 align-items-center">
+                                                <i class="fa fa-2x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-3">
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                                </div>
+                                            </li>
+                                            <li class="d-flex mb-3 align-items-center">
+                                                <i class="fa fa-2x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-3">
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                                </div>
+                                            </li>
+                                            <li class="d-flex mb-3 align-items-center">
+                                                <i class="fa fa-2x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-3">
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                                </div>
+                                            </li>
+                                            <li class="d-flex mb-3 align-items-center">
+                                                <i class="fa fa-2x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-3">
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                                </div>
+                                            </li>
+                                            <li class="d-flex align-items-center">
+                                                <i class="fa fa-2x text-o-color-1 fa-check-circle fa-lg"></i>
+                                                <div class="col ms-3">
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>About 25</h6>
+                <label class="e-sb-label" for="e_about_25"><input id="e_about_25" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+</templates>

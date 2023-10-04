@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates id="as_service_templates">
+
+<t t-name="theme_avid.service_temp1">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/services-1.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt24 pb24 o_colored_level o_cc o_cc4 as-service-snippet-01">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border border-radius-12 d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <h6 class="mb-0">Unique Design</h6>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-3 icon-arrow"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border border-radius-12 d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <h6 class="mb-0">Different Layout</h6>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-3 icon-arrow"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border border-radius-12 d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <h6 class="mb-0">Make it Simple</h6>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-3 icon-arrow"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border border-radius-12 d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <h6 class="mb-0">Responsivenes</h6>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-3 icon-arrow"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border border-radius-12 d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <h6 class="mb-0">Perfection</h6>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-3 icon-arrow"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border border-radius-12 d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <h6 class="mb-0">Advanced</h6>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-3 icon-arrow"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border border-radius-12 d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <h6 class="mb-0">Unique Design</h6>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-3 icon-arrow"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border border-radius-12 d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <h6 class="mb-0">Different Layout</h6>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-3 icon-arrow"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Services 1</h6>
+                <label class="e-sb-label" for="e_services_01"><input id="e_services_01" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.service_temp2">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/services-2.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt80 pb80 oe_img_bg o_bg_img_center parallax s_parallax_is_fixed o_colored_level  s_parallax_no_overflow_hidden as-service-snippet-02 o_cc  o_cc4">
+                        <span class="s_parallax_bg oe_img_bg o_bg_img_center" style="background-image: url('/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg');"></span>
+                        <div class="o_we_bg_filter bg-black-75"></div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 col-lg-4 pt16 pb16 o_colored_level">
+                                    <div class="d-flex">
+                                        <i class="fa fa-3x fa-desktop text-o-color-1"></i>
+                                        <div class="col ms-3">
+                                            <h6>Elegant / Unique design</h6>
+                                            <p class="m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-4 pt16 pb16 o_colored_level">
+                                    <div class="d-flex">
+                                        <i class="fa fa-3x fa-tags text-o-color-1"></i>
+                                        <div class="col ms-3">
+                                            <h6>Different Layout Type</h6>
+                                            <p class="m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-4 pt16 pb16 o_colored_level">
+                                    <div class="d-flex">
+                                        <i class="fa fa-3x fa-comments-o text-o-color-1"></i>
+                                        <div class="col ms-3">
+                                            <h6>Make it Simple</h6>
+                                            <p class="m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-4 pt16 pb16 o_colored_level">
+                                    <div class="d-flex">
+                                        <i class="fa fa-3x fa-tablet text-o-color-1"></i>
+                                        <div class="col ms-3">
+                                            <h6>Responsiveness</h6>
+                                            <p class="m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-4 pt16 pb16 o_colored_level">
+                                    <div class="d-flex">
+                                        <i class="fa fa-3x fa-bullseye text-o-color-1"></i>
+                                        <div class="col ms-3">
+                                            <h6>Testing for Perfection</h6>
+                                            <p class="m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-4 pt16 pb16 o_colored_level">
+                                    <div class="d-flex">
+                                        <i class="fa fa-3x fa-wrench text-o-color-1"></i>
+                                        <div class="col ms-3">
+                                            <h6>Advanced Options</h6>
+                                            <p class="m-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Services 2</h6>
+                <label class="e-sb-label" for="e_services_02"><input id="e_services_02" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.service_temp3">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/services-3.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt24 pb24 as-service-snippet-03">
+                        <div class="container">
+                            <div class="row align-items-center justify-content-between">
+                                <div class="col-lg-5 pt16 pb16">
+                                    <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1000.jpg" />
+                                </div>
+                                <div class="col-lg-7 pt16 pb16">
+                                    <label class="border-bottom h6 text-primary border-primary">Our Services</label>
+                                    <h1>We provide wide range of web &amp; business services.</h1>
+                                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                    <div class="row pt8">
+                                        <div class="col-sm-6 pt16 pb16">
+                                            <div class="d-flex">
+                                                <i class="bg-primary-light fa fa-1x fa-desktop rounded m-0 fa-lg rounded text-o-color-1 border border-primary"></i>
+                                                <div class="col ms-3">
+                                                    <h5 class="o_default_snippet_text">Web Development</h5>
+                                                    <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 pt16 pb16">
+                                            <div class="d-flex">
+                                                <i class="bg-primary-light fa fa-1x fa-object-ungroup rounded m-0 fa-lg rounded text-o-color-1 border border-primary"></i>
+                                                <div class="col ms-3">
+                                                    <h5 class="o_default_snippet_text">Graphics Design</h5>
+                                                    <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 pt16 pb16">
+                                            <div class="d-flex">
+                                                <i class="bg-primary-light fa fa-1x fa-edit rounded m-0 fa-lg rounded text-o-color-1 border border-primary"></i>
+                                                <div class="col ms-3">
+                                                    <h5 class="o_default_snippet_text">Logo &amp; Identity</h5>
+                                                    <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 pt16 pb16">
+                                            <div class="d-flex">
+                                                <i class="bg-primary-light fa fa-1x fa-rocket rounded m-0 fa-lg rounded text-o-color-1 border border-primary"></i>
+                                                <div class="col ms-3">
+                                                    <h5 class="o_default_snippet_text">Social Marketing</h5>
+                                                    <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Services 3</h6>
+                <label class="e-sb-label" for="e_services_03"><input id="e_services_03" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.service_temp4">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/services-4.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt64 pb64 s_comparisons">
+                        <div class="container">
+                            <div class="row justify-content-between">
+                                <div class="col-lg-6 pt16 pb16">
+                                    <p class="small text-primary">We are help you</p>
+                                    <h2 class="mb-3">Intuitive, feature-rich, affordable customer support software</h2>
+                                    <p class="lead">Ut enim ad minim veniam, quis nostrud exercitation ullamco</p>
+                                    <div class="pt-2">
+                                        <a href="#" class="btn btn-primary btn-md">Learn More</a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 s_comparisons pt16 pb16">
+                                    <div class="row">
+                                        <div class="col-sm-6 pb24">
+                                            <div class="card hover-top shadow-sm light-border border-radius-12 p-4">
+                                              <i class="fa fa-1x fa-desktop bg-danger me-auto rounded text-o-color-3"></i>
+                                              <h5 class="o_default_snippet_text mt-3">Web Development</h5>
+                                              <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 pb24">
+                                            <div class="card hover-top shadow-sm light-border border-radius-12 p-4">
+                                              <i class="fa fa-1x fa-edit bg-warning me-auto rounded text-o-color-3"></i>
+                                              <h5 class="o_default_snippet_text mt-3">Logo &amp; Identity</h5>
+                                              <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 pb24">
+                                            <div class="card hover-top shadow-sm light-border border-radius-12 p-4">
+                                              <i class="fa fa-1x fa-object-ungroup bg-info me-auto rounded text-o-color-3"></i>
+                                              <h5 class="o_default_snippet_text mt-3">Graphics Design</h5>
+                                              <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 pb24">
+                                            <div class="card hover-top shadow-sm light-border border-radius-12 p-4">
+                                              <i class="fa fa-1x fa-rocket bg-success me-auto rounded text-o-color-3"></i>
+                                              <h5 class="o_default_snippet_text mt-3">Social Marketing</h5>
+                                              <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Services 4</h6>
+                <label class="e-sb-label" for="e_services_04"><input id="e_services_04" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.service_temp5">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/services-5.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt24 pb24 s_comparisons">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-5 pt16 pb16">
+                                    <div class="card border-radius-12 hover-top">
+                                        <img class="img-fluid card-img-top" src="/theme_avid/static/src/img/snippets/placeholder/1000x700.jpg" />
+                                        <div class="p-4">
+                                            <h5 class="mb-4">Personal Services</h5>
+                                            <div class="d-flex mb-4">
+                                                <i class="fa fa-2x text-primary me-auto text-primary fa-external-link-square">​</i>
+                                                <div class="col ms-3"><p class="lead">Fast performance, and highly calibrated sensors have always uniquely capable.</p></div>
+                                            </div>
+                                            <div class="d-flex">
+                                                 <i class="fa fa-2x text-primary me-auto text-primary fa-external-link-square">​</i>
+                                                <div class="col ms-3"><p class="lead">Fast performance, and highly calibrated sensors have always uniquely capable.</p></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-5 pt16 pb16">
+                                    <div class="card border-radius-12 hover-top">
+                                        <img class="img-fluid card-img-top" src="/theme_avid/static/src/img/snippets/placeholder/1000x700.jpg" />
+                                        <div class="p-4">
+                                            <h5 class="mb-4">Business Services</h5>
+                                            <div class="d-flex mb-4">
+                                                <i class="fa fa-2x text-primary me-auto text-warning fa-external-link-square">​</i>
+                                                <div class="col ms-3"><p class="lead">Fast performance, and highly calibrated sensors have always uniquely capable.</p></div>
+                                            </div>
+                                            <div class="d-flex">
+                                                <i class="fa fa-2x text-primary me-auto text-warning fa-external-link-square">​</i>
+                                                <div class="col ms-3"><p class="lead">Fast performance, and highly calibrated sensors have always uniquely capable.</p></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Services 5</h6>
+                <label class="e-sb-label" for="e_services_05"><input id="e_services_05" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.service_temp6">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/services-6.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt24 pb24 o_colored_level o_cc as-service-snippet-01 as-service-snippet-06">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border rounded-0 shadow d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <div class="d-flex">
+                                            <i class="fa fa-2x text-o-color-1 fa-check-circle"></i>
+                                            <div class="col ms-3">
+                                                <h6 class="mb-1">Unique design</h6>
+                                                <span class="small fw-600">Lorem Ipsum Dummy</span>
+                                            </div>
+                                        </div>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-1 icon-arrow"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border rounded-0 shadow d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <div class="d-flex">
+                                            <i class="fa fa-2x text-o-color-1 fa-check-circle"></i>
+                                            <div class="col ms-3">
+                                                <h6 class="mb-1">Different Layout</h6>
+                                                <span class="small fw-600">Lorem Ipsum Dummy</span>
+                                            </div>
+                                        </div>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-1 icon-arrow"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border rounded-0 shadow d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <div class="d-flex">
+                                            <i class="fa fa-2x text-o-color-1 fa-check-circle"></i>
+                                            <div class="col ms-3">
+                                                <h6 class="mb-1">Make it Simple</h6>
+                                                <span class="small fw-600">Lorem Ipsum Dummy</span>
+                                            </div>
+                                        </div>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-1 icon-arrow"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border rounded-0 shadow d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <div class="d-flex">
+                                            <i class="fa fa-2x text-o-color-1 fa-check-circle"></i>
+                                            <div class="col ms-3">
+                                                <h6 class="mb-1">Responsivenes</h6>
+                                                <span class="small fw-600">Lorem Ipsum Dummy</span>
+                                            </div>
+                                        </div>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-1 icon-arrow"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border rounded-0 shadow d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <div class="d-flex">
+                                            <i class="fa fa-2x text-o-color-1 fa-check-circle"></i>
+                                            <div class="col ms-3">
+                                                <h6 class="mb-1">Perfection</h6>
+                                                <span class="small fw-600">Lorem Ipsum Dummy</span>
+                                            </div>
+                                        </div>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-1 icon-arrow"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border rounded-0 shadow d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <div class="d-flex">
+                                            <i class="fa fa-2x text-o-color-1 fa-check-circle"></i>
+                                            <div class="col ms-3">
+                                                <h6 class="mb-1">Advanced</h6>
+                                                <span class="small fw-600">Lorem Ipsum Dummy</span>
+                                            </div>
+                                        </div>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-1 icon-arrow"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border rounded-0 shadow d-flex justify-content-between align-items-center icon-hover text-reset">
+                                       <div class="d-flex">
+                                            <i class="fa fa-2x text-o-color-1 fa-check-circle"></i>
+                                            <div class="col ms-3">
+                                                <h6 class="mb-1">Unique design</h6>
+                                                <span class="small fw-600">Lorem Ipsum Dummy</span>
+                                            </div>
+                                        </div>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-1 icon-arrow"></i>
+                                    </a>
+                                </div>
+                                <div class="col-lg-3 col-md-4 col-sm-6 pt16 pb16">
+                                    <a href="#" class="p-3 border rounded-0 shadow d-flex justify-content-between align-items-center icon-hover text-reset">
+                                        <div class="d-flex">
+                                            <i class="fa fa-2x text-o-color-1 fa-check-circle"></i>
+                                            <div class="col ms-3">
+                                                <h6 class="mb-1">Different Layout</h6>
+                                                <span class="small fw-600">Lorem Ipsum Dummy</span>
+                                            </div>
+                                        </div>
+                                        <i class="fa fa-2x fa-long-arrow-right text-o-color-1 icon-arrow"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Services 6</h6>
+                <label class="e-sb-label" for="e_services_06"><input id="e_services_06" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.service_temp7">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/services-7.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt64 pb64 s_comparisons as-service-snippet-07">
+                        <div class="container">
+                            <div class="row justify-content-between">
+                                <div class="col-sm-6 col-lg-3 pb24">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4 text-center">
+                                      <i class="fa fa-2x fa-desktop bg-primary m-auto rounded-circle text-o-color-3"></i>
+                                      <h5 class="o_default_snippet_text mt-3">Web Development</h5>
+                                      <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                      <a href="#" class="btn btn-link">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-3 pb24">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4 text-center">
+                                      <i class="fa fa-2x fa-edit bg-primary m-auto rounded-circle text-o-color-3"></i>
+                                      <h5 class="o_default_snippet_text mt-3">Logo &amp; Identity</h5>
+                                      <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                      <a href="#" class="btn btn-link">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-3 pb24">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4 text-center">
+                                      <i class="fa fa-2x fa-object-ungroup bg-primary m-auto rounded-circle text-o-color-3"></i>
+                                      <h5 class="o_default_snippet_text mt-3">Graphics Design</h5>
+                                      <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                      <a href="#" class="btn btn-link">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-3 pb24">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4 text-center">
+                                      <i class="fa fa-2x fa-rocket bg-primary m-auto rounded-circle text-o-color-3"></i>
+                                      <h5 class="o_default_snippet_text mt-3">Social Marketing</h5>
+                                      <p class="o_default_snippet_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                      <a href="#" class="btn btn-link">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Services 7</h6>
+                <label class="e-sb-label" for="e_services_07"><input id="e_services_07" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.service_temp8">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/services-8.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt64 pb64 s_comparisons as-service-snippet-08 o_cc o_cc2">
+                        <div class="container">
+                            <div class="row justify-content-between">
+                                <div class="col-sm-6 col-lg-3 pb24">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4 text-center">
+                                      <i class="fa fa-2x fa-desktop bg-primary m-auto rounded-circle text-o-color-3"></i>
+                                      <h5 class="o_default_snippet_text mt-3">Business Stratagy</h5>
+                                      <a href="#" class="btn btn-link">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-3 pb24">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4 text-center">
+                                      <i class="fa fa-2x fa-edit bg-primary m-auto rounded-circle text-o-color-3"></i>
+                                      <h5 class="o_default_snippet_text mt-3">Website Development</h5>
+                                      <a href="#" class="btn btn-link">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-3 pb24">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4 text-center">
+                                      <i class="fa fa-2x fa-object-ungroup bg-primary m-auto rounded-circle text-o-color-3"></i>
+                                      <h5 class="o_default_snippet_text mt-3">Marketing &amp; Reporting</h5>
+                                      <a href="#" class="btn btn-link">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-3 pb24">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4 text-center">
+                                      <i class="fa fa-2x fa-rocket bg-primary m-auto rounded-circle text-o-color-3"></i>
+                                      <h5 class="o_default_snippet_text mt-3">Social Marketing</h5>
+                                      <a href="#" class="btn btn-link">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-3 pb24">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4 text-center">
+                                      <i class="fa fa-2x fa-desktop bg-primary m-auto rounded-circle text-o-color-3"></i>
+                                      <h5 class="o_default_snippet_text mt-3">Business Stratagy</h5>
+                                      <a href="#" class="btn btn-link">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-3 pb24">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4 text-center">
+                                      <i class="fa fa-2x fa-edit bg-primary m-auto rounded-circle text-o-color-3"></i>
+                                      <h5 class="o_default_snippet_text mt-3">Logo &amp; Identity</h5>
+                                      <a href="#" class="btn btn-link">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-3 pb24">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4 text-center">
+                                      <i class="fa fa-2x fa-object-ungroup bg-primary m-auto rounded-circle text-o-color-3"></i>
+                                      <h5 class="o_default_snippet_text mt-3">Website Development</h5>
+                                      <a href="#" class="btn btn-link">Read More</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6 col-lg-3 pb24">
+                                    <div class="card hover-top shadow-sm light-border border-radius-12 p-4 text-center">
+                                      <i class="fa fa-2x fa-rocket bg-primary m-auto rounded-circle text-o-color-3"></i>
+                                      <h5 class="o_default_snippet_text mt-3">Social Marketing</h5>
+                                      <a href="#" class="btn btn-link">Read More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Services 8</h6>
+                <label class="e-sb-label" for="e_services_08"><input id="e_services_08" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.service_temp9">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/services-9.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt80 pb80 s_comparisons as-service-snippet-09 o_cc o_cc2">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-12 pb40 text-center">
+                                    <img class="img-fluid shadow-lg border-radius-12" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg" />
+                                </div>
+                                <div class="col-12">
+                                    <div class="row align-items-center">
+                                        <div class="col-md-4 pb16">
+                                            <div class="card bg-transparent border-0 border-radius-12 p-4 text-center">
+                                              <h5 class="o_default_snippet_text mt-3">Business Stratagy</h5>
+                                              <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 pb16">
+                                            <div class="card bg-transparent border-0 border-radius-12 p-4 text-center">
+                                              <h5 class="o_default_snippet_text mt-3">Website Development</h5>
+                                              <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 pb16">
+                                            <div class="card bg-transparent border-0 border-radius-12 p-4 text-center">
+                                              <h5 class="o_default_snippet_text mt-3">Marketing &amp; Reporting</h5>
+                                              <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Services 9</h6>
+                <label class="e-sb-label" for="e_services_09"><input id="e_services_09" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.service_temp10">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/services-10.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt56 pb56 as-service-snippet-10 o_cc o_cc2">
+                        <div class="container">
+                            <div class="row justify-content-center s_comparisons">
+                                <div class="col-12 pt16 pb16">
+                                    <div class="card shadow-lg border-0 border-radius-12 p-4">
+                                        <div class="row justify-content-between">
+                                            <div class="col-lg-5 pr-lg-5">
+                                                <div class="p-3">
+                                                    <h3>Stay focused on your business. Let us handle the design.</h3>
+                                                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 text-center">
+                                                <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row justify-content-center s_comparisons">
+                                <div class="col-lg-6 pt16 pb16">
+                                    <div class="card shadow-lg border-0 border-radius-12 p-4">
+                                        <h4>We help to create visual strategies</h4>
+                                        <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <img class="img-fluid text-center" src="/theme_avid/static/src/img/snippets/placeholder/1000x500.jpg" />
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 pt16 pb16">
+                                    <div class="card shadow-lg border-0 border-radius-12 p-4">
+                                        <img class="img-fluid text-center mb-4" src="/theme_avid/static/src/img/snippets/placeholder/1000x500.jpg" />
+                                        <h4>We help to create visual strategies</h4>
+                                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Services 10</h6>
+                <label class="e-sb-label" for="e_services_10"><input id="e_services_10" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.service_temp11">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/services-11.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt64 pb64 s_comparisons o_cc o_cc2">
+                        <div class="container">
+                            <div class="row justify-content-between align-items-center">
+                                <div class="col-lg-6">
+                                    <h6 class="text-primary mb-4">What We provide</h6>
+                                    <h3 class="h1 mb-4">Stay focused on your business. Let us handle the design.</h3>
+                                    <p class="lead pb-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <a class="btn btn-primary btn-md" href="#">Purchase Now for $22</a>
+                                </div>
+                                <div class="col-lg-6 s_comparisons">
+                                    <div class="row">
+                                        <div class="col-12 pb24 me-5">
+                                            <div class="card shadow-lg border-radius-12 p-3 border-0">
+                                                <div class="d-flex">
+                                                    <i class="fa fa-1x fa-desktop bg-primary me-auto rounded-circle text-o-color-3"></i>
+                                                    <div class="col ms-3">
+                                                        <h5 class="o_default_snippet_text mt-3">Business Stratagy</h5>
+                                                         <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 pb24 ms-5">
+                                            <div class="card shadow-lg border-radius-12 p-3 border-0">
+                                                <div class="d-flex">
+                                                    <i class="fa fa-1x fa-desktop bg-primary me-auto rounded-circle text-o-color-3"></i>
+                                                    <div class="col ms-3">
+                                                        <h5 class="o_default_snippet_text mt-3">Website Development</h5>
+                                                         <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 pb24 me-5">
+                                            <div class="card shadow-lg border-radius-12 p-3 border-0">
+                                                <div class="d-flex">
+                                                    <i class="fa fa-1x fa-desktop bg-primary me-auto rounded-circle text-o-color-3"></i>
+                                                    <div class="col ms-3">
+                                                        <h5 class="o_default_snippet_text mt-3">Marketing &amp; Reporting</h5>
+                                                         <p class="o_default_snippet_text mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Services 11</h6>
+                <label class="e-sb-label" for="e_services_11"><input id="e_services_11" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.service_temp12">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/services-12.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt64 pb64 as-service-snippet-12">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-6 pt16 pb16">
+                                    <h6 class="text-primary mb-4">What We provide</h6>
+                                    <h3 class="h1 mb-4">We provide advanced solutions</h3>
+                                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                    <div class="d-flex mb-3 pt-3">
+                                        <i class="fa fa-1x fa-desktop bg-primary me-auto rounded-circle text-o-color-3"></i>
+                                        <div class="col ms-3">
+                                            <h6>Fully Responsive</h6>
+                                            <p class="m-0 w-lg-75">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex mb-3 pt-3">
+                                        <i class="fa fa-1x fa-desktop bg-primary me-auto rounded-circle text-o-color-3"></i>
+                                        <div class="col ms-3">
+                                            <h6>Retina Ready</h6>
+                                            <p class="m-0 w-lg-75">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex mb-3 pt-3">
+                                        <i class="fa fa-1x fa-desktop bg-primary me-auto rounded-circle text-o-color-3"></i>
+                                        <div class="col ms-3">
+                                            <h6>Bootstrap Icon</h6>
+                                            <p class="m-0 w-lg-75">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</p>
+                                        </div>
+                                    </div>
+                                    <div class="pt-3">
+                                        <a class="btn btn-primary" href="#">Purchase Now</a>
+                                        <a class="btn" href="#">How it works?</a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 pt16 pb16 m-auto">
+                                    <img class="img-fluid border-radius-12 shadow" src="/theme_avid/static/src/img/snippets/placeholder/800x1000.jpg" />
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Services 12</h6>
+                <label class="e-sb-label" for="e_services_12"><input id="e_services_12" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.service_temp13">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/services-13.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="py-8 as-service-snippet-13 ">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-4 pt16 pb16">
+                                    <h6 class="text-primary mb-4">What We provide</h6>
+                                    <h3 class="h2 mb-4">Working to build a better web design</h3>
+                                    <p class="lead pb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <a class="btn btn-primary" href="#">Get Started</a>
+                                </div>
+                                <div class="col-md-6 col-lg-4 pt16 pb16 position-relative">
+                                    <img class="border-radius-12 img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/800x1000.jpg" title="" alt="" />
+                                    <a href="#" class="video-btn rounded-circle bg-white position-absolute top-0 bottom-0 left-0 right-0 m-auto"><i class="fa fa-play fa-2x"></i></a>
+                                </div>
+                                <div class="col-md-6 col-lg-4 pt16 pb16">
+                                    <div class="d-flex mb-4">
+                                        <i class="fa fa-1x fa-object-ungroup bg-primary me-auto rounded-circle text-o-color-3"></i>
+                                        <div class="col ms-3">
+                                            <h6 class="mb-1">Creative Concept</h6>
+                                            <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex mb-4">
+                                        <i class="fa fa-1x fa-bath bg-primary me-auto rounded-circle text-o-color-3"></i>
+                                        <div class="col ms-3">
+                                            <h6 class="mb-1">Production</h6>
+                                            <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                                        </div>
+                                    </div>
+                                    <div class="d-flex mb-4">
+                                        <i class="fa fa-1x fa-heart bg-primary me-auto rounded-circle text-o-color-3"></i>
+                                        <div class="col ms-3">
+                                            <h6 class="mb-1">Happy Client</h6>
+                                            <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Services 13</h6>
+                <label class="e-sb-label" for="e_services_13"><input id="e_services_13" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+</templates>

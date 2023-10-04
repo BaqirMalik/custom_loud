@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates id="as_price_table_templates">
+
+<t t-name="theme_alab.price_table_temp1">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-1.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt24 pb24 as-price-snippet-01">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-sm light-border border-radius-12 px-4 py-5 hover-top">
+                                        <div class="pb-3 mb-3 border-bottom">
+                                            <h1 class="mb-0"><span class="s_comparisons_price">$45</span></h1>
+                                        </div>
+                                        <h6 class="mb-2">Basic Package</h6>
+                                        <ul class="list-unstyled">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 border-top">
+                                            <a href="#" class="btn btn-primary">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-sm light-border border-radius-12 px-4 py-5 hover-top">
+                                        <div class="pb-3 mb-3 border-bottom">
+                                            <h1 class="mb-0"><span class="s_comparisons_price">$45</span></h1>
+                                        </div>
+                                        <h6 class="mb-2">Basic Package</h6>
+                                        <ul class="list-unstyled">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 border-top">
+                                            <a href="#" class="btn btn-primary">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-sm light-border border-radius-12 px-4 py-5 hover-top" style="overflow: inherit;">
+                                        <div class="pb-3 mb-3 border-bottom">
+                                            <label class="bg-primary px-4 py-1 mb-4 ms-n5 d-inline-block">Popular Choice</label>
+                                            <h1 class="mb-0"><span class="s_comparisons_price">$45</span></h1>
+                                        </div>
+                                        <h6 class="mb-2">Basic Package</h6>
+                                        <ul class="list-unstyled">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 border-top">
+                                            <a href="#" class="btn btn-primary">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-sm light-border border-radius-12 px-4 py-5 hover-top">
+                                        <div class="pb-3 mb-3 border-bottom">
+                                            <h1 class="mb-0"><span class="s_comparisons_price">$45</span></h1>
+                                        </div>
+                                        <h6 class="mb-2">Basic Package</h6>
+                                        <ul class="list-unstyled">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 border-top">
+                                            <a href="#" class="btn btn-primary">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 1</h6>
+                <label class="e-sb-label" for="e_price_table_01"><input id="e_price_table_01" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_alab.price_table_temp2">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-2.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt24 pb24 as-price-snippet-02">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-sm light-border border-radius-12 hover-top">
+                                        <div class="py-4 mb-3 px-4 border-bottom bg-primary overflow-relative">
+                                            <h6 class="mb-2">Basic Package</h6>
+                                            <h1 class=""><span class="s_comparisons_price">$45</span></h1>
+                                        </div>
+                                        <ul class="list-unstyled px-4">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="py-4 mt-3 border-top px-4">
+                                            <a href="#" class="btn btn-primary">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-sm light-border border-radius-12 hover-top">
+                                        <div class="py-4 mb-3 px-4 border-bottom bg-primary overflow-relative">
+                                            <h6 class="mb-2">Basic Package</h6>
+                                            <h1 class=""><span class="s_comparisons_price">$45</span></h1>
+                                        </div>
+                                        <ul class="list-unstyled px-4">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="py-4 mt-3 border-top px-4">
+                                            <a href="#" class="btn btn-primary">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-sm light-border border-radius-12 hover-top">
+                                        <div class="py-4 mb-3 px-4 border-bottom bg-primary overflow-relative bg-shape">
+                                            <h6 class="mb-2">Basic Package</h6>
+                                            <h1 class=""><span class="s_comparisons_price">$45</span></h1>
+                                        </div>
+                                        <ul class="list-unstyled px-4">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="py-4 mt-3 border-top px-4">
+                                            <a href="#" class="btn btn-primary">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-sm light-border border-radius-12 hover-top">
+                                        <div class="py-4 mb-3 px-4 border-bottom bg-primary overflow-relative">
+                                            <h6 class="mb-2">Basic Package</h6>
+                                            <h1 class=""><span class="s_comparisons_price">$45</span></h1>
+                                        </div>
+                                        <ul class="list-unstyled px-4">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="py-4 mt-3 border-top px-4">
+                                            <a href="#" class="btn btn-primary">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 2</h6>
+                <label class="e-sb-label" for="e_price_table_02"><input id="e_price_table_02" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_alab.price_table_temp3">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-3.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt24 pb24 as-price-snippet-03">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card shadow-sm light-border border-radius-12 p-4 hover-top">
+                                        <div class="d-flex align-items-center justify-content-between border-bottom mb-4 pb-4">
+                                            <div>
+                                                <h5 class="mb-1">Basic Package</h5>
+                                                <small>10 Lines Min lines min</small>
+                                            </div>
+                                            <div>
+                                                <h5 class="h1 m-0 text-primary"><sup class="h6 text-primary">$</sup>49</h5>
+                                                <small>/Per Mon</small>
+                                            </div>
+                                        </div>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="py-2 d-flex">10 GB of Space <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                            <li class="py-2 d-flex">Unlimited Projects <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                            <li class="py-2 d-flex">Unlimited Users <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                            <li class="py-2 d-flex">Unlimited File Recovery <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                            <li class="py-2 d-flex">Unlimited Data <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 border-top">
+                                            <a href="#" class="btn btn-primary">Register Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card shadow-sm light-border border-radius-12 p-4 hover-top">
+                                        <div class="d-flex align-items-center justify-content-between border-bottom mb-4 pb-4">
+                                            <div>
+                                                <h5 class="mb-1">Basic Package</h5>
+                                                <small>10 Lines Min lines min</small>
+                                            </div>
+                                            <div>
+                                                <h5 class="h1 m-0 text-primary"><sup class="h6 text-primary">$</sup>49</h5>
+                                                <small>/Per Mon</small>
+                                            </div>
+                                        </div>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="py-2 d-flex">10 GB of Space <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                            <li class="py-2 d-flex">Unlimited Projects <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                            <li class="py-2 d-flex">Unlimited Users <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                            <li class="py-2 d-flex">Unlimited File Recovery <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                            <li class="py-2 d-flex">Unlimited Data <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 border-top">
+                                            <a href="#" class="btn btn-primary">Register Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card shadow-sm light-border border-radius-12 p-4 hover-top">
+                                        <div class="d-flex align-items-center justify-content-between border-bottom mb-4 pb-4">
+                                            <div>
+                                                <h5 class="mb-1">Basic Package</h5>
+                                                <small>10 Lines Min lines min</small>
+                                            </div>
+                                            <div>
+                                                <h5 class="h1 m-0 text-primary"><sup class="h6 text-primary">$</sup>49</h5>
+                                                <small>/Per Mon</small>
+                                            </div>
+                                        </div>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="py-2 d-flex">10 GB of Space <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                            <li class="py-2 d-flex">Unlimited Projects <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                            <li class="py-2 d-flex">Unlimited Users <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                            <li class="py-2 d-flex">Unlimited File Recovery <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                            <li class="py-2 d-flex">Unlimited Data <i class="fa fa-check fa-lg text-primary ms-auto"></i></li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 border-top">
+                                            <a href="#" class="btn btn-primary">Register Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 3</h6>
+                <label class="e-sb-label" for="e_price_table_03"><input id="e_price_table_03" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_alab.price_table_temp4">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-4.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt24 pb24 as-price-snippet-04 o_colored_level o_cc o_cc2">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-3 col-sm-6 pt16 pb16 s_col_no_bgcolor">
+                                    <div class="card border-0 shadow-sm shadow-hover-lg rounded px-4 py-5 hover-top">
+                                        <div class="pb-3 mb-3 border-bottom text-center">
+                                            <label class="bg-primary-soft px-3 py-1 border-radius-12 mb-3">Business</label>
+                                            <h1 class="mb-0"><span class="s_comparisons_price">$45</span></h1>
+                                        </div>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 border-top text-center">
+                                            <a href="#" class="btn btn-primary">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16 s_col_no_bgcolor">
+                                    <div class="card border-0 shadow-sm shadow-hover-lg rounded px-4 py-5 hover-top">
+                                        <div class="pb-3 mb-3 border-bottom text-center">
+                                            <label class="bg-primary-soft px-3 py-1 border-radius-12 mb-3">Business</label>
+                                            <h1 class="mb-0"><span class="s_comparisons_price">$45</span></h1>
+                                        </div>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 border-top text-center">
+                                            <a href="#" class="btn btn-primary">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16 s_col_no_bgcolor">
+                                    <div class="card border-0 shadow-sm shadow-hover-lg rounded px-4 py-5 hover-top bg-o-color-1">
+                                        <div class="pb-3 mb-3 border-bottom text-center">
+                                            <label class="bg-primary-soft px-3 py-1 border-radius-12 mb-3 text-o-color-3">Business</label>
+                                            <h1 class="mb-0"><span class="s_comparisons_price text-o-color-4">$45</span></h1>
+                                        </div>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-3"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-3"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-3"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-3"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-3"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 border-top text-center">
+                                            <a href="#" class="btn btn-custom bg-o-color-4">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16 s_col_no_bgcolor">
+                                    <div class="card border-0 shadow-sm shadow-hover-lg rounded px-4 py-5 hover-top">
+                                        <div class="pb-3 mb-3 border-bottom text-center">
+                                            <label class="bg-primary-soft px-3 py-1 border-radius-12 mb-3">Business</label>
+                                            <h1 class="mb-0"><span class="s_comparisons_price">$45</span></h1>
+                                        </div>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 border-top text-center">
+                                            <a href="#" class="btn btn-primary">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 4</h6>
+                <label class="e-sb-label" for="e_price_table_04"><input id="e_price_table_04" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_alab.price_table_temp5">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-5.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt24 pb24 as-price-snippet-05">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-md-4 my-3">
+                                    <div class="card shadow-hover hover-top">
+                                        <div class="border-bottom pb-4 mb-4 text-center pt-5">
+                                            <h3>Education</h3>
+                                            <p>Create your first online course</p>
+                                            <div class="d-inline-block w-90px">
+                                                <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg" />
+                                            </div>
+                                            <div class="price mt-3 h1">
+                                                $49.00
+                                            </div>
+                                        </div>
+                                        <div class="text-center">
+                                            <ul class="list-unstyled">
+                                                <li class="py-2">Only 2 Operators Only</li>
+                                                <li class="py-2">Abandoned Cart</li>
+                                                <li class="py-2">Facebook &amp; Instagram Ads</li>
+                                                <li class="py-2">Order Notifications</li>
+                                                <li class="py-2">Landing Pages</li>
+                                            </ul>
+                                        </div>
+                                        <div class="pb-5 text-center pt-3">
+                                            <a class="btn btn-primary btn-md" href="#">Purchase</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 my-3">
+                                    <div class="card shadow-hover hover-top">
+                                        <div class="border-bottom pb-4 mb-4 text-center pt-5">
+                                            <h3>Education</h3>
+                                            <p>Create your first online course</p>
+                                            <div class="d-inline-block w-90px">
+                                                <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg" />
+                                            </div>
+                                            <div class="price mt-3 h1">
+                                                $49.00
+                                            </div>
+                                        </div>
+                                        <div class="text-center">
+                                            <ul class="list-unstyled">
+                                                <li class="py-2">Only 2 Operators Only</li>
+                                                <li class="py-2">Abandoned Cart</li>
+                                                <li class="py-2">Facebook &amp; Instagram Ads</li>
+                                                <li class="py-2">Order Notifications</li>
+                                                <li class="py-2">Landing Pages</li>
+                                            </ul>
+                                        </div>
+                                        <div class="pb-5 text-center pt-3">
+                                            <a class="btn btn-primary btn-md" href="#">Purchase</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 my-3">
+                                    <div class="card shadow-hover hover-top">
+                                        <div class="border-bottom pb-4 mb-4 text-center pt-5">
+                                            <h3>Education</h3>
+                                            <p>Create your first online course</p>
+                                            <div class="d-inline-block w-90px">
+                                                <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x800.jpg" />
+                                            </div>
+                                            <div class="price mt-3 h1">
+                                                $49.00
+                                            </div>
+                                        </div>
+                                        <div class="text-center">
+                                            <ul class="list-unstyled">
+                                                <li class="py-2">Only 2 Operators Only</li>
+                                                <li class="py-2">Abandoned Cart</li>
+                                                <li class="py-2">Facebook &amp; Instagram Ads</li>
+                                                <li class="py-2">Order Notifications</li>
+                                                <li class="py-2">Landing Pages</li>
+                                            </ul>
+                                        </div>
+                                        <div class="pb-5 text-center pt-3">
+                                            <a class="btn btn-primary btn-md" href="#">Purchase</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 5</h6>
+                <label class="e-sb-label" for="e_price_table_05"><input id="e_price_table_05" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+<t t-name="theme_alab.price_table_temp6">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-6.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt32 pb32 as-price-snippet-06">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-md-6 col-lg-5 s_col_no_bgcolor pt16 pb16">
+                                    <div class="card hover-top shadow shadow-lg-hover border-radius-12 py-2">
+                                        <div class="p-4 text-center">
+                                            <h1>$59</h1>
+                                            <h6>Standard License</h6>
+                                        </div>
+                                        <div class="p-4 text-center border-top">
+                                            <ul class="list-unstyled">
+                                                <li class="py-2">Only 2 Operators Only</li>
+                                                <li class="py-2">Abandoned Cart</li>
+                                                <li class="py-2">Facebook &amp; Instagram Ads</li>
+                                                <li class="py-2">Order Notifications</li>
+                                                <li class="py-2">Landing Pages</li>
+                                            </ul>
+                                            <div class="text-center pt-2">
+                                                <a class="btn btn-primary btn-md" href="#">Purchase now</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-lg-5 s_col_no_bgcolor pt16 pb16">
+                                    <div class="card hover-top shadow shadow-lg-hover bg-o-color-1 border-radius-12 py-2">
+                                        <div class="light p-4 text-center">
+                                            <h1 class="text-o-color-3">$59</h1>
+                                            <h6 class="text-o-color-3">Standard License</h6>
+                                        </div>
+                                        <div class="p-4 text-center border-top">
+                                            <ul class="list-unstyled">
+                                                <li class="py-2 text-o-color-3">Only 2 Operators Only</li>
+                                                <li class="py-2 text-o-color-3">Abandoned Cart</li>
+                                                <li class="py-2 text-o-color-3">Facebook &amp; Instagram Ads</li>
+                                                <li class="py-2 text-o-color-3">Order Notifications</li>
+                                                <li class="py-2 text-o-color-3">Landing Pages</li>
+                                            </ul>
+                                            <div class="text-center pt-2">
+                                                <a class="btn btn-custom bg-o-color-4 btn-md" href="#">Purchase now</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 6</h6>
+                <label class="e-sb-label" for="e_price_table_06"><input id="e_price_table_06" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+<t t-name="theme_alab.price_table_temp7">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-7.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt32 pb32 as-price-snippet-07">
+                        <div class="container">
+                            <div class="row align-items-center justify-content-center">
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card shadow border-radius-12 hover-top">
+                                        <div class="px-5 pt56">
+                                            <ul class="list-unstyled mb-0">
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-1 me-1 fa-lg"></i> 10 GB of Space </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-1 me-1 fa-lg"></i> Unlimited Projects </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-1 me-1 fa-lg"></i> Unlimited Users </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-1 me-1 fa-lg"></i> Unlimited File Recovery </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-1 me-1 fa-lg"></i> Unlimited Data </li>
+                                            </ul>
+                                            <div class="text-center pt-4">
+                                                <span class="px-4 py-1 bg-primary border-radius-12 d-inline-block">Basic</span>
+                                            </div>
+                                        </div>
+                                        <div class="text-center p-4">
+                                            <h5 class="display-2 d-flex align-items-center justify-content-center m-0">
+                                                <sup class="h2 mb-0">$</sup>49<span class="h3 mt-auto">/Mo</span>
+                                            </h5>
+                                            <p class="m-0 pt-2 lead">Per user</p>
+                                        </div>
+                                        <div class="px-5 pb-7">
+                                            <a class="w-100 btn btn-outline-primary" href="#">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card shadow border-radius-12 hover-top bg-o-color-1">
+                                        <div class="px-5 pt56">
+                                            <ul class="list-unstyled mb-0">
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-3 me-1 fa-lg"></i> 10 GB of Space </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-3 me-1 fa-lg"></i> Unlimited Projects </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-3 me-1 fa-lg"></i> Unlimited Users </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-3 me-1 fa-lg"></i> Unlimited File Recovery </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-3 me-1 fa-lg"></i> Unlimited Data </li>
+                                            </ul>
+                                            <div class="text-center pt-4">
+                                                <span class="px-4 py-1 bg-o-color-3 border-radius-12 d-inline-block">Basic</span>
+                                            </div>
+                                        </div>
+                                        <div class="text-center p-4">
+                                            <h5 class="display-2 d-flex align-items-center justify-content-center m-0">
+                                                <sup class="h2 mb-0"><font style="" class="text-o-color-4">$</font></sup>49<span class="h3 mt-auto"><font style="" class="text-o-color-4">/Mo</font></span>
+                                            </h5>
+                                            <p class="m-0 pt-2 lead">Per user</p>
+                                        </div>
+                                        <div class="px-5 pb-7">
+                                            <a class="w-100 btn btn-outline-custom text-o-color-4" href="#" style="border-width: 1px; border-style: solid; border-color: rgb(255, 255, 255);">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card shadow border-radius-12 hover-top">
+                                        <div class="px-5 pt56">
+                                            <ul class="list-unstyled mb-0">
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-1 me-1 fa-lg"></i> 10 GB of Space </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-1 me-1 fa-lg"></i> Unlimited Projects </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-1 me-1 fa-lg"></i> Unlimited Users </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-1 me-1 fa-lg"></i> Unlimited File Recovery </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-o-color-1 me-1 fa-lg"></i> Unlimited Data </li>
+                                            </ul>
+                                            <div class="text-center pt-4">
+                                                <span class="px-4 py-1 bg-primary border-radius-12 d-inline-block">Basic</span>
+                                            </div>
+                                        </div>
+                                        <div class="text-center p-4">
+                                            <h5 class="display-2 d-flex align-items-center justify-content-center m-0">
+                                                <sup class="h2 mb-0">$</sup>49<span class="h3 mt-auto">/Mo</span>
+                                            </h5>
+                                            <p class="m-0 pt-2 lead">Per user</p>
+                                        </div>
+                                        <div class="px-5 pb-7">
+                                            <a class="w-100 btn btn-outline-primary" href="#">Sign Up</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 7</h6>
+                <label class="e-sb-label" for="e_price_table_07"><input id="e_price_table_07" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+<t t-name="theme_alab.price_table_temp8">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-8.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt24 pb24 as-price-snippet-08 o_colored_level o_cc o_cc2">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-3 col-sm-6 pt16 pb16 s_col_no_bgcolor">
+                                    <div class="card border-0 shadow shadow-hover-lg border-radius-12 px-4 py-5 hover-top">
+                                        <div class="pb-4">
+                                            <h5 class="text-o-color-2 mb-3">Personal</h5>
+                                            <h1 class="mb-3 display-4 font-weight-bold"><span class="s_comparisons_price">$45</span></h1>
+                                            <label class="bg-o-color-3 text-o-color-2 px-3 py-1 rounded">Monthly</label>
+                                        </div>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 text-center">
+                                            <a href="#" class="btn btn-primary w-100 btn-md">Let's Start</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16 s_col_no_bgcolor">
+                                    <div class="card border-0 shadow shadow-hover-lg border-radius-12 px-4 py-5 hover-top bg-o-color-1">
+                                        <div class="pb-4">
+                                            <h5 class="text-o-color-3 mb-3">Personal</h5>
+                                            <h1 class="mb-3 display-4 font-weight-bold"><span class="s_comparisons_price text-o-color-3">$45</span></h1>
+                                            <label class="bg-o-color-3 text-o-color-2 px-3 py-1 rounded">Monthly</label>
+                                        </div>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-3"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-3"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-3"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-3"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg text-o-color-3"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 text-center">
+                                            <a href="#" class="w-100 btn btn-outline-custom text-o-color-4 btn-md" style="border-width: 1px; border-style: solid; border-color: rgb(255, 255, 255);">Let's Start</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16 s_col_no_bgcolor">
+                                    <div class="card border-0 shadow shadow-hover-lg border-radius-12 px-4 py-5 hover-top">
+                                        <div class="pb-4">
+                                            <h5 class="text-o-color-2 mb-3">Personal</h5>
+                                            <h1 class="mb-3 display-4 font-weight-bold"><span class="s_comparisons_price">$45</span></h1>
+                                            <label class="bg-o-color-3 text-o-color-2 px-3 py-1 rounded">Monthly</label>
+                                        </div>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 text-center">
+                                            <a href="#" class="btn btn-primary w-100 btn-md">Let's Start</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16 s_col_no_bgcolor">
+                                    <div class="card border-0 shadow shadow-hover-lg border-radius-12 px-4 py-5 hover-top">
+                                        <div class="pb-4">
+                                            <h5 class="text-o-color-2 mb-3">Personal</h5>
+                                            <h1 class="mb-3 display-4 font-weight-bold"><span class="s_comparisons_price">$45</span></h1>
+                                            <label class="bg-o-color-3 text-o-color-2 px-3 py-1 rounded">Monthly</label>
+                                        </div>
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Projects </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Users </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited File Recovery </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-1 fa-lg"></i> Unlimited Data </li>
+                                        </ul>
+                                        <div class="pt-4 mt-3 text-center">
+                                            <a href="#" class="btn btn-primary w-100 btn-md">Let's Start</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 8</h6>
+                <label class="e-sb-label" for="e_price_table_08"><input id="e_price_table_08" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+<t t-name="theme_alab.price_table_temp9">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-9.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt56 pb56 as-price-snippet-09 o_cc o_cc2">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-hover hover-top border-radius-12">
+                                        <div class="border-bottom py-4 mb-4 text-center">
+                                            <h5>Free</h5>
+                                            <span>Forever Free</span>
+                                            <div class="price pt-1 pb-3 h1">
+                                                $0
+                                            </div>
+                                            <a class="btn btn-outline-primary" href="#">Get Started</a>
+                                        </div>
+                                        <div class="px-4">
+                                            <ul class="list-unstyled">
+                                               <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> 10 GB of Space </li>
+                                                <li class="py-2"><i class="fa fa-times-circle-o text-danger me-1"></i> Unlimited Projects </li>
+                                                <li class="py-2"><i class="fa fa-times-circle-o text-danger me-1"></i> Unlimited Users </li>
+                                                <li class="py-2"><i class="fa fa-times-circle-o text-danger me-1"></i> Unlimited File Recovery </li>
+                                                <li class="py-2"><i class="fa fa-times-circle-o text-danger me-1"></i> Unlimited Data </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-hover hover-top border-radius-12">
+                                        <div class="border-bottom py-4 mb-4 text-center">
+                                            <h5>Starter</h5>
+                                            <span>Forever Free</span>
+                                            <div class="price pt-1 pb-3 h1">
+                                                $10
+                                            </div>
+                                            <a class="btn btn-outline-primary" href="#">Get Started</a>
+                                        </div>
+                                        <div class="px-4">
+                                            <ul class="list-unstyled">
+                                               <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> 10 GB of Space </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Projects </li>
+                                                <li class="py-2"><i class="fa fa-times-circle-o text-danger me-1"></i> Unlimited Users </li>
+                                                <li class="py-2"><i class="fa fa-times-circle-o text-danger me-1"></i> Unlimited File Recovery </li>
+                                                <li class="py-2"><i class="fa fa-times-circle-o text-danger me-1"></i> Unlimited Data </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-hover hover-top border-radius-12">
+                                        <div class="border-bottom py-4 mb-4 text-center">
+                                            <h5>Pro</h5>
+                                            <span>Forever Free</span>
+                                            <div class="price pt-1 pb-3 h1">
+                                                $20
+                                            </div>
+                                            <a class="btn btn-primary" href="#">Get Started</a>
+                                        </div>
+                                        <div class="px-4">
+                                            <ul class="list-unstyled">
+                                               <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> 10 GB of Space </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Projects </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Users </li>
+                                                <li class="py-2"><i class="fa fa-times-circle-o text-danger me-1"></i> Unlimited File Recovery </li>
+                                                <li class="py-2"><i class="fa fa-times-circle-o text-danger me-1"></i> Unlimited Data </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card shadow-hover hover-top border-radius-12">
+                                        <div class="border-bottom py-4 mb-4 text-center">
+                                            <h5>Premium</h5>
+                                            <span>Forever Free</span>
+                                            <div class="price pt-1 pb-3 h1">
+                                                $30
+                                            </div>
+                                            <a class="btn btn-outline-primary" href="#">Get Started</a>
+                                        </div>
+                                        <div class="px-4">
+                                            <ul class="list-unstyled">
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> 10 GB of Space </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Projects </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Users </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited File Recovery </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Data </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 9</h6>
+                <label class="e-sb-label" for="e_price_table_09"><input id="e_price_table_09" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+<t t-name="theme_alab.price_table_temp10">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-10.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt56 pb56 as-price-snippet-10 o_cc o_cc2">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card hover-top light-border border-radius-12">
+                                        <div class="p-4">
+                                            <div class="d-flex justify-content-between">
+                                                <div>
+                                                    <h6 class="text-muted">BASIC</h6>
+                                                    <div class="pb-3">
+                                                        <div class="d-flex align-items-baseline"><h3 class="fw-500">$</h3><h1 class="font-weight-bold display-4 mb-0">19</h1></div>
+                                                        <span>Per Month</span>
+                                                    </div>
+                                                </div>
+                                                <i class="fa fa-suitcase bg-primary rounded-circle fa-lg"></i>
+                                            </div>
+                                            <ul class="list-unstyled mb-0">
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> 10 GB of Space </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Projects </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Users </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited File Recovery </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Data </li>
+                                            </ul>
+                                            <div class="pt-3">
+                                                <a class="btn btn-primary" href="#">Let's started</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card hover-top light-border border-radius-12">
+                                        <div class="p-4">
+                                            <div class="d-flex justify-content-between">
+                                                <div>
+                                                    <h6 class="text-muted">BASIC</h6>
+                                                    <div class="pb-3">
+                                                        <div class="d-flex align-items-baseline"><h3 class="fw-500">$</h3><h1 class="font-weight-bold display-4 mb-0">19</h1></div>
+                                                        <span>Per Month</span>
+                                                    </div>
+                                                </div>
+                                                <i class="fa fa-suitcase bg-warning rounded-circle fa-lg"></i>
+                                            </div>
+                                            <ul class="list-unstyled mb-0">
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> 10 GB of Space </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Projects </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Users </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited File Recovery </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Data </li>
+                                            </ul>
+                                            <div class="pt-3">
+                                                <a class="btn btn-primary" href="#">Let's started</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card hover-top light-border border-radius-12">
+                                        <div class="p-4">
+                                            <div class="d-flex justify-content-between">
+                                                <div>
+                                                    <h6 class="text-muted">BASIC</h6>
+                                                    <div class="pb-3">
+                                                        <div class="d-flex align-items-baseline"><h3 class="fw-500">$</h3><h1 class="font-weight-bold display-4 mb-0">19</h1></div>
+                                                        <span>Per Month</span>
+                                                    </div>
+                                                </div>
+                                                <i class="fa fa-suitcase bg-success rounded-circle fa-lg"></i>
+                                            </div>
+                                            <ul class="list-unstyled mb-0">
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> 10 GB of Space </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Projects </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Users </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited File Recovery </li>
+                                                <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Data </li>
+                                            </ul>
+                                            <div class="pt-3">
+                                                <a class="btn btn-primary" href="#">Let's started</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 10</h6>
+                <label class="e-sb-label" for="e_price_table_10"><input id="e_price_table_10" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+<t t-name="theme_alab.price_table_temp11">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-11.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt56 pb56 as-price-snippet-11 o_cc o_cc2">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card border-radius-12 border light-border p-4">
+                                       <h3>Free</h3>
+                                       <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                       <div class="mb-4 pt-2">
+                                            <h3 class="m-0">$0 USD<span class="fw-300 text-muted small">/mo</span></h3>
+                                            <span>free forever</span>
+                                        </div>
+                                        <a href="#" class="btn btn-dark w-100">Get Started</a>
+                                        <h6 class="mt-4">Everything included:</h6>
+                                        <ul class="list-unstyled mb-0 pt-1">
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Projects</li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Users</li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Datas</li>
+                                            <li class="pt-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited File Recovery</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card border-radius-12 border light-border p-4 shadow-lg position-relative" style="overflow: inherit;">
+                                        <span class="position-absolute top-0 bg-warning px-3 font-weight-bold small border-radius-12 mt-n2">Recommended</span>
+                                        <h3>Agency</h3>
+                                        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        <div class="mb-4 pt-2">
+                                            <h3 class="m-0">$0 USD<span class="fw-300 text-muted small">/mo</span></h3>
+                                            <span>free forever</span>
+                                        </div>
+                                        <a href="#" class="btn btn-primary w-100">Get Started</a>
+                                        <h6 class="mt-4">Everything included:</h6>
+                                        <ul class="list-unstyled mb-0 pt-1">
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Projects</li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Users</li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Datas</li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited File Recovery</li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Advanced Branding </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Ubranded Emails</li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Saved replies</li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Email signatures</li>
+                                            <li class="pt-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited File Recovery</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card border-radius-12 border light-border p-4">
+                                       <h3>Ultimate</h3>
+                                       <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                       <div class="mb-4 pt-2">
+                                            <h3 class="m-0">$59.98 USD<span class="fw-300 text-muted small">/mo</span></h3>
+                                            <span>free forever</span>
+                                        </div>
+                                        <a href="#" class="btn btn-dark w-100">Get Started</a>
+                                        <h6 class="mt-4">Everything included:</h6>
+                                        <ul class="list-unstyled mb-0 pt-1">
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> 10 GB of Space </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Projects</li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Users</li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited Datas</li>
+                                            <li class="pt-2"><i class="fa fa-check-circle text-success me-1"></i> Unlimited File Recovery</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 11</h6>
+                <label class="e-sb-label" for="e_price_table_11"><input id="e_price_table_11" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+<t t-name="theme_alab.price_table_temp12">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-12.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt56 pb56 as-price-snippet-12 o_cc o_cc2">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card border-radius-12 border light-border hover-top shadow-hover-lg p-4 text-center">
+                                       <h4 class="h3 mb-0">Personal</h4>
+                                        <h6 class="mt-2 text-muted">Only For One Person:</h6>
+                                        <div class="my-3 pt-2">
+                                            <h3 class="m-0 h1">$50</h3>
+                                            <span>free forever</span>
+                                        </div>
+                                        <ul class="list-unstyled mb-0 pb-4 text-center">
+                                            <li class="py-2">10 GB of Space </li>
+                                            <li class="py-2">Unlimited Projects</li>
+                                            <li class="py-2">Unlimited Users</li>
+                                            <li class="py-2">Unlimited Datas</li>
+                                            <li class="py-2">Unlimited File Recovery</li>
+                                        </ul>
+                                        <div><a class="btn btn-primary btn-md" href="#">Get Started</a></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card border-radius-12 border light-border hover-top shadow-hover-lg p-4 text-center">
+                                       <h4 class="h3 mb-0">Personal</h4>
+                                        <h6 class="mt-2 text-muted">Only For One Person:</h6>
+                                        <div class="my-3 pt-2">
+                                            <h3 class="m-0 h1">$50</h3>
+                                            <span>free forever</span>
+                                        </div>
+                                        <ul class="list-unstyled mb-0 pb-4 text-center">
+                                            <li class="py-2">10 GB of Space </li>
+                                            <li class="py-2">Unlimited Projects</li>
+                                            <li class="py-2">Unlimited Users</li>
+                                            <li class="py-2">Unlimited Datas</li>
+                                            <li class="py-2">Unlimited File Recovery</li>
+                                        </ul>
+                                        <div><a class="btn btn-primary btn-md" href="#">Get Started</a></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card border-radius-12 border light-border hover-top shadow-hover-lg p-4 text-center">
+                                       <h4 class="h3 mb-0">Personal</h4>
+                                        <h6 class="mt-2 text-muted">Only For One Person:</h6>
+                                        <div class="my-3 pt-2">
+                                            <h3 class="m-0 h1">$50</h3>
+                                            <span>free forever</span>
+                                        </div>
+                                        <ul class="list-unstyled mb-0 pb-4 text-center">
+                                            <li class="py-2">10 GB of Space </li>
+                                            <li class="py-2">Unlimited Projects</li>
+                                            <li class="py-2">Unlimited Users</li>
+                                            <li class="py-2">Unlimited Datas</li>
+                                            <li class="py-2">Unlimited File Recovery</li>
+                                        </ul>
+                                        <div><a class="btn btn-primary btn-md" href="#">Get Started</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 12</h6>
+                <label class="e-sb-label" for="e_price_table_12"><input id="e_price_table_12" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+<t t-name="theme_alab.price_table_temp13">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-13.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt56 pb56 as-price-snippet-13 o_cc o_cc2">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card light-border border-radius-12">
+                                        <div class="p-4">
+                                            <div class="d-flex justify-content-between align-items-center">
+                                                <div>
+                                                    <h6 class="text-muted">Starter</h6>
+                                                    <div class="">
+                                                        <div class="d-flex align-items-baseline"><h3 class="fw-500">$</h3><h1 class="font-weight-bold display-4 mb-0">19</h1></div>
+                                                        <span>Per Month</span>
+                                                    </div>
+                                                </div>
+                                                <i class="fa fa-suitcase bg-success rounded-circle fa-lg"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="px-4 pt-4">
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Data driven quality review </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Secure work environment </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Compliance driven process </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Secure work environment </li>
+                                        </ul>
+                                        <div class="pt-3">
+                                            <a class="btn btn-primary btn-md" href="#">Get started</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card light-border border-radius-12">
+                                        <div class="p-4">
+                                            <div class="d-flex justify-content-between align-items-center">
+                                                <div>
+                                                    <h6 class="text-muted">Starter</h6>
+                                                    <div class="">
+                                                        <div class="d-flex align-items-baseline"><h3 class="fw-500">$</h3><h1 class="font-weight-bold display-4 mb-0">19</h1></div>
+                                                        <span>Per Month</span>
+                                                    </div>
+                                                </div>
+                                                <i class="fa fa-suitcase bg-warning rounded-circle fa-lg"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="px-4 pt-4">
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="py-2"><i class="fa fa-check-circle text-warning me-2"></i> Data driven quality review </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-warning me-2"></i> Secure work environment </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-warning me-2"></i> Compliance driven process </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-warning me-2"></i> Secure work environment </li>
+                                        </ul>
+                                        <div class="pt-3">
+                                            <a class="btn btn-primary btn-md" href="#">Get started</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card light-border border-radius-12">
+                                        <div class="p-4">
+                                            <div class="d-flex justify-content-between align-items-center">
+                                                <div>
+                                                    <h6 class="text-muted">Starter</h6>
+                                                    <div class="">
+                                                        <div class="d-flex align-items-baseline"><h3 class="fw-500">$</h3><h1 class="font-weight-bold display-4 mb-0">19</h1></div>
+                                                        <span>Per Month</span>
+                                                    </div>
+                                                </div>
+                                                <i class="fa fa-suitcase bg-primary rounded-circle fa-lg"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="px-4 pt-4">
+                                        <ul class="list-unstyled mb-0">
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-2"></i> Data driven quality review </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-2"></i> Secure work environment </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-2"></i> Compliance driven process </li>
+                                            <li class="py-2"><i class="fa fa-check-circle text-primary me-2"></i> Secure work environment </li>
+                                        </ul>
+                                        <div class="pt-3">
+                                            <a class="btn btn-primary btn-md" href="#">Get started</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 13</h6>
+                <label class="e-sb-label" for="e_price_table_13"><input id="e_price_table_13" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+<t t-name="theme_alab.price_table_temp14">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-14.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt56 pb56 as-price-snippet-14 o_cc o_cc2">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card light-border border-radius-12">
+                                        <img src="/theme_avid/static/src/img/snippets/placeholder/1000x700.jpg" />
+                                        <div class="p-4">
+                                            <p class="samll mb-0 mt-n4 mb-4">
+                                                <span class="bg-primary px-3 py-2 rounded-pill">Personal</span>
+                                            </p>
+                                            <div class="d-flex align-items-end mb-4">
+                                                <h1 class="mb-0">$49.99</h1>
+                                                <span class="small ms-2">/ Monthly</span>
+                                            </div>
+                                            <div>
+                                                <ul class="list-unstyled mb-4">
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> 10 GB of Space </li>
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Unlimited Projects </li>
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Unlimited Users </li>
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Unlimited Datas </li>
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Unlimited File Recovery </li>
+                                                </ul>
+                                                <a class="btn btn-primary w-100 btn-md" href="#">Get Started</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card light-border border-radius-12">
+                                        <img src="/theme_avid/static/src/img/snippets/placeholder/1000x700.jpg" />
+                                        <div class="p-4">
+                                            <p class="samll mb-0 mt-n4 mb-4">
+                                                <span class="bg-primary px-3 py-2 rounded-pill">Personal</span>
+                                            </p>
+                                            <div class="d-flex align-items-end mb-4">
+                                                <h1 class="mb-0">$49.99</h1>
+                                                <span class="small ms-2">/ Monthly</span>
+                                            </div>
+                                            <div>
+                                                <ul class="list-unstyled mb-4">
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> 10 GB of Space </li>
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Unlimited Projects </li>
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Unlimited Users </li>
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Unlimited Datas </li>
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Unlimited File Recovery </li>
+                                                </ul>
+                                                <a class="btn btn-primary w-100 btn-md" href="#">Get Started</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 pt16 pb16">
+                                    <div class="card light-border border-radius-12">
+                                        <img src="/theme_avid/static/src/img/snippets/placeholder/1000x700.jpg" />
+                                        <div class="p-4">
+                                            <p class="samll mb-0 mt-n4 mb-4">
+                                                <span class="bg-primary px-3 py-2 rounded-pill">Personal</span>
+                                            </p>
+                                            <div class="d-flex align-items-end mb-4">
+                                                <h1 class="mb-0">$49.99</h1>
+                                                <span class="small ms-2">/ Monthly</span>
+                                            </div>
+                                            <div>
+                                                <ul class="list-unstyled mb-4">
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> 10 GB of Space </li>
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Unlimited Projects </li>
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Unlimited Users </li>
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Unlimited Datas </li>
+                                                    <li class="py-2"><i class="fa fa-check-circle text-success me-2"></i> Unlimited File Recovery </li>
+                                                </ul>
+                                                <a class="btn btn-primary w-100 btn-md" href="#">Get Started</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 14</h6>
+                <label class="e-sb-label" for="e_price_table_14"><input id="e_price_table_14" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+<t t-name="theme_alab.price_table_temp15">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/price_table-15.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_comparisons pt56 pb56 as-price-snippet-15 o_cc o_cc2">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card text-center p-5 hover-scale-box border-radius-12">
+                                        <div class="text-center">
+                                            <div class="h1 mb-2">$20</div>
+                                            <h5 class="mb-4">Starter</h5>
+                                        </div>
+                                        <ul class="list-unstyled mb-0 text-center">
+                                           <li class="py-2">10 GB of Space </li>
+                                            <li class="py-2">Unlimited Projects </li>
+                                            <li class="py-2">Unlimited Users </li>
+                                            <li class="py-2">Unlimited File Recovery </li>
+                                            <li class="py-2">Unlimited Data </li>
+                                        </ul>
+                                        <div class="text-center"><a class="btn btn-primary btn-md mt-4" href="#">Get Started</a></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card text-center p-5 hover-scale-box border-radius-12 bg-o-color-2">
+                                        <div class="text-center">
+                                            <div class="h1 mb-2"><font style="" class="text-o-color-4">$20</font></div>
+                                            <h5 class="mb-4"><font style="" class="text-o-color-4">Starter</font></h5>
+                                        </div>
+                                        <ul class="list-unstyled mb-0 text-center">
+                                           <li class="py-2">10 GB of Space </li>
+                                            <li class="py-2">Unlimited Projects </li>
+                                            <li class="py-2">Unlimited Users </li>
+                                            <li class="py-2">Unlimited File Recovery </li>
+                                            <li class="py-2">Unlimited Data </li>
+                                        </ul>
+                                        <div class="text-center"><a class="btn btn-primary btn-md mt-4" href="#">Get Started</a></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card text-center p-5 hover-scale-box border-radius-12">
+                                        <div class="text-center">
+                                            <div class="h1 mb-2">$20</div>
+                                            <h5 class="mb-4">Starter</h5>
+                                        </div>
+                                        <ul class="list-unstyled mb-0 text-center">
+                                           <li class="py-2">10 GB of Space </li>
+                                            <li class="py-2">Unlimited Projects </li>
+                                            <li class="py-2">Unlimited Users </li>
+                                            <li class="py-2">Unlimited File Recovery </li>
+                                            <li class="py-2">Unlimited Data </li>
+                                        </ul>
+                                        <div class="text-center"><a class="btn btn-primary btn-md mt-4" href="#">Get Started</a></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-sm-6 pt16 pb16">
+                                    <div class="card text-center p-5 hover-scale-box border-radius-12">
+                                        <div class="text-center">
+                                            <div class="h1 mb-2">$20</div>
+                                            <h5 class="mb-4">Starter</h5>
+                                        </div>
+                                        <ul class="list-unstyled mb-0 text-center">
+                                           <li class="py-2">10 GB of Space </li>
+                                            <li class="py-2">Unlimited Projects </li>
+                                            <li class="py-2">Unlimited Users </li>
+                                            <li class="py-2">Unlimited File Recovery </li>
+                                            <li class="py-2">Unlimited Data </li>
+                                        </ul>
+                                        <div class="text-center"><a class="btn btn-primary btn-md mt-4" href="#">Get Started</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Price Table 15</h6>
+                <label class="e-sb-label" for="e_price_table_15"><input id="e_price_table_15" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+</templates>

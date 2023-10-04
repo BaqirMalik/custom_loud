@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="corporate_layout" name="Main layout" inherit_id="portal.frontend_layout">
+        <xpath expr="//header" position="replace">
+            <header id="header">
+                <nav id="main-menu" class="navbar navbar-default navbar-fixed-top" role="banner">
+                    <div class="container">
+                        <div class="header d-lg-flex justify-content-between align-items-center py-sm-3 py-2 px-sm-2 px-1">
+                            <div id="logo" style="margin-left: -230px;">
+                                <a href="#"><img src="/jt_multi_theme/static/src/images/logo.png" alt="logo"/></a>
+                            </div>
+                        <div class="collapse navbar-collapse navbar-right">
+                            
+                            <ul class="nav">
+                                <li class="scroll active"><a href="#home">Home</a></li>
+                                <li class="scroll"><a href="#features">Features</a></li>
+                                <li class="scroll"><a href="#services">Services</a></li>
+                                <li class="scroll"><a href="#portfolio">Portfolio</a></li>
+                                <li class="scroll"><a href="#about">About</a></li>
+                                <li class="scroll"><a href="#meet-team">Team</a></li>
+                                <li class="scroll"><a href="#pricing">Pricing</a></li>
+                                <li class="scroll"><a href="#blog">Blog</a></li>
+                                <li class="scroll"><a href="#get-in-touch">Contact</a></li>
+                                <li groups="base.group_public" class="scroll">
+                                    <a href="/web/login">Login</a>        
+                                </li>
+                                <li class="scroll" groups="base.group_user">
+                                    <a href="/web/session/logout">Logout</a>
+                                </li>   
+                            </ul>
+                        </div>
+                    </div>
+                    </div>
+                    <!--/.container-->
+                </nav>
+                <!--/nav-->
+            </header>
+        </xpath>
+        
+        <xpath expr="//footer" position="replace">
+           <footer id="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>Copyright © 2019 Multi Theme. All rights reserved | Developed &amp; Design by<a href="www.jupical.com" style="color:#56afd7;"><br/>Jupical Technologies Pvt. Ltd.</a>
+                        </p>
+                    </div>
+                    <div class="col-sm-6">
+                        <ul class="social-icons">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                            <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                            <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                            <li><a href="#"><i class="fa fa-flickr"></i></a></li>
+                            <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="#"><i class="fa fa-github"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!--/#footer-->
+        </xpath>
+    </template>
+</odoo>

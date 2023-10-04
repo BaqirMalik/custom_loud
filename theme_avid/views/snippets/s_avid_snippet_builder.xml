@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Avid Builder Snippet -->
+    <template id="website_snippet_builder" name="Avid Snippet Builder">
+        <section class="as-avid-snippet-builder">
+            Avid Snippet Builder
+        </section>
+    </template>
+
+    <!-- Avid Builder Snippet Options -->
+    <template id="s_website_snippet_builder_options" inherit_id="website.snippet_options">
+        <xpath expr="." position="inside">
+            <div data-js="js_avid_snippet_builder" data-selector=".as-avid-snippet-builder">
+                <we-button data-webisite_snippet_configure="" data-no-preview="true">Change Collection</we-button>
+            </div>
+        </xpath>
+    </template>
+
+    <!-- Avid Builder Snippet Thumbnail -->
+    <template id="avid_snippets_builder" name="Snippet builder" inherit_id="website.snippets">
+        <xpath expr="//div[@id='snippet_structure']/div[hasclass('o_panel_body')]" position="inside">
+            <t t-snippet="theme_avid.website_snippet_builder" t-thumbnail="/theme_avid/static/src/img/snippets_thumbs/avid-snippetbuilder.svg"/>
+        </xpath>
+    </template>
+
+
+</odoo>

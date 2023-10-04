@@ -1,0 +1,115 @@
+@if o-website-value('footer-template')=='avid_footer3' {
+	$-footer-color: o-color('footer-custom') or o-color('footer');
+
+	.o_footer {
+		font-size: 0.9rem;
+		// General A tag
+		a:not(.btn) {
+			text-decoration: none;
+			@if ($-footer-color and color-contrast($-footer-color) != $color-contrast-light) {
+				color: $as-dark;
+			}
+			@if ($-footer-color and color-contrast($-footer-color) != $color-contrast-dark) {
+				color: rgba($as-white, 0.8);
+			}
+			&:hover {
+				@if ($-footer-color and color-contrast($-footer-color) != $color-contrast-light) {
+					color: $primary;
+				}
+				@if ($-footer-color and color-contrast($-footer-color) != $color-contrast-dark) {
+					color: $as-white;
+				}
+			}
+		}
+
+		// Heading
+		.footer-title {
+		    position: relative;
+		    margin-bottom: 24px;
+
+		    h5 {
+		    	font-weight: 500;
+			    font-size: 18px;
+			    margin: 0;
+			    text-transform: uppercase;
+		    }
+		}
+
+		// Footer Link Style
+		.footer-link {
+			li {
+
+				+ li {
+					padding-top: 10px;
+				}
+				a {
+					position: relative;
+					text-decoration: none;
+					@if ($-footer-color and color-contrast($-footer-color) != $color-contrast-light) {
+						color: $as-dark;
+					}
+					@if ($-footer-color and color-contrast($-footer-color) != $color-contrast-dark) {
+						color: rgba($as-white, 0.8);
+					}
+
+					transition: all ease-in-out 0.35s;
+
+					&:hover {
+						@if ($-footer-color and color-contrast($-footer-color) != $color-contrast-light) {
+							color: $primary;
+						}
+						@if ($-footer-color and color-contrast($-footer-color) != $color-contrast-dark) {
+							color: $as-white;
+						}
+
+						padding-left: 16px;
+					}
+				}
+			}
+		}
+
+		.light-border {
+			border-color: #f6f7f938!important;
+		}
+
+
+		.footer-social {
+			.fa-0px {
+				width: 30px!important;
+				height: 30px!important;
+			}
+		}
+
+		.address-block {
+			.fa-0px {
+				line-height: 35px!important;
+				width: 35px!important;
+				height: 35px!important;
+			}
+		}
+
+		.mobile-btn {
+			.btn {
+				@if ($-footer-color and color-contrast($-footer-color) != $color-contrast-light) {
+					background-color: $primary;
+					color: $as-white;
+				}
+				@if ($-footer-color and color-contrast($-footer-color) != $color-contrast-dark) {
+					background-color: $as-dark;
+					color: $as-white;
+				}
+
+				&:hover {
+					@if ($-footer-color and color-contrast($-footer-color) != $color-contrast-light) {
+						background-color: $as-dark;
+						color: $as-white;
+					}
+					@if ($-footer-color and color-contrast($-footer-color) != $color-contrast-dark) {
+						background-color: $primary;
+						color: $as-white;
+					}
+				}
+			}
+		}
+	}
+}

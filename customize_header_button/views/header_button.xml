@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <template id="custom_header_button" inherit_id="website.header_call_to_action"
+              name="Custom Header Button">
+        <!--<xpath expr="//a[hasclass('btn_cta')]" position="replace">
+
+        </xpath>-->
+        <xpath expr="//a[hasclass('btn_cta')]" position="replace">
+            <a href="#" class="btn btn-info modalButton" data-popup="popupOne">Action</a>
+
+            <section class="modal modalWindow" id="popupOne">
+                <section class="modalWrapper">
+                    <div class="bg-image"
+                         style="background-image: url('https://c4.wallpaperflare.com/wallpaper/546/463/722/music-music-equalizer-loud-wallpaper-preview.jpg');">
+                    </div>
+                    <div class="container">
+                        <div class="row">
+
+                            <div class="col-md-4">
+                                <div class="subscribe-text mb-15">
+                                    <span>JOIN OUR NEWSLETTER</span>
+                                    <h2>subscribe newsletter</h2>
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="subscribe-wrapper subscribe2-wrapper mb-15 d-flex justify-content-center">
+                                    <div class="subscribe-form input-group">
+                                        <form action="#">
+                                            <input class="form-control email" placeholder="Enter Your Email" type="email"/>
+                                            <button class="btn btn-success subscribe">Subscribe
+                                                <i class="fas fa-long-arrow-alt-right"></i>
+                                            </button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </section>
+                <a class="closeBtn btn btn-danger">X</a>
+            </section>
+            <section class="modal overlay"></section>
+        </xpath>
+    </template>
+</odoo>

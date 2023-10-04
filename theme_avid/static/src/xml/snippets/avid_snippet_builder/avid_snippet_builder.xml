@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+    <t t-name="theme_avid.builder_block">
+        <div class="snippets_collection" id="builder">
+            <div class="edit-snippet-builder-box">
+                <div class="row">
+                    <div class="col-md-2 e-sb-tab-col">
+                        <ul class="e-sb-tab">
+                            <!-- <li>
+                                <label data-tag="e_home_pages" class="e-sb-active">Home Pages</label>
+                            </li> -->
+                            <li>
+                                <label data-tag="e_slider" class="e-sb-active">Slider</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_banner">Banner</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_about">About</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_title_style">Title Style</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_cta">Call To Action</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_contact_us">Contact Us</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_features">Features</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_our_team">Our Team</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_portfolio">Portfolio</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_price_table">Price Table</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_services">Services</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_testimonial">Testimonial</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_tabs">Tabs</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_blog">Blog</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_brand">Brand</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_number">Numbers</label>
+                            </li>
+                            <li>
+                                <label data-tag="e_progressbar">Progress Bar</label>
+                            </li>
+
+                        </ul>
+                    </div>
+                    <div class="col-md-10">
+                        <div class="e-sb-tab-content">
+                            <!-- Home Page tab -->
+                            <div id="e_home_pages" class="e-sb-tab--content">
+                                <!-- <div class="row"> -->
+                                    <!-- col -->
+                                   <!--  <t t-call="theme_avid.homepage_1"/> -->
+                                    <!-- end col -->
+                                    <!-- col -->
+                                    <!-- <t t-call="theme_avid.homepage_2"/> -->
+                                    <!-- end col -->
+                                <!-- </div> -->
+                            </div>
+
+                            <!-- Slider tab -->
+                            <div id="e_slider" class="e-sb-tab--content">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.slider_temp1"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.slider_temp2"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <!-- Banner tab -->
+                            <div id="e_banner" class="e-sb-tab--content d-none">
+                                <div class="row">
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.banner_temp1"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.banner_temp2"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.banner_temp3"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.banner_temp4"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.banner_temp5"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.banner_temp6"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.banner_temp7"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.banner_temp8"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.banner_temp9"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.banner_temp10"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.banner_temp11"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.banner_temp12"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <!-- About tab -->
+                            <div id="e_about" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp1"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp2"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp3"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp4"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp5"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp6"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp7"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp8"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp9"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp10"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp11"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp12"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp13"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp14"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp15"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp16"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp17"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp18"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp19"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp20"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp21"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp22"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp23"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp24"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.about_temp25"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <!-- Title tab -->
+                            <div id="e_title_style" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.title_1"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.title_2"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.title_3"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.title_4"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <!-- Call To Action tab -->
+                            <div id="e_cta" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cta_temp1"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cta_temp2"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cta_temp3"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cta_temp4"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cta_temp5"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cta_temp6"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cta_temp7"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cta_temp8"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cta_temp9"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cta_temp10"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cta_temp11"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cta_temp12"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cta_temp13"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <!-- Contact Us tab -->
+                            <div id="e_contact_us" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cont_us_temp1"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cont_us_temp2"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cont_us_temp3"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cont_us_temp4"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.cont_us_temp5"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <!-- Features tab -->
+                            <div id="e_features" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.feature_temp1"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.feature_temp2"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.feature_temp3"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.feature_temp4"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <!-- Our Team tab -->
+                            <div id="e_our_team" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.our_team_temp1"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.our_team_temp2"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.our_team_temp3"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.our_team_temp4"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.our_team_temp5"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.our_team_temp6"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <!-- POrtfolio tab -->
+                            <div id="e_portfolio" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.portfolio_temp_1"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.portfolio_temp_2"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.portfolio_temp_3"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.portfolio_temp_4"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.portfolio_temp_5"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <!-- Price Table tab -->
+                            <div id="e_price_table" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp1"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp2"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp3"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp4"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp5"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp6"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp7"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp8"/>
+                                    <!-- end col -->
+
+                                     <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp9"/>
+                                    <!-- end col -->
+
+                                     <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp10"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp11"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp12"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp13"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp14"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_alab.price_table_temp15"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <!-- Services tab -->
+                            <div id="e_services" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.service_temp1"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.service_temp2"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.service_temp3"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.service_temp4"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.service_temp5"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.service_temp6"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.service_temp7"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.service_temp8"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.service_temp9"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.service_temp10"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.service_temp11"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.service_temp12"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.service_temp13"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <!-- Testimonial tab -->
+                            <div id="e_testimonial" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.testimonial_temp1"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.testimonial_temp2"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.testimonial_temp3"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.testimonial_temp4"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.testimonial_temp5"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.testimonial_temp6"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.testimonial_temp7"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.testimonial_temp8"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.testimonial_temp9"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.testimonial_temp10"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.testimonial_temp11"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.testimonial_temp12"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.testimonial_temp13"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <!-- Title tab -->
+                            <div id="e_tabs" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.tabs_1"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.tabs_2"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.tabs_3"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.tabs_4"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.tabs_5"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.tabs_6"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <!-- Title tab -->
+                            <div id="e_blog" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.blog_1"/>
+                                    <!-- end col -->
+                                    <!-- col -->
+                                    <t t-call="theme_avid.blog_2"/>
+                                    <!-- end col -->
+                                    <!-- col -->
+                                    <t t-call="theme_avid.blog_3"/>
+                                    <!-- end col -->
+                                    <!-- col -->
+                                    <t t-call="theme_avid.blog_4"/>
+                                    <!-- end col -->
+                                     <!-- col -->
+                                    <t t-call="theme_avid.blog_5"/>
+                                    <!-- end col -->
+                                    <!-- col -->
+                                    <t t-call="theme_avid.blog_6"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                             <div id="e_brand" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.brand_1"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.brand_2"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.brand_3"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.brand_4"/>
+                                    <!-- end col -->
+
+                                    <!-- col -->
+                                    <t t-call="theme_avid.brand_5"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <div id="e_number" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.number_1"/>
+                                    <!-- end col -->
+                                    <!-- col -->
+                                    <t t-call="theme_avid.number_2"/>
+                                    <!-- end col -->
+                                    <!-- col -->
+                                    <t t-call="theme_avid.number_3"/>
+                                    <!-- end col -->
+                                    <!-- col -->
+                                    <t t-call="theme_avid.number_4"/>
+                                    <!-- end col -->
+                                    <!-- col -->
+                                    <t t-call="theme_avid.number_5"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                            <div id="e_progressbar" class="e-sb-tab--content d-none">
+                                <div class="row">
+                                    <!-- col -->
+                                    <t t-call="theme_avid.progressbar_temp1"/>
+                                    <!-- end col -->
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </t>
+</templates>

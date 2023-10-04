@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates id="as_portfolio_templates">
+
+<t t-name="theme_avid.portfolio_temp_1">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/portfolio-1.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_tabs pt48 pb48 oe_snippet_body as-portfolio-snippet-01" data-vcss="001" data-snippet="s_tabs" data-name="Tabs" >
+                        <div class="container">
+                            <div class="s_tabs_main">
+                                <div class="s_tabs_nav mb-3">
+                                    <ul class="nav nav-pills justify-content-center" role="tablist">
+                                        <li class="nav-item">
+                                            <a class="nav-link active o_default_snippet_text" id="nav_tabs_link_01" data-bs-toggle="tab" href="#nav_tabs_content_01" role="tab" aria-controls="nav_tabs_content_01" aria-selected="true">Home</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link o_default_snippet_text" id="nav_tabs_link_02" data-bs-toggle="tab" href="#nav_tabs_content_02" role="tab" aria-controls="nav_tabs_content_02" aria-selected="false">Profile</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link o_default_snippet_text" id="nav_tabs_link_03" data-bs-toggle="tab" href="#nav_tabs_content_03" role="tab" aria-controls="nav_tabs_content_03" aria-selected="false">Contact</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="s_tabs_content tab-content">
+                                    <div class="tab-pane fade show active" id="nav_tabs_content_01" role="tabpanel" aria-labelledby="nav_tabs_link_01">
+                                        <div class="oe_structure oe_empty">
+                                            <section class="s_text_block s_comparisons">
+                                                <div class="container s_allow_columns">
+                                                    <div class="row">
+                                                        <div class="col-lg-4 col-sm-6 s_col_no_bgcolor pt16 pb16">
+                                                            <div class="card portfolio-box-01">
+                                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                                <div class="position-absolute bottom-0">
+                                                                    <div class="portfolio-content p-3">
+                                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                                        <div class="">
+                                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <a href="#" class="porfolio-link">
+                                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-4 col-sm-6 s_col_no_bgcolor pt16 pb16">
+                                                            <div class="card position-relative portfolio-box-01">
+                                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                                <div class="position-absolute bottom-0">
+                                                                    <div class="portfolio-content p-3">
+                                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                                        <div class="">
+                                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <a href="#" class="porfolio-link">
+                                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-4 col-sm-6 s_col_no_bgcolor pt16 pb16">
+                                                            <div class="card position-relative portfolio-box-01">
+                                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                                <div class="position-absolute bottom-0">
+                                                                    <div class="portfolio-content p-3">
+                                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                                        <div class="">
+                                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <a href="#" class="porfolio-link">
+                                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-4 col-sm-6 s_col_no_bgcolor pt16 pb16">
+                                                            <div class="card position-relative portfolio-box-01">
+                                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                                <div class="position-absolute bottom-0">
+                                                                    <div class="portfolio-content p-3">
+                                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                                        <div class="">
+                                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <a href="#" class="porfolio-link">
+                                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-4 col-sm-6 s_col_no_bgcolor pt16 pb16">
+                                                            <div class="card position-relative portfolio-box-01">
+                                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                                <div class="position-absolute bottom-0">
+                                                                    <div class="portfolio-content p-3">
+                                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                                        <div class="">
+                                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <a href="#" class="porfolio-link">
+                                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-4 col-sm-6 s_col_no_bgcolor pt16 pb16">
+                                                            <div class="card position-relative portfolio-box-01">
+                                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                                <div class="position-absolute bottom-0">
+                                                                    <div class="portfolio-content p-3">
+                                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                                        <div class="">
+                                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <a href="#" class="porfolio-link">
+                                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="nav_tabs_content_02" role="tabpanel" aria-labelledby="nav_tabs_link_02">
+                                        <div class="oe_structure oe_empty">
+                                              <section class="s_text_block s_comparisons">
+                                                <div class="container s_allow_columns">
+                                                    <div class="row">
+                                                        <div class="col-lg-4 col-sm-6 s_col_no_bgcolor pt16 pb16">
+                                                            <div class="card position-relative portfolio-box-01">
+                                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                                <div class="position-absolute bottom-0">
+                                                                    <div class="portfolio-content p-3">
+                                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                                        <div class="">
+                                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <a href="#" class="porfolio-link">
+                                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-4 col-sm-6 s_col_no_bgcolor pt16 pb16">
+                                                            <div class="card position-relative portfolio-box-01">
+                                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                                <div class="position-absolute bottom-0">
+                                                                    <div class="portfolio-content p-3">
+                                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                                        <div class="">
+                                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <a href="#" class="porfolio-link">
+                                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-4 col-sm-6 s_col_no_bgcolor pt16 pb16">
+                                                            <div class="card position-relative portfolio-box-01">
+                                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                                <div class="position-absolute bottom-0">
+                                                                    <div class="portfolio-content p-3">
+                                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                                        <div class="">
+                                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <a href="#" class="porfolio-link">
+                                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane fade" id="nav_tabs_content_03" role="tabpanel" aria-labelledby="nav_tabs_link_03">
+                                        <div class="oe_structure oe_empty">
+                                             <section class="s_text_block s_comparisons">
+                                                <div class="container s_allow_columns">
+                                                    <div class="row">
+                                                        <div class="col-lg-4 col-sm-6 s_col_no_bgcolor pt16 pb16">
+                                                            <div class="card portfolio-box-01">
+                                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                                <div class="position-absolute bottom-0">
+                                                                    <div class="portfolio-content p-3">
+                                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                                        <div class="">
+                                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <a href="#" class="porfolio-link">
+                                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-4 col-sm-6 s_col_no_bgcolor pt16 pb16">
+                                                            <div class="card position-relative portfolio-box-01">
+                                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                                <div class="position-absolute bottom-0">
+                                                                    <div class="portfolio-content p-3">
+                                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                                        <div class="">
+                                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <a href="#" class="porfolio-link">
+                                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Portfolio 1</h6>
+                <label class="e-sb-label" for="e_portfolio_01"><input id="e_portfolio_01" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.portfolio_temp_2">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/portfolio-2.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_carousel_wrapper oe_snippet_body as-portfolio-snippet-01 as-portfolio-snippet-02 s_comparisons pt40 pb40" data-vxml="001" data-snippet="s_carousel" data-name="Carousel">
+                        <div class="s_carousel s_carousel_default carousel slide s_carousel_rounded" data-bs-interval="10000" data-bs-ride="carousel" id="myCarousel779892" style="background-image: none;">
+                            <ol class="carousel-indicators o_we_no_overlay">
+                                <li data-bs-slide-to="0" class="active" data-bs-target="#myCarousel779892"></li>
+                                <li data-bs-slide-to="1" data-bs-target="#myCarousel779892"></li>
+                            </ol>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                    <div class="container-fluid s_allow_columns">
+                                        <div class="row">
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="card portfolio-box-01">
+                                                    <div class="portfolio-img">
+                                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" />
+                                                    </div>
+                                                    <div class="position-absolute bottom-0">
+                                                        <div class="portfolio-content p-3">
+                                                            <h5>
+                                                                <font style="" class="text-o-color-4">Our Work</font>
+                                                            </h5>
+                                                            <div class="">
+                                                                <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                <a href="#" class="badge badge-primary">Fashion</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <a href="#" class="porfolio-link">
+                                                        <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="card position-relative portfolio-box-01">
+                                                    <div class="portfolio-img">
+                                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" />
+                                                    </div>
+                                                    <div class="position-absolute bottom-0">
+                                                        <div class="portfolio-content p-3">
+                                                            <h5>
+                                                                <font style="" class="text-o-color-4">Our Work</font>
+                                                            </h5>
+                                                            <div class="">
+                                                                <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                <a href="#" class="badge badge-primary">Fashion</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <a href="#" class="porfolio-link">
+                                                        <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="card position-relative portfolio-box-01">
+                                                    <div class="portfolio-img">
+                                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" />
+                                                    </div>
+                                                    <div class="position-absolute bottom-0">
+                                                        <div class="portfolio-content p-3">
+                                                            <h5>
+                                                                <font style="" class="text-o-color-4">Our Work</font>
+                                                            </h5>
+                                                            <div class="">
+                                                                <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                <a href="#" class="badge badge-primary">Fashion</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <a href="#" class="porfolio-link">
+                                                        <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="card position-relative portfolio-box-01">
+                                                    <div class="portfolio-img">
+                                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg"/>
+                                                    </div>
+                                                    <div class="position-absolute bottom-0">
+                                                        <div class="portfolio-content p-3">
+                                                            <h5>
+                                                                <font style="" class="text-o-color-4">Our Work</font>
+                                                            </h5>
+                                                            <div class="">
+                                                                <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                <a href="#" class="badge badge-primary">Fashion</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <a href="#" class="porfolio-link">
+                                                        <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="carousel-item oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                    <div class="container-fluid s_allow_columns">
+                                        <div class="row">
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="card portfolio-box-01">
+                                                    <div class="portfolio-img">
+                                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" />
+                                                    </div>
+                                                    <div class="position-absolute bottom-0">
+                                                        <div class="portfolio-content p-3">
+                                                            <h5>
+                                                                <font style="" class="text-o-color-4">Our Work</font>
+                                                            </h5>
+                                                            <div class="">
+                                                                <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                <a href="#" class="badge badge-primary">Fashion</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <a href="#" class="porfolio-link">
+                                                        <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="card position-relative portfolio-box-01">
+                                                    <div class="portfolio-img">
+                                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" />
+                                                    </div>
+                                                    <div class="position-absolute bottom-0">
+                                                        <div class="portfolio-content p-3">
+                                                            <h5>
+                                                                <font style="" class="text-o-color-4">Our Work</font>
+                                                            </h5>
+                                                            <div class="">
+                                                                <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                <a href="#" class="badge badge-primary">Fashion</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <a href="#" class="porfolio-link">
+                                                        <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="card position-relative portfolio-box-01">
+                                                    <div class="portfolio-img">
+                                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" />
+                                                    </div>
+                                                    <div class="position-absolute bottom-0">
+                                                        <div class="portfolio-content p-3">
+                                                            <h5>
+                                                                <font style="" class="text-o-color-4">Our Work</font>
+                                                            </h5>
+                                                            <div class="">
+                                                                <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                <a href="#" class="badge badge-primary">Fashion</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <a href="#" class="porfolio-link">
+                                                        <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="card position-relative portfolio-box-01">
+                                                    <div class="portfolio-img">
+                                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" />
+                                                    </div>
+                                                    <div class="position-absolute bottom-0">
+                                                        <div class="portfolio-content p-3">
+                                                            <h5>
+                                                                <font style="" class="text-o-color-4">Our Work</font>
+                                                            </h5>
+                                                            <div class="">
+                                                                <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                                <a href="#" class="badge badge-primary">Fashion</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <a href="#" class="porfolio-link">
+                                                        <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Portfolio 2</h6>
+                <label class="e-sb-label" for="e_portfolio_02"><input id="e_portfolio_02" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.portfolio_temp_3">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/portfolio-3.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                  <!--   <section class="s_image_gallery o_spc-small o_masonry pt24 pb24 oe_snippet_body as-portfolio-snippet-03 as-portfolio-snippet-01" data-vcss="001" data-columns="3" style="overflow: hidden;" data-snippet="s_images_wall" data-name="Images Wall"> -->
+
+                    <section class="s_image_gallery o_spc-small o_masonry pt24 pb24 oe_snippet_body as-portfolio-snippet-03 as-portfolio-snippet-01" data-vcss="001" data-columns="3" style="overflow: hidden;" data-snippet="s_image_gallery" data-name="Image Gallery">
+
+                        <div class="container">
+                            <div class="row s_nb_column_fixed">
+                                <div class="o_masonry_col o_snippet_not_selectable col-lg-4 pt16 pb16">
+                                    <div class="row no-gutter">
+                                        <div class="col-12 pt8 pb8 s_col_no_bgcolor">
+                                            <div class="card position-relative portfolio-box-01 rounded-0">
+                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x700.jpg" /></div>
+                                                <div class="position-absolute bottom-0">
+                                                    <div class="portfolio-content p-3">
+                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                        <div class="">
+                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <a href="#" class="porfolio-link">
+                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 pt8 pb8 s_col_no_bgcolor">
+                                            <div class="card position-relative portfolio-box-01 rounded-0">
+                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                <div class="position-absolute bottom-0">
+                                                    <div class="portfolio-content p-3">
+                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                        <div class="">
+                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <a href="#" class="porfolio-link">
+                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="o_masonry_col o_snippet_not_selectable col-lg-4 pt16 pb16">
+                                    <div class="row no-gutter">
+                                        <div class="col-12 pt8 pb8 s_col_no_bgcolor">
+                                            <div class="card position-relative portfolio-box-01 rounded-0">
+                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                <div class="position-absolute bottom-0">
+                                                    <div class="portfolio-content p-3">
+                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                        <div class="">
+                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <a href="#" class="porfolio-link">
+                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 pt8 pb8 s_col_no_bgcolor">
+                                            <div class="card position-relative portfolio-box-01 rounded-0">
+                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x700.jpg" /></div>
+                                                <div class="position-absolute bottom-0">
+                                                    <div class="portfolio-content p-3">
+                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                        <div class="">
+                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <a href="#" class="porfolio-link">
+                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="o_masonry_col o_snippet_not_selectable col-lg-4 pt16 pb16">
+                                    <div class="row no-gutter">
+                                        <div class="col-12 pt8 pb8 s_col_no_bgcolor">
+                                            <div class="card position-relative portfolio-box-01 rounded-0">
+                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x700.jpg" /></div>
+                                                <div class="position-absolute bottom-0">
+                                                    <div class="portfolio-content p-3">
+                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                        <div class="">
+                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <a href="#" class="porfolio-link">
+                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 pt8 pb8 s_col_no_bgcolor">
+                                            <div class="card position-relative portfolio-box-01 rounded-0">
+                                                <div class="portfolio-img"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                <div class="position-absolute bottom-0">
+                                                    <div class="portfolio-content p-3">
+                                                        <h5><font style="" class="text-o-color-4">Our Work</font></h5>
+                                                        <div class="">
+                                                            <a href="#" class="badge badge-primary me-1">Photo</a>
+                                                            <a href="#" class="badge badge-primary">Fashion</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <a href="#" class="porfolio-link">
+                                                    <i class="fa m-auto rounded-circle fa-plus text-o-color-1 bg-o-color-4 rounded"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Portfolio 3</h6>
+                <label class="e-sb-label" for="e_portfolio_03"><input id="e_portfolio_03" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.portfolio_temp_4">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/portfolio-4.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="s_carousel_wrapper as-portfolio-snippet-04 oe_snippet_body as-portfolio-snippet-01 as-portfolio-snippet-02 s_comparisons pt40 pb40" data-vxml="001" data-snippet="s_carousel" data-name="Carousel">
+                        <div class="s_carousel s_carousel_default carousel slide s_carousel_rounded" data-bs-interval="10000" data-bs-ride="carousel" id="myCarousel7798921" style="background-image: none;">
+                            <ol class="carousel-indicators o_we_no_overlay">
+                                <li data-bs-slide-to="0" class="active" data-bs-target="#myCarousel7798921"></li>
+                                <li data-bs-slide-to="1" data-bs-target="#myCarousel7798921"></li>
+                            </ol>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                <div class="container-fluid s_allow_columns">
+                                        <div class="row">
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="overflow-relative hover-scale border-radius-12">
+                                                    <div class="hover-scale-in portfolio-box-04">
+                                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" />
+                                                    </div>
+                                                    <div class="position-absolute bottom-0 left-0 right-0 s_comparisons p-4">
+                                                        <div class="portfolio-content flex-row card border-0 border-radius-12 justify-content-between p-3">
+                                                            <div class="pr-3">
+                                                                <h6 class="mb-0">Showcase your Projects</h6>
+                                                                <small>Lorem ipsum dolor sit amet</small>
+                                                            </div>
+                                                            <a href="#" class="">
+                                                                <i class="fa m-auto rounded-circle fa-plus text-o-color-3 bg-o-color-1 rounded"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="overflow-relative hover-scale border-radius-12">
+                                                    <div class="hover-scale-in portfolio-box-04">
+                                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" />
+                                                    </div>
+                                                    <div class="position-absolute bottom-0 left-0 right-0 s_comparisons p-4">
+                                                        <div class="portfolio-content flex-row card border-0 border-radius-12 justify-content-between p-3">
+                                                            <div class="pr-3">
+                                                                <h6 class="mb-0">Showcase your Projects</h6>
+                                                                <small>Lorem ipsum dolor sit amet</small>
+                                                            </div>
+                                                            <a href="#" class="">
+                                                                <i class="fa m-auto rounded-circle fa-plus text-o-color-3 bg-o-color-1 rounded"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="overflow-relative hover-scale border-radius-12">
+                                                    <div class="hover-scale-in portfolio-box-04">
+                                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" />
+                                                    </div>
+                                                    <div class="position-absolute bottom-0 left-0 right-0 s_comparisons p-4">
+                                                        <div class="portfolio-content flex-row card border-0 border-radius-12 justify-content-between p-3">
+                                                            <div class="pr-3">
+                                                                <h6 class="mb-0">Showcase your Projects</h6>
+                                                                <small>Lorem ipsum dolor sit amet</small>
+                                                            </div>
+                                                            <a href="#" class="">
+                                                                <i class="fa m-auto rounded-circle fa-plus text-o-color-3 bg-o-color-1 rounded"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="overflow-relative hover-scale border-radius-12">
+                                                    <div class="hover-scale-in portfolio-box-04">
+                                                        <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" />
+                                                    </div>
+                                                    <div class="position-absolute bottom-0 left-0 right-0 s_comparisons p-4">
+                                                        <div class="portfolio-content flex-row card border-0 border-radius-12 justify-content-between p-3">
+                                                            <div class="pr-3">
+                                                                <h6 class="mb-0">Showcase your Projects</h6>
+                                                                <small>Lorem ipsum dolor sit amet</small>
+                                                            </div>
+                                                            <a href="#" class="">
+                                                                <i class="fa m-auto rounded-circle fa-plus text-o-color-3 bg-o-color-1 rounded"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="carousel-item oe_img_bg o_bg_img_center pt64 pb64" style="background-image: none;" data-name="Slide">
+                                    <div class="container-fluid s_allow_columns">
+                                        <div class="row">
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="overflow-relative hover-scale border-radius-12">
+                                                    <div class="hover-scale-in portfolio-box-04"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                    <div class="position-absolute bottom-0 left-0 right-0 s_comparisons p-4">
+                                                        <div class="portfolio-content flex-row card border-0 border-radius-12 justify-content-between p-3">
+                                                            <div class="pr-3">
+                                                                <h6 class="mb-0">Showcase your Projects</h6>
+                                                                <small>Lorem ipsum dolor sit amet</small>
+                                                            </div>
+                                                            <a href="#" class="">
+                                                                <i class="fa m-auto rounded-circle fa-plus text-o-color-3 bg-o-color-1 rounded"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="overflow-relative hover-scale border-radius-12">
+                                                    <div class="hover-scale-in portfolio-box-04"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                    <div class="position-absolute bottom-0 left-0 right-0 s_comparisons p-4">
+                                                        <div class="portfolio-content flex-row card border-0 border-radius-12 justify-content-between p-3">
+                                                            <div class="pr-3">
+                                                                <h6 class="mb-0">Showcase your Projects</h6>
+                                                                <small>Lorem ipsum dolor sit amet</small>
+                                                            </div>
+                                                            <a href="#" class="">
+                                                                <i class="fa m-auto rounded-circle fa-plus text-o-color-3 bg-o-color-1 rounded"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="overflow-relative hover-scale border-radius-12">
+                                                    <div class="hover-scale-in portfolio-box-04"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                    <div class="position-absolute bottom-0 left-0 right-0 s_comparisons p-4">
+                                                        <div class="portfolio-content flex-row card border-0 border-radius-12 justify-content-between p-3">
+                                                            <div class="pr-3">
+                                                                <h6 class="mb-0">Showcase your Projects</h6>
+                                                                <small>Lorem ipsum dolor sit amet</small>
+                                                            </div>
+                                                            <a href="#" class="">
+                                                                <i class="fa m-auto rounded-circle fa-plus text-o-color-3 bg-o-color-1 rounded"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-6 s_col_no_bgcolor pt16 pb16">
+                                                <div class="overflow-relative hover-scale border-radius-12">
+                                                    <div class="hover-scale-in portfolio-box-04"><img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" /></div>
+                                                    <div class="position-absolute bottom-0 left-0 right-0 s_comparisons p-4">
+                                                        <div class="portfolio-content flex-row card border-0 border-radius-12 justify-content-between p-3">
+                                                            <div class="pr-3">
+                                                                <h6 class="mb-0">Showcase your Projects</h6>
+                                                                <small>Lorem ipsum dolor sit amet</small>
+                                                            </div>
+                                                            <a href="#" class="porfolio-link">
+                                                                <i class="fa m-auto rounded-circle fa-plus text-o-color-3 bg-o-color-1 rounded"></i>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Portfolio 4</h6>
+                <label class="e-sb-label" for="e_portfolio_04"><input id="e_portfolio_04" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+<t t-name="theme_avid.portfolio_temp_5">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/portfolio-5.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                    <section class="pt64 pb64 s_comparisons as-portfolio-snippet-05">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-lg-4 col-sm-6 pt16 pb16">
+                                    <div class="hover-scale">
+                                        <div class="hover-scale-in position-relative border-radius-12 portfolio-box-05">
+                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" title="" alt="" />
+                                            <a class="position-absolute top-0 right-0 mt-3 me-3" href="#">
+                                                <i class="fa-1x m-auto fa fa-plus border-radius-12 text-o-color-1 fa-lg rounded bg-o-color-3"></i>
+                                            </a>
+                                        </div>
+                                        <div class="pt-3">
+                                            <h6><a href="#" class="text-reset">Printed Mobile Cover</a></h6>
+                                            <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-sm-6 pt16 pb16">
+                                    <div class="hover-scale">
+                                        <div class="hover-scale-in position-relative border-radius-12 portfolio-box-05">
+                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" title="" alt="" />
+                                            <a class="position-absolute top-0 right-0 mt-3 me-3" href="#">
+                                                <i class="fa-1x m-auto fa fa-plus border-radius-12 text-o-color-1 fa-lg rounded bg-o-color-3"></i>
+                                            </a>
+                                        </div>
+                                        <div class="pt-3">
+                                            <h6><a href="#" class="text-reset">Printed Mobile Cover</a></h6>
+                                            <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-sm-6 pt16 pb16">
+                                    <div class="hover-scale">
+                                        <div class="hover-scale-in position-relative border-radius-12 portfolio-box-05">
+                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" title="" alt="" />
+                                            <a class="position-absolute top-0 right-0 mt-3 me-3" href="#">
+                                                <i class="fa-1x m-auto fa fa-plus border-radius-12 text-o-color-1 fa-lg rounded bg-o-color-3"></i>
+                                            </a>
+                                        </div>
+                                        <div class="pt-3">
+                                            <h6><a href="#" class="text-reset">Printed Mobile Cover</a></h6>
+                                            <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-sm-6 pt16 pb16">
+                                    <div class="hover-scale">
+                                        <div class="hover-scale-in position-relative border-radius-12 portfolio-box-05">
+                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" title="" alt="" />
+                                            <a class="position-absolute top-0 right-0 mt-3 me-3" href="#">
+                                                <i class="fa-1x m-auto fa fa-plus border-radius-12 text-o-color-1 fa-lg rounded bg-o-color-3"></i>
+                                            </a>
+                                        </div>
+                                        <div class="pt-3">
+                                            <h6><a href="#" class="text-reset">Printed Mobile Cover</a></h6>
+                                            <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-sm-6 pt16 pb16">
+                                    <div class="hover-scale">
+                                        <div class="hover-scale-in position-relative border-radius-12 portfolio-box-05">
+                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" title="" alt="" />
+                                            <a class="position-absolute top-0 right-0 mt-3 me-3" href="#">
+                                                <i class="fa-1x m-auto fa fa-plus border-radius-12 text-o-color-1 fa-lg rounded bg-o-color-3"></i>
+                                            </a>
+                                        </div>
+                                        <div class="pt-3">
+                                            <h6><a href="#" class="text-reset">Printed Mobile Cover</a></h6>
+                                            <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-sm-6 pt16 pb16">
+                                    <div class="hover-scale">
+                                        <div class="hover-scale-in position-relative border-radius-12 portfolio-box-05">
+                                            <img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x1100.jpg" title="" alt="" />
+                                            <a class="position-absolute top-0 right-0 mt-3 me-3" href="#">
+                                                <i class="fa-1x m-auto fa fa-plus border-radius-12 text-o-color-1 fa-lg rounded bg-o-color-3"></i>
+                                            </a>
+                                        </div>
+                                        <div class="pt-3">
+                                            <h6><a href="#" class="text-reset">Printed Mobile Cover</a></h6>
+                                            <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </textarea>
+                <h6>Portfolio 5</h6>
+                <label class="e-sb-label" for="e_portfolio_05"><input id="e_portfolio_05" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+</templates>

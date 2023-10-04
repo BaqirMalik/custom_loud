@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<templates id="as_processbar_templates">
+
+<t t-name="theme_avid.progressbar_temp1">
+    <div class="col-md-3">
+        <div class="e_sb_snnippet_box">
+            <div class="img">
+                <img src="/theme_avid/static/src/img/snippets/snippets_icon/processbar-1.jpg" />
+            </div>
+            <div class="snippet-as">
+                <textarea class="sr-only snippet-textarea">
+                	<section class="s_progress_bar oe_snippet_body as-processbar-snippet-01" data-display="inline" data-snippet="s_progress_bar" data-name="Progress Bar">
+                		<div class="container-fluid">
+                			<div class="row align-items-center">
+                				<div class="col-lg-6 pt16 pb16">
+                					<img class="img-fluid" src="/theme_avid/static/src/img/snippets/placeholder/1000x700.jpg" />
+                				</div>
+                				<div class="col-lg-6 pt16 pb16">
+                					<div class="card border-0 rounded-0 p-5">
+                						<h1>Unlimited power and customization possibilities.</h1>
+                						<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                						<div class="pt-4">
+                							<p class="mb-0"></p>
+                						</div>
+                					</div>
+                				</div>
+                			</div>
+                		</div>
+                	</section>
+                </textarea>
+                <h6>Processbar 1</h6>
+                <label class="e-sb-label" for="e_processbar_01"><input id="e_processbar_01" name="radio-snippet" type="radio" /><span /></label>
+            </div>
+        </div>
+    </div>
+</t>
+
+</templates>
